@@ -102,4 +102,4 @@ NOTE: Each series can be separately downloaded with respective name from any of 
 ### 3. Search API  
 
 The search JSON contains the array of all question ever addressed by EMAM. This file can be used to generate search results from his lectures and look for questions addressed within lectures.  
-You can see the Demo [here.](https://askemam.web.app/) and source code [here](https://github.com/waleedbutt98/askemam).
+You can see the Demo [here.](https://askemam.pk/).
