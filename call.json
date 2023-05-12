@@ -1,5 +1,312 @@
 [
   {
+    "v": "UnSTfvc-U9k",
+    "title": "027-Episode : Ask Questions With Engineer Muhammad Ali Mirza on Live Video Call",
+    "publishDate": "2023-05-11T16:00:00.000Z",
+    "uploadDate": "2023-05-11T16:00:00.000Z",
+    "recordingDate": "2023-05-11T16:00:00.000Z",
+    "series": "call",
+    "timestamps": [
+      {
+        "other": true,
+        "text": "Start & Introduction !!",
+        "t": 0
+      },
+      {
+        "type": "question",
+        "t": 267,
+        "text": "Sadqa ka main haqdar kon hai ??"
+      },
+      {
+        "type": "question",
+        "t": 379,
+        "text": "Universities mei co education aur na mehram say interaction ??"
+      },
+      {
+        "type": "question",
+        "t": 516,
+        "text": "Nikkah k baad Walima Lazmi ??"
+      },
+      {
+        "type": "question",
+        "t": 634,
+        "text": "Ali bhai k students aese hi hai jese Nabi ﷺ k Sahaba ??"
+      },
+      {
+        "type": "question",
+        "t": 872,
+        "text": "Girlfriend ko chorna say uska dil dukhay ga to kiya us say rishta continue kar saktay ??"
+      },
+      {
+        "type": "question",
+        "t": 939,
+        "text": "Plumber ka Washroom/Gutter Pipes k sath kaam karna aur Ganday Pani say bachna ??"
+      },
+      {
+        "type": "question",
+        "t": 1072,
+        "text": "Jalsa Isteharat ka kaha likha hai k na karna hai ghalat hai ?? "
+      },
+      {
+        "type": "question",
+        "t": 1226,
+        "text": "Husband Wife khush ni hai to kiya karei ??"
+      },
+      {
+        "type": "question",
+        "t": 1296,
+        "text": "Amma Ayesha business mei parda kese karti thi ??"
+      },
+      {
+        "type": "question",
+        "t": 1386,
+        "text": "Biddat ka kaha par likha huwa k nahi karna chahye ??",
+        "references": [
+          {
+            "v": "cfvp8EhJYaM",
+            "title": "ISLAM mein Acha Tareeqah & Bura Tareeqah ??? Achi BID'AT & Buri BID'AT ??? Engr. Muhammad Ali Mirza",
+            "publishDate": "2020-01-08T00:00:00.000Z",
+            "uploadDate": "2020-01-08T00:00:00.000Z"
+          },
+          {
+            "v": "Dnkz6d4HxaA",
+            "title": "75-a-Mas'alah (Complete): Achi aur Buri BID'AT say Motalliq FIRQAWARANA NAZRIYAAT ka TAHQEEQI Jaiza",
+            "publishDate": "2013-06-23T00:00:00.000Z",
+            "uploadDate": "2013-06-23T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 1580,
+        "text": "Khula k baad wirasat bivi ko milay gi ??"
+      },
+      {
+        "type": "question",
+        "t": 1695,
+        "text": "Business mei Zakaat udhaar k maal pe bhi hogi ??"
+      },
+      {
+        "type": "question",
+        "t": 1771,
+        "text": "Imaan-e-Abi Talib aur Waliden-e-Mustafa pe Sukoot hai to Hazrat Muawiya k Case mei kyun ni ??"
+      },
+      {
+        "type": "question",
+        "t": 2059,
+        "text": "Ali bhai Qadianio ki kitabo say gustakhana ibaratei kyun ni latay ??"
+      },
+      {
+        "type": "question",
+        "t": 2220,
+        "text": "Gold udhaar dya huwa, jisko dya huwa wo zakaat de ga ya khud deni hogi ??"
+      },
+      {
+        "type": "question",
+        "t": 2298,
+        "text": "Kisi say chori ka maal khareedna sahi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 2329,
+        "text": "Neo TV Wali video pe ads ??"
+      },
+      {
+        "type": "question",
+        "t": 2457,
+        "text": "State ki taraf say issued prize bond sahi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 2579,
+        "text": "Ali bhai say Mulaqaat kese karei ??"
+      },
+      {
+        "other": true,
+        "t": 2626,
+        "text": "Just Talk !!"
+      },
+      {
+        "t": 2733,
+        "text": "Farhaad Bhai from Afghanistan !! Afghanistan Aur Taliban ki Hakoomat !!"
+      },
+      {
+        "type": "question",
+        "t": 3062,
+        "text": "Qabar Pakki ki huwi ho to usko Tor Saktay ?? Mayyat ko Esal-e-Sawab ??"
+      },
+      {
+        "type": "question",
+        "t": 3186,
+        "text": "Ali bhai ki videos ki dubbing aur subtitles banana sahi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 3252,
+        "text": "Afghanistan aur Pakistan mei Nafratei ??"
+      },
+      {
+        "type": "question",
+        "t": 3401,
+        "text": "Pakistan Aur Afghanistan ko India Lara raha ??"
+      },
+      {
+        "type": "question",
+        "t": 3551,
+        "text": "Faroohi Masail mei Aik say zyada tareeqo say confusion phelti ??"
+      },
+      {
+        "type": "question",
+        "t": 3686,
+        "text": "Tabeen k time pe ikhtilaaf kyun ?? Fatiha Khalf-ul-Imaam ??",
+        "references": [
+          {
+            "v": "tTCp2KtUOCQ",
+            "title": "New IMAM kay Peechay Surah-e-FATEHA ka Mas'alah ??? Ahl-e-Hadith Vs Hanafi ??? Engineer Muhammad Ali",
+            "publishDate": "2023-02-03T00:00:00.000Z",
+            "uploadDate": "2023-02-03T00:00:00.000Z"
+          },
+          {
+            "v": "l9od5fquIww",
+            "title": "New_IMAM kay peechay Surah-e-FATEHA parhnay ka SAHEH Mas'alah ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2018-05-21T00:00:00.000Z",
+            "uploadDate": "2018-05-21T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "other": true,
+        "t": 3758,
+        "text": "Life Story Questions'"
+      },
+      {
+        "number": 1,
+        "type": "question",
+        "t": 3802,
+        "text": "Hazrat Ammar رضي الله عنه ne Hazrat Uthman رضي الله عنه pe Sab kiya ?? Hazrat Ali رضي الله عنه pe Sab honay ka Waqia Karbala k baad ka hai ???"
+      },
+      {
+        "type": "question",
+        "t": 3902,
+        "text": "Kiya Jinno ko Qabo kiya ja sakta hai ??"
+      },
+      {
+        "type": "question",
+        "t": 3954,
+        "text": "Sonay ki Naak Lagana ?? Jism ka Aeb chupanay k liye Tattoo Banwana ??"
+      },
+      {
+        "type": "question",
+        "t": 4022,
+        "text": "Bilkul peechay namazi ho to uskay agay say guzar saktay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4081,
+        "text": "Ali bhai ki aur unkay students ki security ??"
+      },
+      {
+        "type": "question",
+        "t": 4106,
+        "text": "Khudkushi karnay walay pe blame kyun jab k taqdeer mei likha huwa hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4173,
+        "text": "Jumat-e-Islami ka Iqamat-e-Deen ka Tariqa ghalat hai ?? Ap JI ko support kyun ni kartay ??",
+        "references": [
+          {
+            "v": "ACccpDXN2Rg",
+            "title": "KHELAFAT ka System in Pakistan ??? Bitter FACTS about Today's MUSLIM ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-02-19T00:00:00.000Z",
+            "uploadDate": "2022-02-19T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4246,
+        "text": "Ali bhai sahaba ki ghaltia kyun bayaan kartay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4482,
+        "text": "Kisi ne wirasat na taqseem ki ho to unkay ghar karaye pe reh saktay ??"
+      },
+      {
+        "type": "question",
+        "t": 4522,
+        "text": "Kisi bhi mamlay mei kis hadd tak toriya kiya ja sakta hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4610,
+        "text": "Aulaad pede hotay hi faut ho jati koi wazeefa bataei ??"
+      },
+      {
+        "type": "question",
+        "t": 4710,
+        "text": "Jo Dawat Qubool kar k ghar walo say dartay hai unko kiya kahei ??"
+      },
+      {
+        "type": "question",
+        "t": 4802,
+        "text": "Middle Man aur Buyer mei Gharrar ho to Seller ko beech mei parhna chahye ??"
+      },
+      {
+        "type": "question",
+        "t": 4879,
+        "text": "Allah k Qanoon ki khilaf Warzi k khilaaf Ali bhai kyun ni boltay ??"
+      },
+      {
+        "type": "question",
+        "t": 4991,
+        "text": "Taraweeh ki namaz k peechay Isha ki namaz ho jati hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5139,
+        "text": "Non Muslim Government ki Following karni hoti ??",
+        "references": [
+          {
+            "v": "z9dZw1QjbGk",
+            "title": "TAQLEED peh Munazarah ??? Mufti Tariq Masood & Hanafi ULMA ko Dawat-e-HAQ ! Engr. Muhammad Ali Mirza",
+            "publishDate": "2021-04-06T00:00:00.000Z",
+            "uploadDate": "2021-04-06T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5230,
+        "text": "Rasool Allah ﷺ ne aik sahabi ko kaha tha k \"Tera baap aur mera baap jahannam mei hai\" ??",
+        "references": [
+          {
+            "v": "N3wGDe8A-iM",
+            "title": "98-Mas'alah: EMAAN-e-ABE TALIB aur WALIDAIN-e-MUSTAFA ﷺ say motalliq Saheh AQEEDAH kia hai ???",
+            "publishDate": "2014-09-27T00:00:00.000Z",
+            "uploadDate": "2014-09-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5291,
+        "text": "Larkio ka Perfume lagana haraam hai to usko sale karna bhi haraam hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5399,
+        "text": "Mujadid Alif Sani Sheikh Ahmed Sarhandi vs Sheikh Abdul Qadir Jilani ??"
+      },
+      {
+        "other": true,
+        "t": 5719,
+        "text": "Conclusion !!"
+      }
+    ]
+  },
+  {
     "v": "d4l8DHTijPc",
     "title": "026-Episode: Ask Questions  With Engineer Muhammad Ali Mirza on Live Video Call | Shahid & Bilal Off",
     "publishDate": "2023-05-04T16:00:00.000Z",
