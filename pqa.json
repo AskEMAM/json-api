@@ -1,5 +1,204 @@
 [
   {
+    "v": "_Pwt9h_LSoI",
+    "title": "077-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (15-Jan-2023)",
+    "publishDate": "2023-05-18T06:00:00.000Z",
+    "uploadDate": "2023-05-18T06:00:00.000Z",
+    "recordingDate": "2023-05-18T06:00:00.000Z",
+    "series": "pqa",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start of 077-Public Q & A Session & Meeting (Entry & Introduction)"
+      },
+      {
+        "type": "question",
+        "t": 65,
+        "text": "Death of Allama Saeed Asad رحمہ اللہ ??? Reply on \"NABI ﷺ ki Gustakhi\" !!!"
+      },
+      {
+        "type": "question",
+        "t": 2114,
+        "text": "New Peer Baba SHALWAR Shah Jee ??? Kia SHIRK Khatam ho chuka hai ???"
+      },
+      {
+        "type": "question",
+        "t": 3737,
+        "text": "Reply to Mufti Hanif Qureshi on \"QADIYANI\" ! ! ! Mini_GOD Issue Vs SHIRK ???"
+      },
+      {
+        "type": "question",
+        "t": 4965,
+        "text": "New IMAM kay Peechay Surah-e-FATEHA ka Mas'alah ??? Ahl-e-Hadith Vs Hanafi ???"
+      },
+      {
+        "type": "question",
+        "t": 6685,
+        "text": "Ghar wale Rafa Yadain se Namaz Parhnay se Mana Karte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 7469,
+        "text": "Chaasht aur Ishraq ki Namaz ka Waqt ???"
+      },
+      {
+        "type": "question",
+        "t": 7648,
+        "text": "Quran ka Nuzool aur Anbiya علیہم السلام ki Qurani Duayen ???"
+      },
+      {
+        "type": "question",
+        "t": 7732,
+        "text": "Khilafat o Malukiyat mein Hazrat Usman رضی اللہ عنہ ki Toheen ???"
+      },
+      {
+        "type": "question",
+        "t": 8381,
+        "text": "Social Media peh Ayat aur Hadith Share karne se Sawab ???"
+      },
+      {
+        "type": "question",
+        "t": 8411,
+        "text": "Ghar wale Rafa Yadain karne se Mana karte hein ???  "
+      },
+      {
+        "type": "question",
+        "t": 8435,
+        "text": "kya Raat ko Karobar karna Haram hai ???"
+      },
+      {
+        "type": "question",
+        "t": 8486,
+        "text": "Bagh e Fadak ka Mas'alah ???"
+      },
+      {
+        "type": "question",
+        "t": 8572,
+        "text": "Agar Maghrib ki Namaz Nikal jaye to Isha ke Baad Parhna ???",
+        "references": [
+          {
+            "v": "dlihupCx9yY",
+            "title": "02 Namazon ko JAMA kerna ??? [ Zohar + Asar ] & [ Maghrib + Esha ] ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-12-06T00:00:00.000Z",
+            "uploadDate": "2022-12-06T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 8605,
+        "text": "Fajar ki Sunnaten Farz Namaz ke Waqt Parhna ???"
+      },
+      {
+        "type": "question",
+        "t": 8686,
+        "text": "Ali bhai aapke Sath koi Aalim kyun nehi hai ???"
+      },
+      {
+        "type": "question",
+        "t": 9429,
+        "text": "Khana Kaabah mein 360 But kyun thay ???"
+      },
+      {
+        "type": "question",
+        "t": 9453,
+        "text": "Allah se Dua Maangne ka Tarika ???"
+      },
+      {
+        "type": "question",
+        "t": 9511,
+        "text": "Hajj ya Umra keliye Jama kiye gaye paisay Kharch karna ???"
+      },
+      {
+        "type": "question",
+        "t": 9525,
+        "text": "Allah keliye Muzakkar ka Seegha Use karna ???"
+      },
+      {
+        "type": "question",
+        "t": 9576,
+        "text": "kya Gidar Singi Sach mein hai ???"
+      },
+      {
+        "type": "question",
+        "t": 9624,
+        "text": "Esa علیہ السلام se Khilafat ka Mashwara kyun nehi liya ???",
+        "references": [
+          {
+            "v": "WK8pozi1BB0",
+            "title": "Hazrat ESA عليہ السلام ki HAYAT aur NUZOOL ??? Reply to GHAMIDI حفظہ اللہ (Engr. Muhammad Ali Mirza)",
+            "publishDate": "2020-10-11T00:00:00.000Z",
+            "uploadDate": "2020-10-11T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 9747,
+        "text": "Gustakhon ko Qatal karna Sunnat hai ???"
+      },
+      {
+        "type": "question",
+        "t": 9864,
+        "text": "Quran ko kese Samjhna Chahiye ???"
+      },
+      {
+        "type": "question",
+        "t": 10001,
+        "text": "Talaq ke Baad Maa ka Bachon se Milna ???"
+      },
+      {
+        "type": "question",
+        "t": 10034,
+        "text": "Shia ki Hadith ki Kitabon peh Amal kar sakte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 10059,
+        "text": "kya Sunnat ka Mutbadil Biddat hai ???"
+      },
+      {
+        "type": "question",
+        "t": 10119,
+        "text": "Real State mein Fixed paise lagana Sood hai ???"
+      },
+      {
+        "type": "question",
+        "t": 10153,
+        "text": "Shia ke Ghar wale Sunni Masjid mein Namaz Parhnay se Mana karte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 10244,
+        "text": "Aulad ka Maa Baap ko Esal e Sawab karna ???  =0s",
+        "references": [
+          {
+            "v": "-rukPV_LFwE",
+            "title": "Esal-e-SAWAB kay 10-Sunnat TAREEQAY ??? Mayyit kay liay QUR'AN Perhna ??? By Engineer Muhammad Ali",
+            "publishDate": "2020-10-28T00:00:00.000Z",
+            "uploadDate": "2020-10-28T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 10294,
+        "text": "Agar koi kisi se Sachi Mohabbat karta ho to ???"
+      },
+      {
+        "type": "question",
+        "t": 10351,
+        "text": "Sham ko Peyaz khana Ghalat hai ???"
+      },
+      {
+        "other": true,
+        "t": 10403,
+        "text": "DUAA and Conclusion of Public Q & A Session 077-Public Q & A Session"
+      }
+    ]
+  },
+  {
     "v": "WIU9yCmz2jc",
     "title": "076-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (08-Jan-2023)",
     "publishDate": "2023-05-04T06:00:00.000Z",
