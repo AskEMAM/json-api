@@ -1,5 +1,236 @@
 [
   {
+    "v": "ypmRZDqRkv4",
+    "title": "029-Episode : Ask Questions With Engineer Muhammad Ali Mirza on Live Video Call",
+    "publishDate": "2023-05-25T16:00:00.000Z",
+    "uploadDate": "2023-05-25T16:00:00.000Z",
+    "recordingDate": "2023-05-25T16:00:00.000Z",
+    "series": "call",
+    "timestamps": [
+      {
+        "other": true,
+        "text": "Start & Introduction !!",
+        "t": 0
+      },
+      {
+        "type": "question",
+        "t": 244,
+        "text": "Darhi pe Mahandi lagana aur Rang karna ??"
+      },
+      {
+        "type": "question",
+        "t": 364,
+        "text": "Choti jarabo pe masah ??"
+      },
+      {
+        "type": "question",
+        "t": 402,
+        "text": "Regular Namazei Jama karna ??"
+      },
+      {
+        "type": "question",
+        "t": 508,
+        "text": "Buhat Zyada Qasmei Khana ?? Qasmo ka Kafara ??"
+      },
+      {
+        "type": "question",
+        "t": 596,
+        "text": "Masjid-e-Ayesha say Ahraam Bandhna ?? Makkah k Rehaishi Umrah kese karei ??"
+      },
+      {
+        "type": "question",
+        "t": 641,
+        "text": "2 Nafal Haram k Parhna Zaroori hai ??"
+      },
+      {
+        "other": true,
+        "t": 708,
+        "text": "Ali bhai say Casual Baat !!"
+      },
+      {
+        "type": "question",
+        "t": 903,
+        "text": "Ali bhai k Research Paper Bengali mei hai ??"
+      },
+      {
+        "type": "question",
+        "t": 970,
+        "text": "Bangladesh say Academy anay k liye Invitation Letter mil sakta hai ??"
+      },
+      {
+        "type": "question",
+        "t": 1280,
+        "text": "Plot Files ka Karobar Haraam ?? Plot lena aur Price Barhnay pe Sale karna haraam ??"
+      },
+      {
+        "type": "question",
+        "t": 1370,
+        "text": "Dunyawi Taleem Parhana (Teaching) karna halal hai ??"
+      },
+      {
+        "bold": "true",
+        "type": "question",
+        "t": 1502,
+        "text": "Rafa-ul-Yadain kis Maqam par Mana hai ??"
+      },
+      {
+        "type": "question",
+        "t": 1713,
+        "text": "Digital Marketing mei Haraam Business ki Marketing karna sahi hai ??",
+        "references": [
+          {
+            "v": "v_aG8j1vkNc",
+            "title": "Cryptocurrency, Forex Trading & Shares ??? Islamic Banking & SOOD ??? HALAL Business kay 4-Rules ???",
+            "publishDate": "2020-10-06T00:00:00.000Z",
+            "uploadDate": "2020-10-06T00:00:00.000Z"
+          },
+          {
+            "v": "fB6nCUqrejs",
+            "title": "HARAM Maal kamanay walay ki TAOBAH ??? RISHWAT walay ki TAOBAH ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2020-07-11T00:00:00.000Z",
+            "uploadDate": "2020-07-11T00:00:00.000Z"
+          },
+          {
+            "v": "waq3977zxXk",
+            "title": "Halal & Haram Business ??? Dropshipping & Online Business ??? Copyrights of Products & Softwares ???",
+            "publishDate": "2019-04-29T00:00:00.000Z",
+            "uploadDate": "2019-04-29T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 1971,
+        "text": "Non Muslim Countries mei Mortgage lena ??"
+      },
+      {
+        "type": "question",
+        "t": 2108,
+        "text": "Installment pe cheez le kar us say earning karna halaal hoga ??"
+      },
+      {
+        "type": "question",
+        "t": 2176,
+        "text": "Murder Attempt k Dar say Anti State Activity karna sahi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 2346,
+        "text": "Ali bhai say baat karnay ka tariqa ???"
+      },
+      {
+        "type": "question",
+        "t": 2453,
+        "text": "Allah ka naam sun kar Imagination Banana ??"
+      },
+      {
+        "type": "question",
+        "t": 2593,
+        "text": "Qalala ka Issue ??",
+        "references": [
+          {
+            "v": "bUTWFuLumOY",
+            "title": "WIRASAT ki Calculation & Ahkam-o-Masa'il ??? Wasiyyat & Hibbah kay AHKAM??? (Engineer Muhammad Ali)",
+            "publishDate": "2021-01-27T00:00:00.000Z",
+            "uploadDate": "2021-01-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 2651,
+        "text": "Ghussay mei Hawa mei Gali dena ??"
+      },
+      {
+        "type": "question",
+        "t": 2803,
+        "text": "Civil Engineers ka Non Muslim Ibadat Gaho aur Butto ko Banana ??"
+      },
+      {
+        "type": "question",
+        "t": 3072,
+        "text": "Services mei extra charge karna sood hai ??"
+      },
+      {
+        "type": "question",
+        "t": 3270,
+        "text": "Hazrat Muawiya pe Qatal ka Fatwa Lagta hai ??"
+      },
+      {
+        "type": "question",
+        "t": 3576,
+        "text": "Tashahhud mei \"Rabij Alni\" wali dua parhnay say Ali bhai ne mana kiya ??"
+      },
+      {
+        "type": "question",
+        "t": 3740,
+        "text": "Musalmano ka Europe mei Mortgage pe Masjid lena ??"
+      },
+      {
+        "type": "question",
+        "t": 4007,
+        "text": "Mushrik k peechay Namaz ni hoti ??",
+        "references": [
+          {
+            "v": "oKEIAfVnZnE",
+            "title": "[ English ] SHIRK walay IMAM kay peechay NAMAZ ??? Fitna-e-TAKFEER ??? 03-SAHABAH r.a ka FATWA ???",
+            "publishDate": "2022-04-13T00:00:00.000Z",
+            "uploadDate": "2022-04-13T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4078,
+        "text": "Quran Hadith ka Darja Barabar hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4446,
+        "text": "Islamic Law ap qaim kyun ni kartay ??"
+      },
+      {
+        "type": "question",
+        "t": 4636,
+        "text": "India say Jhelum ana k liye Ali bhai Visa dete ??"
+      },
+      {
+        "type": "question",
+        "t": 4782,
+        "text": "Shibli Rasool Allah (Naoozubillah) Allama Shibli Noumani k Naam ka Kalma hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4840,
+        "text": "Allah k liye Waqf huwi wi zameen ko khareedna aur bechna haram hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4986,
+        "text": "Zameen ka Waris na mil rha ho to Govt say khareed saktay ??"
+      },
+      {
+        "t": 5122,
+        "text": "Shia say Muslim Hona ??"
+      },
+      {
+        "type": "question",
+        "t": 5189,
+        "text": "Moala Ali ka Naam lena Ibadat hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5253,
+        "text": "Har waqt \"Ya Ali\" kehna sahi hai ?? "
+      },
+      {
+        "other": true,
+        "t": 5422,
+        "text": "Conclusion !!"
+      }
+    ]
+  },
+  {
     "v": "qqpRigXJY6U",
     "title": "028-Episode : Ask Questions With Engineer Muhammad Ali Mirza on Live Video Call",
     "publishDate": "2023-05-18T16:00:00.000Z",
@@ -3231,7 +3462,7 @@
       {
         "type": "question",
         "t": 2320,
-        "text": "Hazrat Ali رضي الله عنه ne Hazrat Ayesha سلامُ اللّٰہِ علیہا say Talaaq ka mashwara diya tha ??"
+        "text": "Hazrat Ali رضي الله عنه ne Hazrat Ayesha سلامُ اللّٰہِ علیہا say Talaq ka mashwara diya tha ??"
       },
       {
         "type": "question",
@@ -5297,7 +5528,7 @@
       {
         "type": "question",
         "t": 4913,
-        "text": "Jinnat Talaaq karwa saktay ??"
+        "text": "Jinnat Talaq karwa saktay ??"
       },
       {
         "type": "question",
@@ -5560,7 +5791,7 @@
       {
         "type": "question",
         "t": 1265,
-        "text": "Teen (3) Talaaq mei Ummat ka Ijima ?? Shia ka Teen Talaaq pe Moaqiff ??"
+        "text": "Teen (3) Talaq mei Ummat ka Ijima ?? Shia ka Teen Talaq pe Moaqiff ??"
       },
       {
         "type": "question",
@@ -6767,7 +6998,7 @@
       {
         "type": "question",
         "t": 929,
-        "text": "Talaaq k Baad khud say tajdeed kar dene say nikkah revert ho jayega ??"
+        "text": "Talaq k Baad khud say tajdeed kar dene say nikkah revert ho jayega ??"
       },
       {
         "type": "question",
@@ -7198,7 +7429,7 @@
       {
         "type": "question",
         "t": 639,
-        "text": "Sirf Talaaq k Word pe Talaaq Hoti ?? Kiya Aesi Condition Start mei Rakh Saktay ??"
+        "text": "Sirf Talaq k Word pe Talaq Hoti ?? Kiya Aesi Condition Start mei Rakh Saktay ??"
       },
       {
         "type": "question",
@@ -7384,7 +7615,7 @@
       {
         "type": "question",
         "t": 6638,
-        "text": "Ali Bhai teen talaaq k masla mei ghoro fikr karei ?? Surah Nisa mei Aya k Teen Talaaq Aik Tasawwur Hogi ??"
+        "text": "Ali Bhai teen talaaq k masla mei ghoro fikr karei ?? Surah Nisa mei Aya k Teen Talaq Aik Tasawwur Hogi ??"
       },
       {
         "type": "question",

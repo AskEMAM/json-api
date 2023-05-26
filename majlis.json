@@ -4065,7 +4065,7 @@
       {
         "type": "question",
         "t": 3465,
-        "text": "Beghair Rukhsati k Talaaq Dene pe Halala Kar Saktay ??"
+        "text": "Beghair Rukhsati k Talaq Dene pe Halala Kar Saktay ??"
       },
       {
         "type": "question",
@@ -10190,7 +10190,7 @@
       {
         "type": "question",
         "t": 13524,
-        "text": "Mola Ali As Ne Hazrat Aisha Ra Ko Talaaq Dene Ka Mashwara Q Diya Tha ?",
+        "text": "Mola Ali As Ne Hazrat Aisha Ra Ko Talaq Dene Ka Mashwara Q Diya Tha ?",
         "references": [
           {
             "text": "Complete Hadith-e-IFK : Sayyidah Aayeshah r.a peh BOHTAN aur ALLAH ki janib say unki BRA'AT ka ELAN",
@@ -10405,7 +10405,7 @@
       {
         "type": "question",
         "t": 6904,
-        "text": "Talaaq k Baad Bachay Maan k Hawalay Karna Aur Kharcha Baap ne dena Jaiz Hai ??"
+        "text": "Talaq k Baad Bachay Maan k Hawalay Karna Aur Kharcha Baap ne dena Jaiz Hai ??"
       },
       {
         "type": "question",
@@ -10460,7 +10460,7 @@
       {
         "type": "question",
         "t": 8751,
-        "text": "Shart/Qasam ki Bunyaad pe Talaaqei De Dena ??"
+        "text": "Shart/Qasam ki Bunyaad pe Talaqei De Dena ??"
       },
       { "type": "question", "t": 8866, "text": "Jang-e-Yamama Kyun Hwi ??" },
       { "type": "question", "t": 9147, "text": "Jang Aur Ghazwa mei Farq ??" },
@@ -10757,7 +10757,7 @@
       {
         "type": "question",
         "t": 11791,
-        "text": "Talaaq Dene ko Mushkil Bananay k Liye Mehar ki Raqam Zyada Rakhna ??"
+        "text": "Talaq Dene ko Mushkil Bananay k Liye Mehar ki Raqam Zyada Rakhna ??"
       },
       {
         "type": "question",
@@ -10877,7 +10877,7 @@
       {
         "type": "question",
         "t": 15176,
-        "text": "Teen Talaaq Likh kay Dene pe Talaaq ho jati ??"
+        "text": "Teen Talaq Likh kay Dene pe Talaq ho jati ??"
       },
       {
         "type": "question",
@@ -11079,7 +11079,7 @@
       {
         "type": "question",
         "t": 8535,
-        "text": "Aurat ko Talaaq ka Haq hai ??"
+        "text": "Aurat ko Talaq ka Haq hai ??"
       },
       {
         "type": "question",
@@ -11770,7 +11770,7 @@
       {
         "type": "question",
         "t": 6962,
-        "text": "Talaaq Ka Lafz Kahay Beghair Biwi Ko Kehna K Tu \"Farigh\" Hai To Talaaq Ho Jati ??"
+        "text": "Talaq Ka Lafz Kahay Beghair Biwi Ko Kehna K Tu \"Farigh\" Hai To Talaq Ho Jati ??"
       },
       {
         "type": "question",
@@ -13043,7 +13043,7 @@
         "text": "Hajj-e-Tamatto mei Pehle Umrah Karna ??"
       },
       { "type": "question", "t": 8049, "text": "Namaz mei Uncha Parhna ??" },
-      { "type": "question", "t": 8067, "text": "Nashay mei Talaaq Ho Jati ??" },
+      { "type": "question", "t": 8067, "text": "Nashay mei Talaq Ho Jati ??" },
       {
         "type": "question",
         "t": 8111,
@@ -15208,7 +15208,7 @@
       { "type": "question", "text": "Rukoo mei Rakaat Mil Jati ??", "t": 9424 },
       {
         "type": "question",
-        "text": "Nikkah mei Aurat ko Talaaq ki Ijazat dene ki shart Rakhna ??",
+        "text": "Nikkah mei Aurat ko Talaq ki Ijazat dene ki shart Rakhna ??",
         "t": 9451
       },
       {
@@ -15891,7 +15891,7 @@
       },
       {
         "type": "question",
-        "text": "Maan Baap ki Talaaq mei Aulaad kiska sath de ??",
+        "text": "Maan Baap ki Talaq mei Aulaad kiska sath de ??",
         "t": 5412
       },
       {
@@ -16456,7 +16456,7 @@
       { "type": "question", "text": "Na Baligh ka Hisaab ??", "t": 5053 },
       {
         "type": "question",
-        "text": "3 Talaaq ko Aik Samjh kar Biwi k Sath Rehna ??",
+        "text": "3 Talaq ko Aik Samjh kar Biwi k Sath Rehna ??",
         "t": 5088
       },
       {
@@ -16747,7 +16747,7 @@
       },
       {
         "type": "question",
-        "text": "Aurat ko Mard Talaaq Na de to wo Khula Le Sakti ??",
+        "text": "Aurat ko Mard Talaq Na de to wo Khula Le Sakti ??",
         "t": 2262,
         "references": [
           {
@@ -17906,7 +17906,7 @@
         "text": "Sirf Musalmaan Kehna Kaafi Hai ??",
         "t": 4040
       },
-      { "type": "question", "text": "Rukhsati say Pehle Talaaq ??", "t": 4113 },
+      { "type": "question", "text": "Rukhsati say Pehle Talaq ??", "t": 4113 },
       {
         "type": "question",
         "text": "Tazkiyya k Liye Koi Kitaab ??",
