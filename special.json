@@ -544,5 +544,30 @@
         "text": "Latest Atheists k aetaraazat k jawabaat pe podcast record kar lei ??"
       }
     ]
+  },
+  {
+    "v": "6m_oTLntx8c",
+    "title": "87 - Special Q & A Session after Public Session No. 87  (23-Mar-2023) | Engineer Muhammad Ali Mirza",
+    "publishDate": "2023-03-29T10:00:00.000Z",
+    "uploadDate": "2023-03-29T10:00:00.000Z",
+    "recordingDate": "2023-03-23T10:00:00.000Z",
+    "series": "special",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start & Introduction !!"
+      },
+      {
+        "type": "question",
+        "t": 82,
+        "text": "Iqamat-e-Deen aur Jumatei Banana ??"
+      },
+      {
+        "type": "question",
+        "t": 166,
+        "text": "Ahl-e-Sunnat kyun kehtay apnay aap ko ??"
+      }
+    ]
   }
 ]
