@@ -1430,7 +1430,7 @@
       {
         "type": "question",
         "t": 4463,
-        "text": "Ghareebon Ko Dainay Ke Liye Zakaat Ka Paisa Logon Say Jama Karna Aur Uss Ko Apnay Khud Ke Liye Istamaal Karna? Zakaat Ka Paisa Khud Par Istamaal Karnay Ka Kaffara? "
+        "text": "Ghareebon Ko Dainay Ke Liye Zakat Ka Paisa Logon Say Jama Karna Aur Uss Ko Apnay Khud Ke Liye Istamaal Karna? Zakat Ka Paisa Khud Par Istamaal Karnay Ka Kaffara? "
       },
       {
         "type": "question",
@@ -1645,7 +1645,7 @@
       {
         "type": "question",
         "t": 3382,
-        "text": "Biwi Ki Jaanib Sey Wafat Pa Chukey Shauhar Ke Naam Par Bank Mein Jama Paison Par Zakaat?"
+        "text": "Biwi Ki Jaanib Sey Wafat Pa Chukey Shauhar Ke Naam Par Bank Mein Jama Paison Par Zakat?"
       },
       {
         "type": "question",
@@ -3557,7 +3557,7 @@
       {
         "type": "question",
         "t": 7620,
-        "text": "Mein Nay Ek Famous Housing Scheme Mein Apartment Khareeda Hai Jiski Installments 2 Saal Mein Mukammal Hongi, Mera Iradah Hai Ki Mein Is Apartment Ko Kiraye Par Dunga To Kia Mujhay Is Par Zakaat Bhi Adaa Karni Hogi ?"
+        "text": "Mein Nay Ek Famous Housing Scheme Mein Apartment Khareeda Hai Jiski Installments 2 Saal Mein Mukammal Hongi, Mera Iradah Hai Ki Mein Is Apartment Ko Kiraye Par Dunga To Kia Mujhay Is Par Zakat Bhi Adaa Karni Hogi ?"
       },
       {
         "type": "question",
@@ -8493,7 +8493,7 @@
       },
       {
         "t": 10130,
-        "text": "Aj ki Date mei Munkireen-e-Zakaat k Khilaaf Jung ??",
+        "text": "Aj ki Date mei Munkireen-e-Zakat k Khilaaf Jung ??",
         "type": "question"
       },
       {
@@ -9079,7 +9079,7 @@
       {
         "type": "question",
         "t": 8160,
-        "text": "Madrasay Wale Qurbani Ki Khaalen Jama Karte Hein Aur Isko Tamleeq Kar Ke Madrasy Par Kharch Karte Hein ? Zakaat Se Bachne Keliye Mein Fiqah Hanafi Mein Likhi Heela Baziyan ?"
+        "text": "Madrasay Wale Qurbani Ki Khaalen Jama Karte Hein Aur Isko Tamleeq Kar Ke Madrasy Par Kharch Karte Hein ? Zakat Se Bachne Keliye Mein Fiqah Hanafi Mein Likhi Heela Baziyan ?"
       },
       {
         "type": "question",
@@ -10697,7 +10697,7 @@
       {
         "type": "question",
         "t": 7638,
-        "text": "Pehle Qarz Ada Karein gay ya Zakaat ??"
+        "text": "Pehle Qarz Ada Karein gay ya Zakat ??"
       },
       {
         "type": "question",
@@ -11638,11 +11638,11 @@
         "t": 5412,
         "text": "Khojay Maar ka Rozay Khulwana pe Sawaab Milta ??"
       },
-      { "type": "question", "t": 5450, "text": "Saving k Plot pe Zakaat ??" },
+      { "type": "question", "t": 5450, "text": "Saving k Plot pe Zakat ??" },
       {
         "type": "question",
         "t": 5480,
-        "text": "Qisto wali cheez pe zakaat ??"
+        "text": "Qisto wali cheez pe zakat ??"
       },
       {
         "type": "question",
@@ -11749,9 +11749,9 @@
       {
         "type": "question",
         "t": 6615,
-        "text": "Zakaat Aur Sadqay k Pese Alehda Alehda Rakhna Hota ??"
+        "text": "Zakat Aur Sadqay k Pese Alehda Alehda Rakhna Hota ??"
       },
-      { "type": "question", "t": 6643, "text": "Zakaat k Masarif ??" },
+      { "type": "question", "t": 6643, "text": "Zakat k Masarif ??" },
       {
         "type": "question",
         "t": 6654,
@@ -11800,7 +11800,7 @@
       {
         "type": "question",
         "t": 7664,
-        "text": "Zakaat Aur Sadqa-e-Fitr Gaou (Hometown) ki Masjid mei dena lazmi hai ??"
+        "text": "Zakat Aur Sadqa-e-Fitr Gaou (Hometown) ki Masjid mei dena lazmi hai ??"
       },
       { "type": "question", "t": 7769, "text": "Lait k Quran Parhna ??" },
       {
@@ -11821,7 +11821,7 @@
       {
         "type": "question",
         "t": 7910,
-        "text": "Dosray Mumalik mei Property pe Zakaat hogi ??"
+        "text": "Dosray Mumalik mei Property pe Zakat hogi ??"
       },
       {
         "type": "question",
@@ -11871,7 +11871,7 @@
       {
         "type": "question",
         "t": 8233,
-        "text": "Karai ka Advance Hamari Raqam ni hoti kya uspay Zakaat hai ?? "
+        "text": "Karai ka Advance Hamari Raqam ni hoti kya uspay Zakat hai ?? "
       },
       { "type": "question", "t": 8256, "text": "Darhi Rangna Lazmi Hai ??" },
       {
@@ -11966,7 +11966,7 @@
         "t": 8983,
         "text": "Musafa Kartay waqt Zabaan say bhi kehna Zaroori ??"
       },
-      { "type": "question", "t": 9000, "text": "Sayyid ko Zakaat ??" },
+      { "type": "question", "t": 9000, "text": "Sayyid ko Zakat ??" },
       {
         "type": "question",
         "t": 9020,
@@ -12021,7 +12021,7 @@
       {
         "type": "question",
         "t": 9338,
-        "text": "Sonay mei Milawat hoti to uski Zakaat kese dei ??"
+        "text": "Sonay mei Milawat hoti to uski Zakat kese dei ??"
       },
       {
         "type": "question",
@@ -12923,7 +12923,7 @@
       {
         "type": "question",
         "t": 6153,
-        "text": "Public k Kaamo k Liye Zakaat di ja Sakti Hai ??"
+        "text": "Public k Kaamo k Liye Zakat di ja Sakti Hai ??"
       },
       {
         "type": "question",
@@ -13187,7 +13187,7 @@
       {
         "type": "question",
         "t": 5396,
-        "text": "Darakhto ki Zakaat kese Calculate Karei ??"
+        "text": "Darakhto ki Zakat kese Calculate Karei ??"
       },
       {
         "type": "question",
@@ -13559,7 +13559,7 @@
       {
         "type": "question",
         "t": 7219,
-        "text": "Khumus Aur Zakaat Me Kia Fark Hai?"
+        "text": "Khumus Aur Zakat Me Kia Fark Hai?"
       },
       {
         "type": "question",
@@ -13778,7 +13778,7 @@
       {
         "type": "question",
         "t": 6818,
-        "text": "Makaan Rent Pe Diya To Kitni Zakaat Deni Hogi ? Rent Per Car Gaariyon Ko Kiraye Peh Den To Zakaat Lagegi  ??"
+        "text": "Makaan Rent Pe Diya To Kitni Zakat Deni Hogi ? Rent Per Car Gaariyon Ko Kiraye Peh Den To Zakat Lagegi  ??"
       },
       {
         "type": "question",
@@ -14813,7 +14813,7 @@
         "text": "Rukoo or Sajdo ki Tasbeehat Adal Badal Karna ??",
         "type": "question"
       },
-      { "t": 10102, "text": "Zakaat ki Aftaari Khana ??", "type": "question" },
+      { "t": 10102, "text": "Zakat ki Aftaari Khana ??", "type": "question" },
       { "t": 10313, "text": "Benamazi ka Roza Rakhna ??", "type": "question" },
       {
         "t": 10395,
@@ -14975,12 +14975,12 @@
       },
       {
         "t": 13473,
-        "text": "Foji ki Retirement pe Savings pe Zakaat ??",
+        "text": "Foji ki Retirement pe Savings pe Zakat ??",
         "type": "question"
       },
       {
         "t": 13548,
-        "text": "Makaan Banany k Lye Jama Kye Hwe Peso pe Zakaat ??",
+        "text": "Makaan Banany k Lye Jama Kye Hwe Peso pe Zakat ??",
         "type": "question"
       },
       { "t": 13558, "text": "Aurato ka Janaza Parhna ??", "type": "question" },
@@ -15242,7 +15242,7 @@
         "text": "Hazrat Umar رضي الله عنه ne Hazra Abu Huraira رضي الله عنه ko Ahadith Bayan karnay say Kyun Roka ??",
         "t": 9926
       },
-      { "type": "question", "text": "Bank mei Zakaat ??", "t": 9989 },
+      { "type": "question", "text": "Bank mei Zakat ??", "t": 9989 },
       {
         "type": "question",
         "text": "Kitni Dur k Safar mei Banda Musafar hoga (Namaz Qasar ya Roza Chornay k liye) ??",
@@ -15424,7 +15424,7 @@
         "t": 7489
       },
       { "type": "question", "text": "Janazay mei Taak Saffei ??", "t": 7575 },
-      { "type": "question", "text": "Commercial Plot ki Zakaat ??", "t": 7695 },
+      { "type": "question", "text": "Commercial Plot ki Zakat ??", "t": 7695 },
       {
         "type": "question",
         "text": "20 Taraweeh peh IJMA ka Jhoota DAWA ! ! Reply to Mufti Tariq Masood ! ! ",
@@ -15553,7 +15553,7 @@
       },
       {
         "type": "question",
-        "text": "Dukaan k Konsay Maal pe Zakaat ??",
+        "text": "Dukaan k Konsay Maal pe Zakat ??",
         "t": 5537
       },
       {
@@ -15747,7 +15747,7 @@
       { "type": "question", "text": "Beemar Admi ka Fidya ??", "t": 8562 },
       {
         "type": "question",
-        "text": "Zakaat Sadqa Gher Muslim ko Dena ??",
+        "text": "Zakat Sadqa Gher Muslim ko Dena ??",
         "t": 8577
       }
     ],
@@ -15847,7 +15847,7 @@
         "text": "Imaam Abu Hanifa ko Imaam-e-Azam Kehna ??",
         "t": 4156
       },
-      { "type": "question", "text": "Zakaat k Peso say Hajj ??", "t": 4277 },
+      { "type": "question", "text": "Zakat k Peso say Hajj ??", "t": 4277 },
       {
         "type": "question",
         "text": "Mayyat ko Patto say Ghusal ??",
@@ -15980,7 +15980,7 @@
       },
       {
         "type": "question",
-        "text": "Retirement k Pese pe Zakaat ??",
+        "text": "Retirement k Pese pe Zakat ??",
         "t": 6817
       },
       {
@@ -16174,10 +16174,10 @@
         "text": "Qisto mei Li Hwi Cheez pe Zakat ??",
         "t": 4834
       },
-      { "type": "question", "text": "Karay k Makaan mei Zakaat ??", "t": 4893 },
+      { "type": "question", "text": "Karay k Makaan mei Zakat ??", "t": 4893 },
       {
         "type": "question",
-        "text": "Zakaat k Peso say Haj ya Umara Karana ??",
+        "text": "Zakat k Peso say Haj ya Umara Karana ??",
         "t": 4911
       },
       {
@@ -16198,7 +16198,7 @@
       { "type": "question", "text": "Gana Suna Haram hai ??", "t": 5208 },
       {
         "type": "question",
-        "text": "Zakaat Sonay pe ya Chandi pe ??",
+        "text": "Zakat Sonay pe ya Chandi pe ??",
         "t": 5250
       },
       { "type": "question", "text": "Qabarastano mei Masjid ??", "t": 5260 },
@@ -16297,7 +16297,7 @@
           }
         ]
       },
-      { "type": "question", "text": "Imam Masjid ko Zakaat ??", "t": 2873 },
+      { "type": "question", "text": "Imam Masjid ko Zakat ??", "t": 2873 },
       { "type": "question", "text": "Aurato k Kapro ka Karobar ??", "t": 2893 },
       {
         "type": "question",
@@ -16357,11 +16357,11 @@
         "t": 3649
       },
       { "type": "question", "text": "Khawateen ki Eid ki Namaz ??", "t": 3702 },
-      { "type": "question", "text": "Plot ki Zakaat ??", "t": 3731 },
-      { "type": "question", "text": "Zakaat ki Raqam Kesay Dei ??", "t": 3765 },
+      { "type": "question", "text": "Plot ki Zakat ??", "t": 3731 },
+      { "type": "question", "text": "Zakat ki Raqam Kesay Dei ??", "t": 3765 },
       {
         "type": "question",
-        "text": "Zakaat ka Haq Daar na Ho Aur wo Zakaat Wasool Karay to Kya Krei ??",
+        "text": "Zakat ka Haq Daar na Ho Aur wo Zakat Wasool Karay to Kya Krei ??",
         "t": 3804
       },
       {
@@ -17094,7 +17094,7 @@
       },
       {
         "type": "question",
-        "text": "Zameen say Income pe Zakaat Kon Dega ?? Maalik ya Maali ??",
+        "text": "Zameen say Income pe Zakat Kon Dega ?? Maalik ya Maali ??",
         "t": 4338,
         "references": [
           {
@@ -17449,7 +17449,7 @@
       { "type": "question", "text": "Toilet mei Wuzu Karna ??", "t": 10332 },
       {
         "type": "question",
-        "text": "Sadqa Zakaat ko Poora Kar Dega Akhirat mei ??",
+        "text": "Sadqa Zakat ko Poora Kar Dega Akhirat mei ??",
         "t": 10402
       },
       {

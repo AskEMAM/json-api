@@ -5392,25 +5392,25 @@
       { "t": 707, "text": "Zakat ki Farziyat pe Ijma !" },
       { "t": 1005, "text": "Kitni or Kin Cheezo pe Zakat Farz ??" },
       { "t": 1610, "text": "Currency Note ka Masla !!" },
-      { "t": 2342, "text": "Zewaraat ki Zakaat !!" },
-      { "t": 2906, "text": "Maal-e-Tajaarat pe Zakaat !!" },
-      { "t": 3129, "text": "Commercial Plots pe Zakaat !!" },
-      { "t": 3233, "text": "Qarz pe Zakaat !!" },
-      { "t": 3339, "text": "GPF pe Zakaat !!" },
-      { "t": 3575, "text": "Bank Account se Zakaat !!" },
-      { "t": 3677, "text": "Taxes or Zakaat !!" },
-      { "t": 3835, "text": "Kin Kin Cheezo pe Zakaat ni !!" },
+      { "t": 2342, "text": "Zewaraat ki Zakat !!" },
+      { "t": 2906, "text": "Maal-e-Tajaarat pe Zakat !!" },
+      { "t": 3129, "text": "Commercial Plots pe Zakat !!" },
+      { "t": 3233, "text": "Qarz pe Zakat !!" },
+      { "t": 3339, "text": "GPF pe Zakat !!" },
+      { "t": 3575, "text": "Bank Account se Zakat !!" },
+      { "t": 3677, "text": "Taxes or Zakat !!" },
+      { "t": 3835, "text": "Kin Kin Cheezo pe Zakat ni !!" },
       { "t": 3961, "text": "Zikaat Nikalnay ka Tareeqa !!" },
-      { "t": 4311, "text": "Zakaat k Masaarif !!" },
-      { "t": 5217, "text": "Zakaat kin pe Haram !!" },
-      { "t": 5456, "text": "Zakaat Lene walay ko Batana !!" },
+      { "t": 4311, "text": "Zakat k Masaarif !!" },
+      { "t": 5217, "text": "Zakat kin pe Haram !!" },
+      { "t": 5456, "text": "Zakat Lene walay ko Batana !!" },
       {
         "t": 5768,
-        "text": "Maqrooz k Qarz Wapis na Dene pe Zakaat Tasawwar kar Lena !!"
+        "text": "Maqrooz k Qarz Wapis na Dene pe Zakat Tasawwar kar Lena !!"
       },
       {
         "t": 5848,
-        "text": "Zakaat dene say Haram maal Paak !! Hath Phelana or Mangana !!"
+        "text": "Zakat dene say Haram maal Paak !! Hath Phelana or Mangana !!"
       }
     ],
     "title": "95-b-Mas'alah: ZAKAT say motalliq 70-JADEED aur QADEEM Saheh Fiqahi Ahkam-o-Masa'il (17-ILMI Points)",
@@ -12804,7 +12804,7 @@
       {
         "type": "question",
         "t": 9115,
-        "text": "Zakaat Kis Kis ko Dena Haram Hai ?? Syed ko Kab Milay ga Khumas ?? Hazrat Omar ne Khatam Karwaya ??"
+        "text": "Zakat Kis Kis ko Dena Haram Hai ?? Syed ko Kab Milay ga Khumas ?? Hazrat Omar ne Khatam Karwaya ??"
       },
       {
         "type": "question",
@@ -14756,7 +14756,7 @@
       {
         "type": "question",
         "t": 5768,
-        "text": "Sadqa ya Zakaat Dete Waqt, Jisko De Rahay Hotay Usko Batana Zaroori hai ??"
+        "text": "Sadqa ya Zakat Dete Waqt, Jisko De Rahay Hotay Usko Batana Zaroori hai ??"
       },
       {
         "type": "question",
@@ -18517,17 +18517,17 @@
       {
         "type": "question",
         "t": 4684,
-        "text": "New Muslim ko Zakaat De Saktay Jiskay Khandaan Walay Abhi Musalmaan Ni Huwe ??"
+        "text": "New Muslim ko Zakat De Saktay Jiskay Khandaan Walay Abhi Musalmaan Ni Huwe ??"
       },
       {
         "type": "question",
         "t": 4696,
-        "text": "Agar Kisi ne Saari Zindagi ki Zakaat Ni Di to wo Hidayat Milnay k Baad lazmi de ga ??"
+        "text": "Agar Kisi ne Saari Zindagi ki Zakat Ni Di to wo Hidayat Milnay k Baad lazmi de ga ??"
       },
       {
         "type": "question",
         "t": 4714,
-        "text": "GPF pe Zakaat De Saktay ?? ",
+        "text": "GPF pe Zakat De Saktay ?? ",
         "references": [
           {
             "text": "Govt. Employee kay GPF, BANK ki ZAKAT & TAXES ka SAHEH Mas'alah Aur Kin CHEZON peh ZAKAT NAHIN hai ?",
@@ -19635,7 +19635,7 @@
       {
         "type": "question",
         "t": 3231,
-        "text": "Zakaat K Peso Say Falahi Idara Aur Qaraz-E-Hasna Jaiz Hai ??"
+        "text": "Zakat K Peso Say Falahi Idara Aur Qaraz-E-Hasna Jaiz Hai ??"
       },
       {
         "type": "question",
