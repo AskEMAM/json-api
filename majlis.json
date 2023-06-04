@@ -7,7 +7,11 @@
     "recordingDate": "2021-06-27T12:00:00.000Z",
     "series": "majlis",
     "timestamps": [
-      { "other": true, "text": "Start & Introduction !!", "t": 0 },
+      {
+        "other": true,
+        "text": "Start & Introduction !!",
+        "t": 0
+      },
       {
         "type": "question",
         "t": 48,
@@ -58,7 +62,11 @@
         "t": 10765,
         "text": "Chair & Car peh Baith ker NAMAZ parhna ??? MAREEZ kesay NAMAZ parhay ???"
       },
-      { "other": true, "t": 11315, "text": "DUAA and Conclusion !!" }
+      {
+        "other": true,
+        "t": 11315,
+        "text": "DUAA and Conclusion !!"
+      }
     ]
   },
   {
@@ -117,8 +125,14 @@
         "t": 12927,
         "text": "Why 2nd MURDER Attempt on Engineer Muhammad Ali Mirza ??? My 05 Noble CRIMES against ULMA-e-SOO ???"
       },
-      { "t": 12950, "text": "Ali Bhai ka sabka Shukria Aur Dua ??" },
-      { "t": 13191, "text": "Murder Attempt ko Kyu Zikr Ni Karna Chahtay ??" },
+      {
+        "t": 12950,
+        "text": "Ali Bhai ka sabka Shukria Aur Dua ??"
+      },
+      {
+        "t": 13191,
+        "text": "Murder Attempt ko Kyu Zikr Ni Karna Chahtay ??"
+      },
       {
         "t": 13277,
         "text": "Ali Bhai ki Roti Deen k Sath ?? Ali Bhai ka Ta'aruf ??"
@@ -127,14 +141,27 @@
         "t": 13479,
         "text": "Ulma-e-Soo ko Ali Bhai se Kya Takleef ?? Ali Bhai k 5 Juraim ??"
       },
-      { "t": 13809, "text": "Jurm 1, Sabko Musalmaan Samajhna ??" },
-      { "t": 14298, "text": "Jurm 2, Chanda or Masjid Banana ??" },
-      { "t": 15028, "text": "Jurm 3, Kitaabo se Jorna ??", "references": [] },
+      {
+        "t": 13809,
+        "text": "Jurm 1, Sabko Musalmaan Samajhna ??"
+      },
+      {
+        "t": 14298,
+        "text": "Jurm 2, Chanda or Masjid Banana ??"
+      },
+      {
+        "t": 15028,
+        "text": "Jurm 3, Kitaabo se Jorna ??",
+        "references": []
+      },
       {
         "t": 16187,
         "text": "Jurm 4, Passion or Confidence se Dawat ?? Gustakhi ka Ilzaam ??"
       },
-      { "t": 17777, "text": "Jurm 5, Saari Gumrahio ki Waja Purana Buzurg ??" },
+      {
+        "t": 17777,
+        "text": "Jurm 5, Saari Gumrahio ki Waja Purana Buzurg ??"
+      },
       {
         "t": 19072,
         "text": "Ali Bhai ki Guzarish ??  Out-of-Context Quotation ?"
@@ -194,7 +221,10 @@
   {
     "v": "qZRSvh82C2k",
     "timestamps": [
-      { "t": 0, "text": "Introduction" },
+      {
+        "t": 0,
+        "text": "Introduction"
+      },
       {
         "type": "question",
         "t": 44,
@@ -255,7 +285,10 @@
   {
     "v": "lceTBj63liA",
     "timestamps": [
-      { "t": 0, "text": "Introduction" },
+      {
+        "t": 0,
+        "text": "Introduction"
+      },
       {
         "type": "question",
         "t": 38,
@@ -311,7 +344,10 @@
   {
     "v": "E7jRLCsWyuU",
     "timestamps": [
-      { "t": 0, "text": "Introduction" },
+      {
+        "t": 0,
+        "text": "Introduction"
+      },
       {
         "type": "question",
         "t": 30,
@@ -395,7 +431,11 @@
     "publishDate": "2020-12-04T19:00:00.000Z",
     "uploadDate": "2020-12-04T19:00:00.000Z",
     "timestamps": [
-      { "other": true, "t": 0, "text": "Intro !!" },
+      {
+        "other": true,
+        "t": 0,
+        "text": "Intro !!"
+      },
       {
         "type": "question",
         "t": 34,
@@ -423,7 +463,11 @@
   {
     "v": "wFtuQjC3Hb8",
     "timestamps": [
-      { "type": "question", "t": 0, "text": "Intro" },
+      {
+        "type": "question",
+        "t": 0,
+        "text": "Intro"
+      },
       {
         "t": 1352,
         "text": "Allama KHADIM Rizvi ko REQUEST on Bank Manager QATAL ! ! ! Hanafi Brailvi & Hanafi Deobandi JANG ???"
@@ -511,7 +555,10 @@
   {
     "v": "KXS_JhJNOvQ",
     "timestamps": [
-      { "t": 0, "text": "Intro !!" },
+      {
+        "t": 0,
+        "text": "Intro !!"
+      },
       {
         "type": "question",
         "t": 34,
@@ -1732,7 +1779,10 @@
   {
     "v": "TeUWBAqFXxw",
     "timestamps": [
-      { "t": 0, "text": "Surah Fatiha (1) Ayat 1-7(END) Tilawat !!" },
+      {
+        "t": 0,
+        "text": "Surah Fatiha (1) Ayat 1-7(END) Tilawat !!"
+      },
       {
         "t": 85,
         "text": "Introduction of Peer Naseer_ud_Deen Naseer رحمہ اللہ ka TAOHEED peh KALAM : Sab ka DATA hai Too ! By EMAM"
@@ -1741,7 +1791,11 @@
         "t": 232,
         "text": "Peer Naseer_ud_Deen Naseer رحمہ اللہ ka TAOHEED peh KALAM : Sab ka DATA hai Too ! By Shoaib Azam !"
       },
-      { "t": 850, "text": "Majlis Start !!", "references": [] },
+      {
+        "t": 850,
+        "text": "Majlis Start !!",
+        "references": []
+      },
       {
         "t": 881,
         "text": "Imam MUSLIM r.a ka Muqaddimah & Aqeedah ??? Saheh AHADITH hi Kewn ???",
@@ -2095,7 +2149,10 @@
         "t": 0,
         "text": "HUSAIN Ibne ALI عليھما السلام Qurban tujh peh sari Kushi ! (By Shoaib Azam, Recorded on 23-Feb-2020)"
       },
-      { "t": 470, "text": "Regular Questions Start !!" },
+      {
+        "t": 470,
+        "text": "Regular Questions Start !!"
+      },
       {
         "type": "question",
         "t": 517,
@@ -2116,7 +2173,10 @@
         "t": 6312,
         "text": "Reply to NASBI Dr. Ashraf Asif Jalali on his FATWA & BLAME on Engineer Muhammad Ali Mirza HUSAINI !"
       },
-      { "t": 7267, "text": "Azaan Break" },
+      {
+        "t": 7267,
+        "text": "Azaan Break"
+      },
       {
         "type": "question",
         "t": 7276,
@@ -2127,7 +2187,10 @@
         "t": 8281,
         "text": "Qabarastan Agar Baarish ki Waja say Kharaab Ho Raha ho to Aaam Banday ko GUnnah Hoga ??"
       },
-      { "t": 8863, "text": "DUA and Conclusion !!" }
+      {
+        "t": 8863,
+        "text": "DUA and Conclusion !!"
+      }
     ],
     "title": "104-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (23-Feb-2020)",
     "publishDate": "2020-02-25T19:00:00.000Z",
@@ -2703,7 +2766,10 @@
   {
     "v": "aiG6Z0wmGZU",
     "timestamps": [
-      { "t": 0, "text": "Tilawat !! Surat-ul-Al-Aala (87) Ayat 14-19(END) !!" },
+      {
+        "t": 0,
+        "text": "Tilawat !! Surat-ul-Al-Aala (87) Ayat 14-19(END) !!"
+      },
       {
         "t": 61,
         "text": "Kalam-e-RAZA ka Ta'aruf by Engineer Muhammad Ali Mirza !!"
@@ -2712,8 +2778,15 @@
         "t": 145,
         "text": "Pesh-e-HAQ Mujda SHAFAT ka Sunatay jain ! ! ! Kalam-e-RAZA (By Shoaib Azam, Recorded on 05-Jan-2020)"
       },
-      { "t": 644, "text": "Closing Remarks on Naat by E.M.A.M !!" },
-      { "t": 733, "text": "Majlis Start !!", "references": [] },
+      {
+        "t": 644,
+        "text": "Closing Remarks on Naat by E.M.A.M !!"
+      },
+      {
+        "t": 733,
+        "text": "Majlis Start !!",
+        "references": []
+      },
       {
         "t": 853,
         "text": "Javaid Ahmad Ghamidi حفظہ اللہ & Engineer Muhammad Ali Mirza ki MEETING (30-Dec-2019) ki Details ???",
@@ -3864,7 +3937,10 @@
   {
     "v": "jLlmlxp926w",
     "timestamps": [
-      { "t": 0, "text": "Introduction" },
+      {
+        "t": 0,
+        "text": "Introduction"
+      },
       {
         "type": "question",
         "t": 420,
@@ -4045,13 +4121,20 @@
   {
     "v": "XHjAVaq6FIU",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 50,
         "text": "Sayyid Laal Badshah Bukhari حفظہ اللہ & Engineer Muhammad Ali Mirza ki MEETING (28-Aug-2019) ???"
       },
-      { "type": "question", "t": 1289, "text": "Jesi Awaam Wese Hukmaraan !!" },
+      {
+        "type": "question",
+        "t": 1289,
+        "text": "Jesi Awaam Wese Hukmaraan !!"
+      },
       {
         "type": "question",
         "t": 2174,
@@ -4256,7 +4339,10 @@
         "t": 9897,
         "text": "Females ko Mardo kay Uper Promotions Aur Najaiz Benefits Dena ??"
       },
-      { "t": 10067, "text": "Dua And Conclusion !!" }
+      {
+        "t": 10067,
+        "text": "Dua And Conclusion !!"
+      }
     ],
     "title": "79-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (01-Sept-2019)",
     "publishDate": "2019-09-01T19:00:00.000Z",
@@ -4267,7 +4353,10 @@
   {
     "v": "qkUwW07-yhI",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 36,
@@ -5341,7 +5430,11 @@
         "t": 561,
         "text": "Ahle Tashshyo Me Fail E Shirk Ka Zimmedar Kon Hai??"
       },
-      { "type": "question", "t": 2026, "text": "Shirk-e-khafi Kya Hota Hai??" },
+      {
+        "type": "question",
+        "t": 2026,
+        "text": "Shirk-e-khafi Kya Hota Hai??"
+      },
       {
         "type": "question",
         "t": 2102,
@@ -5402,8 +5495,15 @@
   {
     "v": "dQr6FwQ2znI",
     "timestamps": [
-      { "t": 0, "text": "Introduction !!", "references": [] },
-      { "t": 194, "text": "Research Paper 5B Introduction !!" },
+      {
+        "t": 0,
+        "text": "Introduction !!",
+        "references": []
+      },
+      {
+        "t": 194,
+        "text": "Research Paper 5B Introduction !!"
+      },
       {
         "t": 529,
         "text": "Ahl-e-Sunnat k Mutabiq Ayat-e-Tatheer ?? Umahat-ul-Momineen vs Ahl-e-Bait ??",
@@ -5414,7 +5514,11 @@
         "text": "Ayat-e-Muwaddadat ki Tashreeh ??",
         "type": "question"
       },
-      { "t": 1649, "text": "Ayat-e-Mubahlay ki Detail ??", "type": "question" },
+      {
+        "t": 1649,
+        "text": "Ayat-e-Mubahlay ki Detail ??",
+        "type": "question"
+      },
       {
         "t": 2749,
         "text": "Saad Ibn-e-Waqas رضي الله عنه kay Qatil Aal-e-Umaiyya ??",
@@ -5485,7 +5589,11 @@
         "text": "Hazrat Muawiya r.a Katib-e-WAHI Thay ??? Nabi ﷺ Ki Bad Dua ???",
         "type": "question"
       },
-      { "t": 14610, "text": "Ali Muawiyya Bhai bhai ??", "type": "question" },
+      {
+        "t": 14610,
+        "text": "Ali Muawiyya Bhai bhai ??",
+        "type": "question"
+      },
       {
         "t": 14834,
         "text": "Hazrat Muawiyya Khalifa-e-Rashid ??",
@@ -5506,7 +5614,11 @@
         "text": "Yazid Lanti Ni hai ?? Yazid k Baray mei Sakoot ??",
         "type": "question"
       },
-      { "t": 15722, "text": "Iraqi Qatil-e-Hussain ??", "type": "question" },
+      {
+        "t": 15722,
+        "text": "Iraqi Qatil-e-Hussain ??",
+        "type": "question"
+      },
       {
         "t": 15838,
         "text": "Sayyid-ul-Shuhada Kon ?? Hamza-ibn-ul-Mutlib عَلَيْهِ ٱلسَّلَامُ ya Hussain عَلَيْهِ ٱلسَّلَامُ ??",
@@ -5542,7 +5654,11 @@
         "text": "Sahaba k Sath رضي الله عنه , Ambia k Sath عَلَيْهِ ٱلسَّلَامُ ki Tafreeq ??",
         "type": "question"
       },
-      { "t": 17280, "text": "Saray Sahabi Jannati ??", "type": "question" },
+      {
+        "t": 17280,
+        "text": "Saray Sahabi Jannati ??",
+        "type": "question"
+      },
       {
         "t": 17485,
         "text": "Tabaeen pe Jarah Ho Sakti hai to Sahabi pe Kyun Ni ??",
@@ -5613,7 +5729,11 @@
         "text": "Hazrat Abu Ayoob Ansari رضي الله عنه ka Janaza Yazeed ne Karaya ??",
         "type": "question"
       },
-      { "t": 22027, "text": "Malookiat Quraan Mei ??", "type": "question" },
+      {
+        "t": 22027,
+        "text": "Malookiat Quraan Mei ??",
+        "type": "question"
+      },
       {
         "t": 22166,
         "text": "Ali Bhai ko Munazray k Challenge ?",
@@ -5629,7 +5749,10 @@
   {
     "v": "5zdSV8hqBwM",
     "timestamps": [
-      { "t": 0, "text": "Routine say Hat kay 63 Majlis !! " },
+      {
+        "t": 0,
+        "text": "Routine say Hat kay 63 Majlis !! "
+      },
       {
         "type": "question",
         "t": 255,
@@ -6120,7 +6243,11 @@
         "t": 3968,
         "text": "Qaran/zamana Se Kya Murad Hai?? [Sabsay Behtar Zamana Kiska Hai?]"
       },
-      { "type": "question", "t": 5035, "text": "Waqia-e-meraj Ki Tafseelat?" },
+      {
+        "type": "question",
+        "t": 5035,
+        "text": "Waqia-e-meraj Ki Tafseelat?"
+      },
       {
         "type": "question",
         "t": 5483,
@@ -6156,7 +6283,11 @@
         "t": 8553,
         "text": "Kya Musalman Khatoon, Sarhi Pahan Sakti Hai??"
       },
-      { "type": "question", "t": 8751, "text": "Qasar Namaz Ka Sahi Masla?" },
+      {
+        "type": "question",
+        "t": 8751,
+        "text": "Qasar Namaz Ka Sahi Masla?"
+      },
       {
         "type": "question",
         "t": 8916,
@@ -6332,7 +6463,10 @@
   {
     "v": "nWyKhVTdqNM",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 37,
@@ -6363,7 +6497,11 @@
         "t": 5595,
         "text": "Quran Ki Aayat Nasikh Kyun Hui Jabki Allah Ka Ilm Kamil Hai."
       },
-      { "type": "question", "t": 6365, "text": "Imam Ki T’areef Kya Hai?" },
+      {
+        "type": "question",
+        "t": 6365,
+        "text": "Imam Ki T’areef Kya Hai?"
+      },
       {
         "type": "question",
         "t": 7094,
@@ -6459,7 +6597,10 @@
   {
     "v": "0rm9QDS34Yc",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 41,
@@ -6540,8 +6681,16 @@
   {
     "v": "sUaMFoX0hls",
     "timestamps": [
-      { "t": 0, "text": "Khutbah Aur Durood !!", "references": [] },
-      { "t": 125, "text": "Introduction !!", "references": [] },
+      {
+        "t": 0,
+        "text": "Khutbah Aur Durood !!",
+        "references": []
+      },
+      {
+        "t": 125,
+        "text": "Introduction !!",
+        "references": []
+      },
       {
         "t": 328,
         "text": "Ali Bhai ki Umar Kitni or Ilm Kese Hasil Kya ??",
@@ -6642,7 +6791,11 @@
         "text": "Ali Bhai ka Ikhtilaafi Muamlaat mei Bolna ?? Ikhtilaafi Masail Kyun Zaroori ??",
         "type": "question"
       },
-      { "t": 12126, "text": "Dawat Kese Karei ??", "type": "question" },
+      {
+        "t": 12126,
+        "text": "Dawat Kese Karei ??",
+        "type": "question"
+      },
       {
         "t": 13084,
         "text": "Awaam-un-Naas mei Dawat ?? Muftio say Munazray ??",
@@ -6748,7 +6901,10 @@
   {
     "v": "-IxBv4fugvM",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 69,
@@ -6839,7 +6995,10 @@
   {
     "v": "3OKG0qLlTds",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 51,
@@ -6925,13 +7084,20 @@
   {
     "v": "XfpDCKdm4dg",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 60,
         "text": "Extrajudicial Killing in ISLAM ??? PAKISTAN main Sahiwal Incident ???"
       },
-      { "type": "question", "t": 1638, "text": "Ahle Araaf Kaun hain?" },
+      {
+        "type": "question",
+        "t": 1638,
+        "text": "Ahle Araaf Kaun hain?"
+      },
       {
         "type": "question",
         "t": 2385,
@@ -6977,9 +7143,21 @@
         "t": 5230,
         "text": "Janat mein dakhil hone k liye shafa'at"
       },
-      { "type": "question", "t": 5623, "text": "Dawat-e-haq kaisi di jai?" },
-      { "type": "question", "t": 5794, "text": "Masla 2 Namaz jamaa karne ka" },
-      { "type": "question", "t": 5883, "text": "Syed ki logvi tashreeh" },
+      {
+        "type": "question",
+        "t": 5623,
+        "text": "Dawat-e-haq kaisi di jai?"
+      },
+      {
+        "type": "question",
+        "t": 5794,
+        "text": "Masla 2 Namaz jamaa karne ka"
+      },
+      {
+        "type": "question",
+        "t": 5883,
+        "text": "Syed ki logvi tashreeh"
+      },
       {
         "type": "question",
         "t": 6174,
@@ -6990,14 +7168,26 @@
         "t": 6770,
         "text": "Nabiyon ka jism qabar mein se mutaliq Sheikh Zubair Ali Zai ka Moqaf"
       },
-      { "type": "question", "t": 7383, "text": "Hayat un Nabi ka aqida" },
-      { "type": "question", "t": 7886, "text": "Waseelay k bagair dua" },
+      {
+        "type": "question",
+        "t": 7383,
+        "text": "Hayat un Nabi ka aqida"
+      },
+      {
+        "type": "question",
+        "t": 7886,
+        "text": "Waseelay k bagair dua"
+      },
       {
         "type": "question",
         "t": 8095,
         "text": "Murday k jism se foreign element nikalna"
       },
-      { "type": "question", "t": 8576, "text": "Janat aur Jahanum k darwaze" },
+      {
+        "type": "question",
+        "t": 8576,
+        "text": "Janat aur Jahanum k darwaze"
+      },
       {
         "type": "question",
         "t": 8641,
@@ -7013,7 +7203,11 @@
         "t": 8932,
         "text": "Masajid mein khobsurti pe paise ka istamaal"
       },
-      { "type": "question", "t": 9082, "text": "Kitmane Hu" }
+      {
+        "type": "question",
+        "t": 9082,
+        "text": "Kitmane Hu"
+      }
     ],
     "title": "46-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (20-Jan-2019)",
     "publishDate": "2019-01-19T19:00:00.000Z",
@@ -7024,14 +7218,23 @@
   {
     "v": "qym6u3HsIqM",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
-      { "t": 13, "text": "Introduction !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
+      {
+        "t": 13,
+        "text": "Introduction !!"
+      },
       {
         "type": "question",
         "t": 41,
         "text": "Maulana Tariq Jamil حفظہ اللہ & Engineer Muhammad Ali Mirza ki MEETING (11-Jan-2019) ki Details ???"
       },
-      { "t": 354, "text": "8 Ilmi Points !!" },
+      {
+        "t": 354,
+        "text": "8 Ilmi Points !!"
+      },
       {
         "t": 486,
         "text": "Ilmi Point # 1: Imaad-ud-Din Bhai aur Haider Bhai k Zarya Maulana Tariq Jamil say Mulaqaat !!"
@@ -7064,7 +7267,10 @@
         "t": 3853,
         "text": "Ilmi Point # 8: Ali Bhai ka Tarqi Jamil k Baray mei Judgment !!"
       },
-      { "t": 4202, "text": "Regular Questions !!" },
+      {
+        "t": 4202,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 4243,
@@ -7190,7 +7396,10 @@
   {
     "v": "EyjTKYSuOG8",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 13,
@@ -7331,13 +7540,19 @@
   {
     "v": "vnEFqcHywL0",
     "timestamps": [
-      { "t": 0, "text": "Start ?" },
+      {
+        "t": 0,
+        "text": "Start ?"
+      },
       {
         "type": "question",
         "t": 49,
         "text": "2021 ka Start & Happy New Year in ISLAM ??? Happy Birthday in ISLAM ???"
       },
-      { "t": 652, "text": "Khalid Bhai From Saudia k Sawalaat !!" },
+      {
+        "t": 652,
+        "text": "Khalid Bhai From Saudia k Sawalaat !!"
+      },
       {
         "type": "question",
         "t": 686,
@@ -7368,7 +7583,10 @@
         "t": 3538,
         "text": "Current Account Kese Jaiz Hai ??"
       },
-      { "t": 3835, "text": "Azaan ki Break !!" },
+      {
+        "t": 3835,
+        "text": "Azaan ki Break !!"
+      },
       {
         "type": "question",
         "t": 3855,
@@ -7459,7 +7677,10 @@
   {
     "v": "2Vp8Y-_3JmY",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 44,
@@ -7610,7 +7831,11 @@
   {
     "v": "UoIqFLjONf8",
     "timestamps": [
-      { "type": "question", "t": 55, "text": "Saqoot-e-Dhaka & APS Hamlah" },
+      {
+        "type": "question",
+        "t": 55,
+        "text": "Saqoot-e-Dhaka & APS Hamlah"
+      },
       {
         "type": "question",
         "t": 476,
@@ -7661,7 +7886,11 @@
         "t": 5364,
         "text": "(Buzurgon ki Galatiyan Meethay Andaz main"
       },
-      { "type": "question", "t": 6103, "text": "(Women kaisay tafreeh kerain" },
+      {
+        "type": "question",
+        "t": 6103,
+        "text": "(Women kaisay tafreeh kerain"
+      },
       {
         "type": "question",
         "t": 6216,
@@ -7672,7 +7901,11 @@
         "t": 6504,
         "text": "(Yajoog Majoog kahan hain aaj ki date main"
       },
-      { "type": "question", "t": 6749, "text": "(Youtube say kamai ka Issue" },
+      {
+        "type": "question",
+        "t": 6749,
+        "text": "(Youtube say kamai ka Issue"
+      },
       {
         "type": "question",
         "t": 6899,
@@ -7703,16 +7936,34 @@
   {
     "v": "phJtpY_pn2E",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
-      { "t": 12, "text": "Academy aur Dawat say Mutaliq kuch Masail !!" },
-      { "t": 36, "text": "Daak (POST) ka Masla !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
+      {
+        "t": 12,
+        "text": "Academy aur Dawat say Mutaliq kuch Masail !!"
+      },
+      {
+        "t": 36,
+        "text": "Daak (POST) ka Masla !!"
+      },
       {
         "t": 122,
         "text": "WhatsApp Groups mei Questions Aur Kuch Topics Adress Na Honay ka Masla !!"
       },
-      { "t": 218, "text": "References Lagana Aur JPGs ka Masla !! " },
-      { "t": 693, "text": "Question Answer Sessions Un Planned Hotay !!" },
-      { "t": 781, "text": "Regular Questions !!" },
+      {
+        "t": 218,
+        "text": "References Lagana Aur JPGs ka Masla !! "
+      },
+      {
+        "t": 693,
+        "text": "Question Answer Sessions Un Planned Hotay !!"
+      },
+      {
+        "t": 781,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 809,
@@ -7848,7 +8099,10 @@
   {
     "v": "wIsBpTbuPX0",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 80,
@@ -7982,7 +8236,11 @@
     "publishDate": "2018-11-26T19:00:00.000Z",
     "uploadDate": "2018-11-26T19:00:00.000Z",
     "timestamps": [
-      { "other": true, "t": 0, "text": "Start !!" },
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 67,
@@ -8130,7 +8388,10 @@
   {
     "v": "VkbL_VVA20Q",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "t": 27,
         "text": "Surah-e-Muhammad ki Quran Class 303 ki tamheed mei Nabi صلى الله عليه وسلم k Naam say related 5 Ilmi Points !!"
@@ -8155,7 +8416,10 @@
         "t": 3083,
         "text": "Ilmi Point # 5: Surah Muhammad ka Dosra Naam Surah Qitaal !!"
       },
-      { "t": 3712, "text": "Regular Question and Answer Session !!" },
+      {
+        "t": 3712,
+        "text": "Regular Question and Answer Session !!"
+      },
       {
         "type": "question",
         "t": 3741,
@@ -8393,14 +8657,27 @@
         "t": 1692,
         "text": "Nabi صلى الله عليه وسلم ki Namaz parhnay ki jaga ki tazeem"
       },
-      { "t": 1924, "text": "Nabi صلى الله عليه وسلم ki Qabar ShairUllah !!" },
+      {
+        "t": 1924,
+        "text": "Nabi صلى الله عليه وسلم ki Qabar ShairUllah !!"
+      },
       {
         "t": 2226,
         "text": "Nabi صلى الله عليه وسلم ka Ambia ki Tazeem ki Jaga ko Talaash Karna"
       },
-      { "t": 2822, "text": "Ambia ka Meraj pe Aikathay Hona" },
-      { "t": 3036, "text": "Salaf ka Faham !!", "references": [] },
-      { "t": 3258, "text": "Hazrat Umar رضي الله عنه pe Jhoot !!" },
+      {
+        "t": 2822,
+        "text": "Ambia ka Meraj pe Aikathay Hona"
+      },
+      {
+        "t": 3036,
+        "text": "Salaf ka Faham !!",
+        "references": []
+      },
+      {
+        "t": 3258,
+        "text": "Hazrat Umar رضي الله عنه pe Jhoot !!"
+      },
       {
         "t": 3450,
         "text": "Sahaba ka Nabi صلى الله عليه وسلم k Sha'ar ki Tazeem !"
@@ -8440,7 +8717,11 @@
         "text": "Jumma ka Khutbah Beghair Samjhay Sawab !!",
         "type": "question"
       },
-      { "t": 6994, "text": "Wuzu Baar Baar Toot Jana !!", "type": "question" },
+      {
+        "t": 6994,
+        "text": "Wuzu Baar Baar Toot Jana !!",
+        "type": "question"
+      },
       {
         "t": 7174,
         "text": "Saahib-e-Quraan kisko Keh Sakty ??",
@@ -8511,7 +8792,11 @@
         "text": "Phansi kese Hoti ?? Jallaad pe Ghalat Phansi ka Wabaal !!",
         "type": "question"
       },
-      { "t": 11503, "text": "Mard ka Mehandi Lagana !!", "type": "question" },
+      {
+        "t": 11503,
+        "text": "Mard ka Mehandi Lagana !!",
+        "type": "question"
+      },
       {
         "t": 11626,
         "text": "Quraan ko Juzdaan pe Lapetna !!",
@@ -8557,7 +8842,10 @@
   {
     "v": "4cbh6tA76jk",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 32,
@@ -8575,10 +8863,22 @@
         "t": 1003,
         "text": "Ilmi Point # 3: Supreme Court ka Aasia Maseeh ka Faisla Controversial Kyun ?? Aur iska Zimedar Kyun ??"
       },
-      { "t": 1502, "text": "Ilmi Point # 4: Government Na Ahal Kardar !!" },
-      { "t": 1783, "text": "Ilmi Point # 5: Ihtejaaj mei Misconduct !!" },
-      { "t": 2020, "text": "Gustakh-e-Rasool ki Saza !!" },
-      { "t": 2619, "text": "Regular Questions !!" },
+      {
+        "t": 1502,
+        "text": "Ilmi Point # 4: Government Na Ahal Kardar !!"
+      },
+      {
+        "t": 1783,
+        "text": "Ilmi Point # 5: Ihtejaaj mei Misconduct !!"
+      },
+      {
+        "t": 2020,
+        "text": "Gustakh-e-Rasool ki Saza !!"
+      },
+      {
+        "t": 2619,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 2669,
@@ -8714,8 +9014,16 @@
   {
     "v": "f86mQQdn9l0",
     "timestamps": [
-      { "t": 0, "text": "Introduction", "references": [] },
-      { "t": 283, "text": "Ali Bhai ka Past or Stance !!", "references": [] },
+      {
+        "t": 0,
+        "text": "Introduction",
+        "references": []
+      },
+      {
+        "t": 283,
+        "text": "Ali Bhai ka Past or Stance !!",
+        "references": []
+      },
       {
         "t": 694,
         "text": "Dawat-e-Islami kay Green EMAMAH ka Saheh AHADITH say PROOF ???",
@@ -8781,7 +9089,11 @@
         "text": "Hinduo ki Kitaab mei Nabi  ki Predictions ?? 12-Rabi-ul-Awwal ko Pedaish ??",
         "type": "question"
       },
-      { "t": 3920, "text": "12-Rabi-ul-Awwal ka Roza ??", "type": "question" },
+      {
+        "t": 3920,
+        "text": "12-Rabi-ul-Awwal ka Roza ??",
+        "type": "question"
+      },
       {
         "t": 3999,
         "text": "Kia 12-Rabi-ul-Awwal WAFAT-un-NABI ﷺ ka GHAM mananay ka DIN hai ???",
@@ -8797,7 +9109,11 @@
         "text": " MELAD peh Ahl-e-Hadith ULMA kay Imam Ibn-e-Taimiyyah r.a ka FATWA ???",
         "type": "question"
       },
-      { "t": 5372, "text": "Melad Biddat-e-Hasna ??", "type": "question" },
+      {
+        "t": 5372,
+        "text": "Melad Biddat-e-Hasna ??",
+        "type": "question"
+      },
       {
         "t": 5758,
         "text": "صلى الله عليه وسلم Wala Durood Biddat-e-Hasna ??",
@@ -8893,8 +9209,16 @@
         "text": "Susti k Bawajood Nabi صلى الله عليه وسلم ka Paros Kese Hasil Karei ??",
         "type": "question"
       },
-      { "t": 9588, "text": "Melad pe Banay Hwe Khanay ??", "type": "question" },
-      { "t": 9811, "text": "Nalain Mubarak ka Badge ??", "type": "question" },
+      {
+        "t": 9588,
+        "text": "Melad pe Banay Hwe Khanay ??",
+        "type": "question"
+      },
+      {
+        "t": 9811,
+        "text": "Nalain Mubarak ka Badge ??",
+        "type": "question"
+      },
       {
         "t": 9937,
         "text": "Mehfil-e-Naat Aur Galia Dena ??",
@@ -8960,7 +9284,10 @@
   {
     "v": "FmSEONqxMZc",
     "timestamps": [
-      { "t": 0, "text": "Introduction !!" },
+      {
+        "t": 0,
+        "text": "Introduction !!"
+      },
       {
         "type": "question",
         "t": 445,
@@ -9096,7 +9423,10 @@
   {
     "v": "SG4ZqnvdbFU",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 15,
@@ -9122,12 +9452,18 @@
         "t": 2399,
         "text": "Misaal 3: Shaaba Say Bughz Aur Moala Ali Pe Lanat !!"
       },
-      { "t": 3316, "text": "Misaal 4: Ghadeer-E-Khum Ki Hadith !!" },
+      {
+        "t": 3316,
+        "text": "Misaal 4: Ghadeer-E-Khum Ki Hadith !!"
+      },
       {
         "t": 3742,
         "text": "Ali Bhai K Related Work (Lectures Aur Research Papers, Especially 5b) !!"
       },
-      { "t": 4058, "text": "Regular Questions !!" },
+      {
+        "t": 4058,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 4193,
@@ -9223,7 +9559,11 @@
         "t": 11662,
         "text": "Ehraam Ko Surf Ya Sabun Se Dhone Se Khushbu Aa Jati Hai Kya Khushbu Wala Ehraam Pehen Sakte Hein ?"
       },
-      { "type": "question", "t": 11780, "text": "Ghar Damad Banna Kaisa ?" },
+      {
+        "type": "question",
+        "t": 11780,
+        "text": "Ghar Damad Banna Kaisa ?"
+      },
       {
         "type": "question",
         "t": 11853,
@@ -9259,18 +9599,27 @@
   {
     "v": "cnm3u0Y2xCE",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 15,
         "text": "SOLAR Calendar Vs LUNAR Calendar ??? BC, AD, CE, BCE and AH ??"
       },
-      { "t": 124, "text": "5 Ilmi Points" },
+      {
+        "t": 124,
+        "text": "5 Ilmi Points"
+      },
       {
         "t": 130,
         "text": "Ilmi Point 1 : Solar Calendar VS Lunar Calendar !!"
       },
-      { "t": 470, "text": "Ilmi Point 2 : Suraj Chaand Dono Allah kay !!" },
+      {
+        "t": 470,
+        "text": "Ilmi Point 2 : Suraj Chaand Dono Allah kay !!"
+      },
       {
         "t": 1089,
         "text": "Ilmi Point 3 : Solar Calendar Start kese hwa ?? AD/BC Ka Matlab kiya ??"
@@ -9279,8 +9628,14 @@
         "t": 1761,
         "text": "Ilmi Point 4 : Lunar Calendar (Hijri Calendar) kese Start Hwa ??"
       },
-      { "t": 2407, "text": "Ilmi Point 5 : Happy New Year Kehna Jaiz ??" },
-      { "t": 2837, "text": "Regular Questions !!" },
+      {
+        "t": 2407,
+        "text": "Ilmi Point 5 : Happy New Year Kehna Jaiz ??"
+      },
+      {
+        "t": 2837,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 2924,
@@ -9336,7 +9691,10 @@
         "t": 6082,
         "text": "Qatal-e-Khata Aur Qatal-e-Amar ki Diyyat mei Kiya Farq Hai ??"
       },
-      { "t": 6333, "text": "Chai Samosa Break !!" },
+      {
+        "t": 6333,
+        "text": "Chai Samosa Break !!"
+      },
       {
         "type": "question",
         "t": 6352,
@@ -9362,7 +9720,11 @@
         "t": 7104,
         "text": "Khana Kaaba Aur Bait-ul-Maqdis 2 QIblay Kyun Hai ?? Aik hi Qibla Kyun Ni ??"
       },
-      { "type": "question", "t": 7736, "text": "Ghutti Dena Sunnat hai ??" },
+      {
+        "type": "question",
+        "t": 7736,
+        "text": "Ghutti Dena Sunnat hai ??"
+      },
       {
         "type": "question",
         "t": 7839,
@@ -9398,7 +9760,11 @@
         "t": 9106,
         "text": "Gunah-e-Kabeera Karnay walay pe Lanat Karna ??"
       },
-      { "type": "question", "t": 9158, "text": "Jasoosi ki Shari Hasiyat ??" },
+      {
+        "type": "question",
+        "t": 9158,
+        "text": "Jasoosi ki Shari Hasiyat ??"
+      },
       {
         "type": "question",
         "t": 9247,
@@ -9469,7 +9835,11 @@
         "t": 10043,
         "text": "Qura'an Parh k Khanay pe Phookna ??"
       },
-      { "type": "question", "t": 10056, "text": "Cartoon Dekhna Jaiz ??" },
+      {
+        "type": "question",
+        "t": 10056,
+        "text": "Cartoon Dekhna Jaiz ??"
+      },
       {
         "type": "question",
         "t": 10107,
@@ -9490,18 +9860,27 @@
   {
     "v": "cnm3u0Y2xCE",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 15,
         "text": "SOLAR Calendar Vs LUNAR Calendar ??? BC, AD, CE, BCE and AH ??"
       },
-      { "t": 124, "text": "5 Ilmi Points" },
+      {
+        "t": 124,
+        "text": "5 Ilmi Points"
+      },
       {
         "t": 130,
         "text": "Ilmi Point 1 : Solar Calendar VS Lunar Calendar !!"
       },
-      { "t": 470, "text": "Ilmi Point 2 : Suraj Chaand Dono Allah kay !!" },
+      {
+        "t": 470,
+        "text": "Ilmi Point 2 : Suraj Chaand Dono Allah kay !!"
+      },
       {
         "t": 1089,
         "text": "Ilmi Point 3 : Solar Calendar Start kese hwa ?? AD/BC Ka Matlab kiya ??"
@@ -9510,8 +9889,14 @@
         "t": 1761,
         "text": "Ilmi Point 4 : Lunar Calendar (Hijri Calendar) kese Start Hwa ??"
       },
-      { "t": 2407, "text": "Ilmi Point 5 : Happy New Year Kehna Jaiz ??" },
-      { "t": 2837, "text": "Regular Questions !!" },
+      {
+        "t": 2407,
+        "text": "Ilmi Point 5 : Happy New Year Kehna Jaiz ??"
+      },
+      {
+        "t": 2837,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 2924,
@@ -9567,7 +9952,10 @@
         "t": 6082,
         "text": "Qatal-e-Khata Aur Qatal-e-Amar ki Diyyat mei Kiya Farq Hai ??"
       },
-      { "t": 6333, "text": "Chai Samosa Break !!" },
+      {
+        "t": 6333,
+        "text": "Chai Samosa Break !!"
+      },
       {
         "type": "question",
         "t": 6352,
@@ -9593,7 +9981,11 @@
         "t": 7104,
         "text": "Khana Kaaba Aur Bait-ul-Maqdis 2 QIblay Kyun Hai ?? Aik hi Qibla Kyun Ni ??"
       },
-      { "type": "question", "t": 7736, "text": "Ghutti Dena Sunnat hai ??" },
+      {
+        "type": "question",
+        "t": 7736,
+        "text": "Ghutti Dena Sunnat hai ??"
+      },
       {
         "type": "question",
         "t": 7839,
@@ -9629,7 +10021,11 @@
         "t": 9106,
         "text": "Gunah-e-Kabeera Karnay walay pe Lanat Karna ??"
       },
-      { "type": "question", "t": 9158, "text": "Jasoosi ki Shari Hasiyat ??" },
+      {
+        "type": "question",
+        "t": 9158,
+        "text": "Jasoosi ki Shari Hasiyat ??"
+      },
       {
         "type": "question",
         "t": 9247,
@@ -9700,7 +10096,11 @@
         "t": 10043,
         "text": "Qura'an Parh k Khanay pe Phookna ??"
       },
-      { "type": "question", "t": 10056, "text": "Cartoon Dekhna Jaiz ??" },
+      {
+        "type": "question",
+        "t": 10056,
+        "text": "Cartoon Dekhna Jaiz ??"
+      },
       {
         "type": "question",
         "t": 10107,
@@ -9721,7 +10121,10 @@
   {
     "v": "dgoB_tLmTUQ",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 33,
@@ -9763,7 +10166,10 @@
         "t": 527,
         "text": "Ilmi Point # 09: Omar Series kab aur kese banai !! Omer Series ki Timeline !!"
       },
-      { "t": 700, "text": "Ilmi Point # 10: Quranic Arabic in Omar Series !!" },
+      {
+        "t": 700,
+        "text": "Ilmi Point # 10: Quranic Arabic in Omar Series !!"
+      },
       {
         "t": 903,
         "text": "Ilmi Point # 11: Poori Islamic Revolution Filmed in Omar Series !!"
@@ -9776,7 +10182,10 @@
         "t": 1266,
         "text": "Ilmi Point # 13: Islaam ne Mazhabi Jabar Khatam Kiya !!"
       },
-      { "t": 1653, "text": "Ilmi Points 17 Kiyun Rakhay ??" },
+      {
+        "t": 1653,
+        "text": "Ilmi Points 17 Kiyun Rakhay ??"
+      },
       {
         "t": 1674,
         "text": "Ilmi Point # 14: Nabi صلى الله عليه وسلم ki Seerat ki Perfecy Representation !!"
@@ -9785,12 +10194,18 @@
         "t": 1757,
         "text": "Ilmi Point # 15: Bollywood/Hollywood dekhne walay Omar Series Dekhei !!"
       },
-      { "t": 1936, "text": "Ilmi Point # 16: Omar Series ki Authenticity !!" },
+      {
+        "t": 1936,
+        "text": "Ilmi Point # 16: Omar Series ki Authenticity !!"
+      },
       {
         "t": 2187,
         "text": "Ilmi Point # 17: Local TV Channels ko Ulema k Fatwo say Dar !!"
       },
-      { "t": 2673, "text": "Regular Questions !!" },
+      {
+        "t": 2673,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 2695,
@@ -9875,7 +10290,11 @@
         "t": 6548,
         "text": "Looh-e-Mahfooz Aur Ummul Kitaab mei Kiya Farq Hai ??"
       },
-      { "type": "question", "t": 6623, "text": "Qibla Awwal Konsa Hai ??" },
+      {
+        "type": "question",
+        "t": 6623,
+        "text": "Qibla Awwal Konsa Hai ??"
+      },
       {
         "type": "question",
         "t": 7256,
@@ -9921,15 +10340,30 @@
   {
     "v": "oMssraXGZeU",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
-      { "t": 18, "text": "Introduction !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
+      {
+        "t": 18,
+        "text": "Introduction !!"
+      },
       {
         "t": 149,
         "text": "Research Paper 5B For References of This Majlis !!"
       },
-      { "t": 420, "text": "Majlis Ka Aagaz: Background" },
-      { "t": 915, "text": "Salaf Kon Hain ?? Un Ka Faham Kia Hai ??" },
-      { "t": 1175, "text": "Regular Questions Start !!" },
+      {
+        "t": 420,
+        "text": "Majlis Ka Aagaz: Background"
+      },
+      {
+        "t": 915,
+        "text": "Salaf Kon Hain ?? Un Ka Faham Kia Hai ??"
+      },
+      {
+        "t": 1175,
+        "text": "Regular Questions Start !!"
+      },
       {
         "type": "question",
         "t": 1266,
@@ -10121,7 +10555,11 @@
         "t": 12337,
         "text": "Shia Har Takbeer Per Rafa Yadain Karte Hain, Is Ki Kia Shar’Ai Hesiyat Hai ?"
       },
-      { "type": "question", "t": 12365, "text": "Ummat K 12 Imam Kon Hain ?" },
+      {
+        "type": "question",
+        "t": 12365,
+        "text": "Ummat K 12 Imam Kon Hain ?"
+      },
       {
         "type": "question",
         "t": 12451,
@@ -10278,15 +10716,28 @@
   {
     "v": "JbSnwIPVmuo",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
-      { "type": "question", "t": 32, "text": "Skipped Quran Classes !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
+      {
+        "type": "question",
+        "t": 32,
+        "text": "Skipped Quran Classes !!"
+      },
       {
         "type": "question",
         "t": 73,
         "text": "9 Aur 10 Muharrma k Rozay ki Shari Hasiyat kiya hai ??"
       },
-      { "t": 235, "text": "Panj Tan Paak !!" },
-      { "t": 936, "text": "Panj Tan Paak ki Nisbat say 5 Ilmi Points !!" },
+      {
+        "t": 235,
+        "text": "Panj Tan Paak !!"
+      },
+      {
+        "t": 936,
+        "text": "Panj Tan Paak ki Nisbat say 5 Ilmi Points !!"
+      },
       {
         "t": 1027,
         "text": "Ilmi Point # 1: Muharrma ka Mahina Kiya Aur Uski Importance ??"
@@ -10315,7 +10766,10 @@
         "t": 3608,
         "text": "Ahl-e-Sunnat k Imaam (Muhadeseen) 2 Number Thay ??"
       },
-      { "t": 4162, "text": "Regular Questions !!" },
+      {
+        "t": 4162,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 4207,
@@ -10462,8 +10916,16 @@
         "t": 8751,
         "text": "Shart/Qasam ki Bunyaad pe Talaqei De Dena ??"
       },
-      { "type": "question", "t": 8866, "text": "Jang-e-Yamama Kyun Hwi ??" },
-      { "type": "question", "t": 9147, "text": "Jang Aur Ghazwa mei Farq ??" },
+      {
+        "type": "question",
+        "t": 8866,
+        "text": "Jang-e-Yamama Kyun Hwi ??"
+      },
+      {
+        "type": "question",
+        "t": 9147,
+        "text": "Jang Aur Ghazwa mei Farq ??"
+      },
       {
         "type": "question",
         "t": 9226,
@@ -10504,7 +10966,11 @@
         "t": 9888,
         "text": "Nakail Dalna Janwar ko Takhleef dene mei Ata ??"
       },
-      { "type": "question", "t": 9925, "text": "Qarz k Zarya Hajj Karna ??" },
+      {
+        "type": "question",
+        "t": 9925,
+        "text": "Qarz k Zarya Hajj Karna ??"
+      },
       {
         "type": "question",
         "t": 9975,
@@ -10585,13 +11051,19 @@
   {
     "v": "OVy1UYgk2bA",
     "timestamps": [
-      { "t": 0, "text": "Start !!" },
+      {
+        "t": 0,
+        "text": "Start !!"
+      },
       {
         "type": "question",
         "t": 38,
         "text": "Imam HASSAN علیہ السلام ka QATIL kon ??? Reply to YAZEEDIs & NASBIs"
       },
-      { "t": 585, "text": "Ahl-e-Hadith Ulema k 3 References !!" },
+      {
+        "t": 585,
+        "text": "Ahl-e-Hadith Ulema k 3 References !!"
+      },
       {
         "t": 807,
         "text": "Ref # 1: Allama Waheeduz Zamaan ka Abu Sufyan ka Islam Lanay k baad Nabi صلى الله عليه وسلم say Demands !!"
@@ -10604,7 +11076,10 @@
         "t": 1165,
         "text": "Ref # 3: Sayyid Dawood Raaz k Khilafat Aur Malookiat k System pe Comments !!"
       },
-      { "t": 1358, "text": "Research Paper 5B ka Taaruf !!" },
+      {
+        "t": 1358,
+        "text": "Research Paper 5B ka Taaruf !!"
+      },
       {
         "t": 1518,
         "text": "Hassab Ibn-e-Ali رضي الله عنه ko Zehar De Kar SHAHEED KIYA GYA !!"
@@ -10613,7 +11088,10 @@
         "t": 1821,
         "text": "Hassan Ibn-e-Ali رضي الله عنه ko Zehar KIS NE DYA ??"
       },
-      { "t": 3492, "text": "Ulema ka Hadith pe Aetaraaz !!" },
+      {
+        "t": 3492,
+        "text": "Ulema ka Hadith pe Aetaraaz !!"
+      },
       {
         "t": 3669,
         "text": "Pehla Aetraaz: Baqiya ibn-e-Waleed Sahi Rawi ni Hai !!"
@@ -10622,7 +11100,10 @@
         "t": 4171,
         "text": "Dosra Aetraaz: Baqiya Ibn-E-Waleed Mudalis Hai Aur Un Say Riwayat Kar Rahay !!"
       },
-      { "t": 4910, "text": "Start of Regular Questions !!" },
+      {
+        "t": 4910,
+        "text": "Start of Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 4962,
@@ -10688,7 +11169,11 @@
         "t": 7184,
         "text": "Quran mei Hadith pe Chalnay ka Wazeh Hukam Bata dei !!"
       },
-      { "type": "question", "t": 7479, "text": "Same as 1:57:58" },
+      {
+        "type": "question",
+        "t": 7479,
+        "text": "Same as 1:57:58"
+      },
       {
         "type": "question",
         "t": 7521,
@@ -10894,13 +11379,19 @@
   {
     "v": "QhFE5oS_LlQ",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 40,
         "text": "FRANCE Cartoon Issue ??? NABI ﷺ ki Gustakhion peh Counter Narrative ???"
       },
-      { "t": 952, "text": "8 Ilmi Points mei Jawabi Narrative !!" },
+      {
+        "t": 952,
+        "text": "8 Ilmi Points mei Jawabi Narrative !!"
+      },
       {
         "t": 1090,
         "text": "Ilmi Point # 1: Mada Parasti (Materialism) Aur God say Doori !!"
@@ -10937,8 +11428,15 @@
         "t": 4396,
         "text": "Ilmi Point # 8: Hukmarano ki Zimedari !! International Level pe Awaaz Uthaei, Khud Islam Nafz Karei !!"
       },
-      { "t": 5153, "text": "Regular Questions !!" },
-      { "type": "question", "t": 5193, "text": "Plastic Surgery Jaiz !!" },
+      {
+        "t": 5153,
+        "text": "Regular Questions !!"
+      },
+      {
+        "type": "question",
+        "t": 5193,
+        "text": "Plastic Surgery Jaiz !!"
+      },
       {
         "type": "question",
         "t": 5629,
@@ -10954,7 +11452,11 @@
         "t": 5857,
         "text": "Hanfio ka 1/4 Sir ka Masah Karna !!"
       },
-      { "type": "question", "t": 5909, "text": "Girwi Rakhwana Jaiz !!" },
+      {
+        "type": "question",
+        "t": 5909,
+        "text": "Girwi Rakhwana Jaiz !!"
+      },
       {
         "type": "question",
         "t": 5925,
@@ -11065,7 +11567,11 @@
         "t": 8387,
         "text": "Aik say zyada logo ko Esaal-e-Sawaab Karna ??"
       },
-      { "type": "question", "t": 8423, "text": "Khutbay NIkkah konsa Hota ??" },
+      {
+        "type": "question",
+        "t": 8423,
+        "text": "Khutbay NIkkah konsa Hota ??"
+      },
       {
         "type": "question",
         "t": 8504,
@@ -11250,9 +11756,21 @@
         "text": "Farz Namaz k Baad Ijtimaee Dua ??",
         "type": "question"
       },
-      { "t": 6271, "text": "Mucho ko Moondna ??", "type": "question" },
-      { "t": 6295, "text": "Hath Chor k Namaz Parhna ??", "type": "question" },
-      { "t": 6348, "text": "Tableegh k Lye Kitaab ??", "type": "question" },
+      {
+        "t": 6271,
+        "text": "Mucho ko Moondna ??",
+        "type": "question"
+      },
+      {
+        "t": 6295,
+        "text": "Hath Chor k Namaz Parhna ??",
+        "type": "question"
+      },
+      {
+        "t": 6348,
+        "text": "Tableegh k Lye Kitaab ??",
+        "type": "question"
+      },
       {
         "t": 6583,
         "text": "Londio ka System Islam mei ??",
@@ -11278,7 +11796,11 @@
         "text": "Sub-Continent k Nek Buzurgo ko Saliheen Keh Sakty ??",
         "type": "question"
       },
-      { "t": 7484, "text": "Har Sadi mei Mujaddid ??", "type": "question" },
+      {
+        "t": 7484,
+        "text": "Har Sadi mei Mujaddid ??",
+        "type": "question"
+      },
       {
         "t": 7691,
         "text": "6 Din mei Dunya ka Banna vs KUN FAYA KOON !!",
@@ -11314,7 +11836,11 @@
         "text": "Imam k Salaam Mukammal karnay Say Pehle Salaam Pherna !!",
         "type": "question"
       },
-      { "t": 8208, "text": "Musafir ka Jumaat Chorna !!", "type": "question" },
+      {
+        "t": 8208,
+        "text": "Musafir ka Jumaat Chorna !!",
+        "type": "question"
+      },
       {
         "t": 8334,
         "text": "Jalsa e istirahat mei Takbeer ??",
@@ -11335,7 +11861,11 @@
         "text": "Namaz mei Imaam ki Perwi Lazmi ??",
         "type": "question"
       },
-      { "t": 9188, "text": "Namazi k Agay se Guzarna ??", "type": "question" },
+      {
+        "t": 9188,
+        "text": "Namazi k Agay se Guzarna ??",
+        "type": "question"
+      },
       {
         "t": 9369,
         "text": "Azaan k Doran Sunnat Parhna ??",
@@ -11361,7 +11891,11 @@
         "text": "Jummay ko Arabi Khutbah say Pehle Urdu mei Khutbah ??",
         "type": "question"
       },
-      { "t": 9835, "text": "Masjid ko Shaheed karna ??", "type": "question" },
+      {
+        "t": 9835,
+        "text": "Masjid ko Shaheed karna ??",
+        "type": "question"
+      },
       {
         "t": 9863,
         "text": "MASJID main onchi AMEEN kehna ??? HANAFI (Brailvi & Deobandi) ???",
@@ -11382,7 +11916,11 @@
         "text": "Nabi صلى الله عليه وسلم ko Pukarna walay k Peechay Namaaz ??",
         "type": "question"
       },
-      { "t": 10183, "text": "Witr Namaaz mei Duaei ??", "type": "question" },
+      {
+        "t": 10183,
+        "text": "Witr Namaaz mei Duaei ??",
+        "type": "question"
+      },
       {
         "t": 10201,
         "text": "Sir k Baal Nazar Anay walay Kapray mei Namaaz ??",
@@ -11433,9 +11971,21 @@
         "text": "Qurbani ka Gosht Kitnay Arsay k Liye Store Kar Sakty ??",
         "type": "question"
       },
-      { "t": 10657, "text": "Qarz le Kar Qurbani ??", "type": "question" },
-      { "t": 10746, "text": "Haji 2 Qurbani Karay Ga ??", "type": "question" },
-      { "t": 10766, "text": "Qurbani k Sawaal ??", "type": "question" },
+      {
+        "t": 10657,
+        "text": "Qarz le Kar Qurbani ??",
+        "type": "question"
+      },
+      {
+        "t": 10746,
+        "text": "Haji 2 Qurbani Karay Ga ??",
+        "type": "question"
+      },
+      {
+        "t": 10766,
+        "text": "Qurbani k Sawaal ??",
+        "type": "question"
+      },
       {
         "t": 10808,
         "text": "Hajj mei Tawaf-e-Afada kab Kya Ja Sakta ??",
@@ -11481,7 +12031,10 @@
   {
     "v": "myJocbkHn68",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 29,
@@ -11499,37 +12052,60 @@
         "t": 2166,
         "text": "Moudoudi Sahab k Student (Justice Malik) ka Khilafat o Malookiat ka Difa !!!"
       },
-      { "t": 2452, "text": "Sawal jawab " },
+      {
+        "t": 2452,
+        "text": "Sawal jawab "
+      },
       {
         "type": "question",
         "t": 2536,
         "text": "Ramzan mei kin shayateen ko jhakara jata ?? Insaan ka nafs bhi shetan hai ???"
       },
-      { "type": "question", "t": 2814, "text": "Organ Donation Jaiz Hai ??" },
+      {
+        "type": "question",
+        "t": 2814,
+        "text": "Organ Donation Jaiz Hai ??"
+      },
       {
         "type": "question",
         "t": 3249,
         "text": "Islam mei Superstions ?? Aurato k libaas takhno se neechay jana ???"
       },
-      { "type": "question", "t": 3414, "text": "Kutta Na Paak Hai ???" },
+      {
+        "type": "question",
+        "t": 3414,
+        "text": "Kutta Na Paak Hai ???"
+      },
       {
         "type": "question",
         "t": 3585,
         "text": "Mayyat k Paas bethnay ka tareeqa ???"
       },
-      { "type": "question", "t": 3882, "text": "Mobile/Internet pe nikkah ??" },
+      {
+        "type": "question",
+        "t": 3882,
+        "text": "Mobile/Internet pe nikkah ??"
+      },
       {
         "type": "question",
         "t": 3923,
         "text": "Juti/Shoe pehan kar namaz parhna ??"
       },
-      { "type": "question", "t": 4065, "text": "Zakhmi aza pe Wuzu Karna ???" },
+      {
+        "type": "question",
+        "t": 4065,
+        "text": "Zakhmi aza pe Wuzu Karna ???"
+      },
       {
         "type": "question",
         "t": 4122,
         "text": "Jumaat mei dehaan bat janay aur namaz bhool janay pe sajda sahw ???"
       },
-      { "type": "question", "t": 4191, "text": "GP fund aur Pension jaiz ??" },
+      {
+        "type": "question",
+        "t": 4191,
+        "text": "GP fund aur Pension jaiz ??"
+      },
       {
         "type": "question",
         "t": 4313,
@@ -11575,8 +12151,16 @@
         "t": 4856,
         "text": "Nikkah aur rukhsati mei 4 Mah ka gap dene say nikkah tooto jata ??"
       },
-      { "type": "question", "t": 4882, "text": "Question addressed" },
-      { "type": "question", "t": 4892, "text": "Nafl namaz ka afzal waqt" },
+      {
+        "type": "question",
+        "t": 4882,
+        "text": "Question addressed"
+      },
+      {
+        "type": "question",
+        "t": 4892,
+        "text": "Nafl namaz ka afzal waqt"
+      },
       {
         "type": "question",
         "t": 4931,
@@ -11632,13 +12216,21 @@
         "t": 5352,
         "text": "Hafiz-e-Quran ki Fazeelat ???"
       },
-      { "type": "question", "t": 5392, "text": "Aiteqaaf 10 din fix ??" },
+      {
+        "type": "question",
+        "t": 5392,
+        "text": "Aiteqaaf 10 din fix ??"
+      },
       {
         "type": "question",
         "t": 5412,
         "text": "Khojay Maar ka Rozay Khulwana pe Sawaab Milta ??"
       },
-      { "type": "question", "t": 5450, "text": "Saving k Plot pe Zakat ??" },
+      {
+        "type": "question",
+        "t": 5450,
+        "text": "Saving k Plot pe Zakat ??"
+      },
       {
         "type": "question",
         "t": 5480,
@@ -11649,7 +12241,11 @@
         "t": 5509,
         "text": "Aurato ka Ghar mei Aeteqaaf Jaiz Hai ??"
       },
-      { "type": "question", "t": 5569, "text": "Fitrana kis Liye Hota hai ?/" },
+      {
+        "type": "question",
+        "t": 5569,
+        "text": "Fitrana kis Liye Hota hai ?/"
+      },
       {
         "type": "question",
         "t": 5597,
@@ -11665,7 +12261,11 @@
         "t": 5775,
         "text": "Aehraam ki Halat mei Kandha Nanga Rakhna Aur Saee Karna ??"
       },
-      { "type": "question", "t": 5765, "text": "Court Marriage Allowed ??" },
+      {
+        "type": "question",
+        "t": 5765,
+        "text": "Court Marriage Allowed ??"
+      },
       {
         "type": "question",
         "t": 5850,
@@ -11705,7 +12305,10 @@
           }
         ]
       },
-      { "t": 6148, "text": "Imdaad-ullah bhai k Sawal ??" },
+      {
+        "t": 6148,
+        "text": "Imdaad-ullah bhai k Sawal ??"
+      },
       {
         "type": "question",
         "t": 6170,
@@ -11751,7 +12354,11 @@
         "t": 6615,
         "text": "Zakat Aur Sadqay k Pese Alehda Alehda Rakhna Hota ??"
       },
-      { "type": "question", "t": 6643, "text": "Zakat k Masarif ??" },
+      {
+        "type": "question",
+        "t": 6643,
+        "text": "Zakat k Masarif ??"
+      },
       {
         "type": "question",
         "t": 6654,
@@ -11802,7 +12409,11 @@
         "t": 7664,
         "text": "Zakat Aur Sadqa-e-Fitr Gaou (Hometown) ki Masjid mei dena lazmi hai ??"
       },
-      { "type": "question", "t": 7769, "text": "Lait k Quran Parhna ??" },
+      {
+        "type": "question",
+        "t": 7769,
+        "text": "Lait k Quran Parhna ??"
+      },
       {
         "type": "question",
         "t": 7777,
@@ -11873,14 +12484,26 @@
         "t": 8233,
         "text": "Karai ka Advance Hamari Raqam ni hoti kya uspay Zakat hai ?? "
       },
-      { "type": "question", "t": 8256, "text": "Darhi Rangna Lazmi Hai ??" },
+      {
+        "type": "question",
+        "t": 8256,
+        "text": "Darhi Rangna Lazmi Hai ??"
+      },
       {
         "type": "question",
         "t": 8290,
         "text": "Kis Rang k Kapray ni Pehnay Ja Sakty ??"
       },
-      { "type": "question", "t": 8335, "text": "Ghusal ka Sunnat tareeqa ??" },
-      { "type": "question", "t": 8375, "text": "Chaand Dekhnay ki Dua ??" },
+      {
+        "type": "question",
+        "t": 8335,
+        "text": "Ghusal ka Sunnat tareeqa ??"
+      },
+      {
+        "type": "question",
+        "t": 8375,
+        "text": "Chaand Dekhnay ki Dua ??"
+      },
       {
         "type": "question",
         "t": 8381,
@@ -11966,7 +12589,11 @@
         "t": 8983,
         "text": "Musafa Kartay waqt Zabaan say bhi kehna Zaroori ??"
       },
-      { "type": "question", "t": 9000, "text": "Sayyid ko Zakat ??" },
+      {
+        "type": "question",
+        "t": 9000,
+        "text": "Sayyid ko Zakat ??"
+      },
       {
         "type": "question",
         "t": 9020,
@@ -12007,7 +12634,11 @@
         "t": 9228,
         "text": "Keeray Makooro ko Marna k liye special Equipement use karn ??"
       },
-      { "type": "question", "t": 9270, "text": "Sabar Mangna Jaiz Hai ??" },
+      {
+        "type": "question",
+        "t": 9270,
+        "text": "Sabar Mangna Jaiz Hai ??"
+      },
       {
         "type": "question",
         "t": 9287,
@@ -12058,7 +12689,11 @@
         "t": 9693,
         "text": "Kaba mei Parindo ko Dala Hwa Khana Log Utha Latay !! Be Aulaad Aurat 3 din Khaye to Aulaad ho Jayegi !!"
       },
-      { "type": "question", "t": 9816, "text": "Qarz Daar ki Qurbani ??" },
+      {
+        "type": "question",
+        "t": 9816,
+        "text": "Qarz Daar ki Qurbani ??"
+      },
       {
         "type": "question",
         "t": 9872,
@@ -12069,7 +12704,11 @@
         "t": 9904,
         "text": "Ksi Dosray ka Salaam Roza-e-Rasool pe dena ??"
       },
-      { "type": "question", "t": 9962, "text": "Namaz mei Jhoolna ??" },
+      {
+        "type": "question",
+        "t": 9962,
+        "text": "Namaz mei Jhoolna ??"
+      },
       {
         "type": "question",
         "t": 10004,
@@ -12100,7 +12739,11 @@
         "t": 10212,
         "text": "Easypaisa ki Services Use Karnay pe Free Internet or Free Minutes ka Milna ??"
       },
-      { "type": "question", "t": 10241, "text": "Mobile Loan bhi Sood hai ??" },
+      {
+        "type": "question",
+        "t": 10241,
+        "text": "Mobile Loan bhi Sood hai ??"
+      },
       {
         "type": "question",
         "t": 10273,
@@ -12191,7 +12834,10 @@
         "t": 10650,
         "text": "Jesi Qoum Wesay Hukmaran Hadith hai ??"
       },
-      { "t": 8896, "text": "End" }
+      {
+        "t": 8896,
+        "text": "End"
+      }
     ],
     "title": "22-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (12-Aug-2018)",
     "publishDate": "2018-08-14T19:00:00.000Z",
@@ -12202,7 +12848,10 @@
   {
     "v": "myJocbkHn68",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 14,
@@ -12224,23 +12873,35 @@
         "t": 538,
         "text": "Ilmi Point # 2: Shabb-e-Qadar ki Tara Apnay Ilaqay ki Date k Sath Rakhna hoga !!"
       },
-      { "t": 637, "text": "Phakki" },
+      {
+        "t": 637,
+        "text": "Phakki"
+      },
       {
         "t": 689,
         "text": "Ilmi Point # 3: Puranay Musalmaan Ye Roza Kesa Rakhtay Thay !!"
       },
-      { "t": 794, "text": "Sheikh Zubair Ali Zai ka Point of View !!" },
+      {
+        "t": 794,
+        "text": "Sheikh Zubair Ali Zai ka Point of View !!"
+      },
       {
         "t": 931,
         "text": "Dunya mei Kai Mulk Aese Jaha Din Hoti Jab Saudia mei Raat Hoti !!"
       },
-      { "t": 979, "text": "Khaleel-ul-Rehman Chisti Sahb ka Point of View !!" },
+      {
+        "t": 979,
+        "text": "Khaleel-ul-Rehman Chisti Sahb ka Point of View !!"
+      },
       {
         "type": "question",
         "t": 1242,
         "text": "Zulhijja Say Mutaliq Kuch Batei !!"
       },
-      { "t": 1324, "text": "Baal Nakhun na Katwana !!" },
+      {
+        "t": 1324,
+        "text": "Baal Nakhun na Katwana !!"
+      },
       {
         "t": 1378,
         "text": "Qurbani ka Din Eid !! Baal Nakhun Katnay pe Qurbani ka Sawab !!"
@@ -12249,7 +12910,10 @@
         "t": 1531,
         "text": "Zulhijja k 10 Dino k Aamaal ki Fazeelat !! Jihaad say Afzal Amaal !! Takbeer Tehmeed Aur Tahleel Kehna !!"
       },
-      { "t": 1864, "text": "Regular Questions !!" },
+      {
+        "t": 1864,
+        "text": "Regular Questions !!"
+      },
       {
         "type": "question",
         "t": 1918,
@@ -12290,7 +12954,10 @@
         "t": 3125,
         "text": "Jaha Pehle Bathroom Ho Ab Wo Saaf Jaga Ban Gai Ho To Waha Namaz Parh Sakty ??"
       },
-      { "t": 3424, "text": "Namaz Break !!" },
+      {
+        "t": 3424,
+        "text": "Namaz Break !!"
+      },
       {
         "type": "question",
         "t": 3442,
@@ -12431,7 +13098,11 @@
         "t": 6353,
         "text": "Imam Mehdi k Anay say Islaam Phel Jayega Aur Qayamat to sirf Kafiro pe ani hai to ye kese mumkin hai ??"
       },
-      { "type": "question", "t": 6429, "text": "Waswasa Anay pe Gunnah ??" },
+      {
+        "type": "question",
+        "t": 6429,
+        "text": "Waswasa Anay pe Gunnah ??"
+      },
       {
         "type": "question",
         "t": 6452,
@@ -12527,7 +13198,11 @@
         "t": 7813,
         "text": "Joint Family mei AIk QUrbani ??"
       },
-      { "type": "question", "t": 7824, "text": "Hajj ki Dua Aur Azkaar !!" },
+      {
+        "type": "question",
+        "t": 7824,
+        "text": "Hajj ki Dua Aur Azkaar !!"
+      },
       {
         "type": "question",
         "t": 7856,
@@ -12558,7 +13233,10 @@
   {
     "v": "D8lU7RhjEbY",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 43,
@@ -12576,7 +13254,10 @@
         "t": 1714,
         "text": "Ilmi Point # 2: Shia/Sunni (Firqo) ki Bunyan pehne Aur Kurta Islam ka Pehne !!"
       },
-      { "t": 1960, "text": "Ksi ka Chero na Apna Choro na !!" },
+      {
+        "t": 1960,
+        "text": "Ksi ka Chero na Apna Choro na !!"
+      },
       {
         "t": 2139,
         "text": "Ilmi Point # 3: Ulema Karaam ko Jaraseem Kehna !!"
@@ -12591,13 +13272,21 @@
         "t": 3317,
         "text": "Barelvio ka Aqeeda k \"Deobandio ko Agar Kafir nahi Kehtay is Liye Ap Khud Kafir Ho\" Sahi hai ??!!"
       },
-      { "type": "question", "t": 3460, "text": "Duaad ko Zuaad Parhna ??" },
+      {
+        "type": "question",
+        "t": 3460,
+        "text": "Duaad ko Zuaad Parhna ??"
+      },
       {
         "type": "question",
         "t": 3611,
         "text": "Toabah k Baad Haram Raqam ka Kya Karei ??"
       },
-      { "type": "question", "t": 3675, "text": "Aurato ka Qabarastan Jana ??" },
+      {
+        "type": "question",
+        "t": 3675,
+        "text": "Aurato ka Qabarastan Jana ??"
+      },
       {
         "type": "question",
         "t": 4123,
@@ -12733,7 +13422,11 @@
         "t": 7497,
         "text": "Makaan Ka Naqsha Bananay say pehle Shariat ki Kya Pabandia hai ??"
       },
-      { "type": "question", "t": 7566, "text": "Jism k Baal Saaf Karna ??" },
+      {
+        "type": "question",
+        "t": 7566,
+        "text": "Jism k Baal Saaf Karna ??"
+      },
       {
         "type": "question",
         "t": 7589,
@@ -12753,7 +13446,11 @@
         "t": 8019,
         "text": "Job ki Waja say Jumaat Chorna ??"
       },
-      { "type": "question", "t": 8072, "text": "Advance mei Tankhwa Jaiz ??" },
+      {
+        "type": "question",
+        "t": 8072,
+        "text": "Advance mei Tankhwa Jaiz ??"
+      },
       {
         "type": "question",
         "t": 8118,
@@ -12764,7 +13461,11 @@
         "t": 8205,
         "text": "Umrah/Hajj mei Aab-e-Zam Zam Chupa k Lana ??"
       },
-      { "type": "question", "t": 8255, "text": "Prize Bond Jaiz Hai ??" },
+      {
+        "type": "question",
+        "t": 8255,
+        "text": "Prize Bond Jaiz Hai ??"
+      },
       {
         "type": "question",
         "t": 8395,
@@ -12790,8 +13491,14 @@
   {
     "v": "UVmKNtFaaCQ",
     "timestamps": [
-      { "t": 0, "text": "Start" },
-      { "t": 32, "text": "Ali Bhai ki Dawat say Related Questions !!" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
+      {
+        "t": 32,
+        "text": "Ali Bhai ki Dawat say Related Questions !!"
+      },
       {
         "type": "question",
         "t": 77,
@@ -12830,7 +13537,10 @@
         "t": 1179,
         "text": "Research Papers Ki Soft Copies Ki Website Ya Mobile Application !!"
       },
-      { "t": 1279, "text": "Android App kab ayegi ??" },
+      {
+        "t": 1279,
+        "text": "Android App kab ayegi ??"
+      },
       {
         "type": "question",
         "t": 1308,
@@ -12856,7 +13566,10 @@
         "t": 1890,
         "text": "Ali Bhai ki Maali Madad Kese Karei ??"
       },
-      { "t": 2386, "text": "General Questions !!" },
+      {
+        "t": 2386,
+        "text": "General Questions !!"
+      },
       {
         "type": "question",
         "t": 2396,
@@ -12877,8 +13590,16 @@
         "t": 3763,
         "text": "Dafnany k Baad Dubara Qabar ko Kholna ??"
       },
-      { "type": "question", "t": 4128, "text": "Postmortem jaiz ??" },
-      { "type": "question", "t": 4260, "text": "Qabar ko Re-Use Karna ??" },
+      {
+        "type": "question",
+        "t": 4128,
+        "text": "Postmortem jaiz ??"
+      },
+      {
+        "type": "question",
+        "t": 4260,
+        "text": "Qabar ko Re-Use Karna ??"
+      },
       {
         "type": "question",
         "t": 4348,
@@ -12914,7 +13635,11 @@
         "t": 5183,
         "text": "Beemari koi bhi Muta'adi (Viral/Epidemic) Nahi Hoti ??"
       },
-      { "type": "question", "t": 6042, "text": "Murakba Kiya Hota ??" },
+      {
+        "type": "question",
+        "t": 6042,
+        "text": "Murakba Kiya Hota ??"
+      },
       {
         "type": "question",
         "t": 6080,
@@ -12935,13 +13660,21 @@
         "t": 6398,
         "text": "Catering k Kamo mei Giyarwi, Urs waghera k Order Lena ??"
       },
-      { "type": "question", "t": 6457, "text": "Mangatar say Milna Julna ??" },
+      {
+        "type": "question",
+        "t": 6457,
+        "text": "Mangatar say Milna Julna ??"
+      },
       {
         "type": "question",
         "t": 6561,
         "text": "Masjido mei Siyasat Discuss Karna ??"
       },
-      { "type": "question", "t": 6752, "text": "Vote do Jannat lo !!" },
+      {
+        "type": "question",
+        "t": 6752,
+        "text": "Vote do Jannat lo !!"
+      },
       {
         "type": "question",
         "t": 6803,
@@ -12973,7 +13706,11 @@
         "t": 7177,
         "text": "Namaz Parhtay Hwe Samny Say Guzarnay Walay Ko Hath Say Rokna ??"
       },
-      { "type": "question", "t": 7236, "text": "Paria kia Hoti hai ??" },
+      {
+        "type": "question",
+        "t": 7236,
+        "text": "Paria kia Hoti hai ??"
+      },
       {
         "type": "question",
         "t": 7303,
@@ -13000,7 +13737,11 @@
         "t": 7403,
         "text": "Khana Dastarkhwa pe Lag Jaye to Jumaat Chor Saktay ??"
       },
-      { "type": "question", "t": 7462, "text": "Ghaibana Namaz-e-Janaza ??" },
+      {
+        "type": "question",
+        "t": 7462,
+        "text": "Ghaibana Namaz-e-Janaza ??"
+      },
       {
         "type": "question",
         "t": 7607,
@@ -13031,7 +13772,11 @@
         "t": 7797,
         "text": "Vote ki Pakki Ink Lagnay pe Wuzu ho jata ??"
       },
-      { "type": "question", "t": 8457, "text": "Aima pe Ijmaa Kab Hwa ??" },
+      {
+        "type": "question",
+        "t": 8457,
+        "text": "Aima pe Ijmaa Kab Hwa ??"
+      },
       {
         "type": "question",
         "t": 7899,
@@ -13042,8 +13787,16 @@
         "t": 7930,
         "text": "Hajj-e-Tamatto mei Pehle Umrah Karna ??"
       },
-      { "type": "question", "t": 8049, "text": "Namaz mei Uncha Parhna ??" },
-      { "type": "question", "t": 8067, "text": "Nashay mei Talaq Ho Jati ??" },
+      {
+        "type": "question",
+        "t": 8049,
+        "text": "Namaz mei Uncha Parhna ??"
+      },
+      {
+        "type": "question",
+        "t": 8067,
+        "text": "Nashay mei Talaq Ho Jati ??"
+      },
       {
         "type": "question",
         "t": 8111,
@@ -13054,7 +13807,11 @@
         "t": 8227,
         "text": "Pese de kar Istakhara Karna ??"
       },
-      { "type": "question", "t": 8258, "text": "Parinday konsay Halal hai ??" },
+      {
+        "type": "question",
+        "t": 8258,
+        "text": "Parinday konsay Halal hai ??"
+      },
       {
         "type": "question",
         "t": 8288,
@@ -13080,7 +13837,11 @@
         "t": 8431,
         "text": "Bemari mei Pehle Doctor k Paas Jayei ya Dumm Karei ??"
       },
-      { "type": "question", "t": 8492, "text": "Permenant Birth Control ??" },
+      {
+        "type": "question",
+        "t": 8492,
+        "text": "Permenant Birth Control ??"
+      },
       {
         "type": "question",
         "t": 8539,
@@ -13121,8 +13882,14 @@
   {
     "v": "A43S6dLN-4Y",
     "timestamps": [
-      { "text": "Start", "t": 0 },
-      { "t": 16, "text": "Introduction ! Elections in Pakistan !!" },
+      {
+        "text": "Start",
+        "t": 0
+      },
+      {
+        "t": 16,
+        "text": "Introduction ! Elections in Pakistan !!"
+      },
       {
         "type": "question",
         "t": 177,
@@ -13148,7 +13915,10 @@
         "t": 2982,
         "text": "Jamhooriyat (Democracy) Kuffar hai ??"
       },
-      { "t": 3474, "text": "After Election Majlis ??" },
+      {
+        "t": 3474,
+        "text": "After Election Majlis ??"
+      },
       {
         "type": "question",
         "t": 3512,
@@ -13249,7 +14019,10 @@
   {
     "v": "QxMsT9dhGCw",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Ap Ka Aek Clip Hai \"Main Sunni Shia Se Musalman Kese Huwa\" To Kia Aap Sunni Shia Ko Kafir Samajhte Hain ?",
@@ -13370,7 +14143,10 @@
   {
     "v": "s_nPdXZBIqQ",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 44,
@@ -13660,21 +14436,42 @@
         "t": 379,
         "text": "Imran Khan pe 2 Extreme Point of Views ?? Unko Kafar Kehna ??"
       },
-      { "text": "Barelvi Imam Aala Hazrat Barelvi ka Aqeeda ??", "t": 598 },
-      { "text": "Mazar Walo ki Khidmaat hai ??", "t": 1007 },
-      { "text": "Dil Be-Imaan te Hujta Dher !! (3 Dhokay)", "t": 1164 },
-      { "text": "Dhoka 1: Sajda 7 Azaa pe Hota Hai ??", "t": 1250 },
-      { "text": "Hath Choomnay ka Masla !!", "t": 1849 },
+      {
+        "text": "Barelvi Imam Aala Hazrat Barelvi ka Aqeeda ??",
+        "t": 598
+      },
+      {
+        "text": "Mazar Walo ki Khidmaat hai ??",
+        "t": 1007
+      },
+      {
+        "text": "Dil Be-Imaan te Hujta Dher !! (3 Dhokay)",
+        "t": 1164
+      },
+      {
+        "text": "Dhoka 1: Sajda 7 Azaa pe Hota Hai ??",
+        "t": 1250
+      },
+      {
+        "text": "Hath Choomnay ka Masla !!",
+        "t": 1849
+      },
       {
         "text": "Dhoka 2: Sajday Or Rukoo Ki Niyyat Na Ho To Kuch Ni Hota",
         "t": 2062
       },
-      { "text": "Aala Hazrat ka Sajda-e-Tazeemi pe Moaqif !!", "t": 2851 },
+      {
+        "text": "Aala Hazrat ka Sajda-e-Tazeemi pe Moaqif !!",
+        "t": 2851
+      },
       {
         "text": "Dhoka 3: Nabi صلى الله عليه وسلم Ne Mazaro Pe Janay Ka Hukm Dya ??",
         "t": 2911
       },
-      { "text": "Conclusion !!", "t": 3354 },
+      {
+        "text": "Conclusion !!",
+        "t": 3354
+      },
       {
         "type": "question",
         "t": 3805,
@@ -14115,7 +14912,10 @@
   {
     "v": "immXiHLfsc0",
     "timestamps": [
-      { "t": 0, "text": "Start" },
+      {
+        "t": 0,
+        "text": "Start"
+      },
       {
         "type": "question",
         "t": 42,
@@ -14511,7 +15311,10 @@
   {
     "v": "j8VpOGKRGZ4",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "text": "Na Mei Wahabi Na mei Babi\tMei Hu Muslim Ilmi Kitbai !!",
         "t": 142
@@ -14556,7 +15359,11 @@
         "text": "Allah Ibadat say Paak hai to wo Darood Kyun Parhta ??",
         "t": 3911
       },
-      { "type": "question", "text": "Freelancing Halal Hai ??", "t": 4271 },
+      {
+        "type": "question",
+        "text": "Freelancing Halal Hai ??",
+        "t": 4271
+      },
       {
         "type": "question",
         "text": "Nabeena Shaks ki Imamat Makrooh Hoti ??",
@@ -14613,13 +15420,21 @@
         "text": "Daei Paoun ka Anghoota Hil Janay say Namaz Toot jati ??",
         "t": 7474
       },
-      { "type": "question", "text": "Sana Kab Parhni Hoti ??", "t": 7570 },
+      {
+        "type": "question",
+        "text": "Sana Kab Parhni Hoti ??",
+        "t": 7570
+      },
       {
         "type": "question",
         "text": "Ijtimaee Dua Biddat hai ?? Farz Namaz k Baad dua ??",
         "t": 7685
       },
-      { "type": "question", "text": "Hijamat Karna Jaiz Hai ??", "t": 7815 },
+      {
+        "type": "question",
+        "text": "Hijamat Karna Jaiz Hai ??",
+        "t": 7815
+      },
       {
         "type": "question",
         "text": "Hazrat Saad رضي الله عنه ki Qabar bhi Tang hwi ??",
@@ -14665,13 +15480,21 @@
         "text": "Hazrat Umar رضي الله عنه ne Apni Behan ko Quran Parhta Sun Kar Islam Qubool Kya ??",
         "t": 8330
       },
-      { "type": "question", "text": "Quran ko Back Karna ??", "t": 8353 },
+      {
+        "type": "question",
+        "text": "Quran ko Back Karna ??",
+        "t": 8353
+      },
       {
         "type": "question",
         "text": "Latest Namaz/Rozay ki Timing mei Farq hai !! ",
         "t": 8443
       },
-      { "type": "question", "text": "Ameer Muawiyya Kyu Kehtay ??", "t": 8459 },
+      {
+        "type": "question",
+        "text": "Ameer Muawiyya Kyu Kehtay ??",
+        "t": 8459
+      },
       {
         "type": "question",
         "text": "Dunya ki Muhabbat ko Dil mei say Khatam karnay ka Tareeqa ??",
@@ -14701,7 +15524,10 @@
         "t": 0,
         "text": "REPLY to Maulana ILYAS Qadri Sb. on Hazrat-e-MOAVIAH رضی اللہ عنہ !! 5 Ilmi Points !!"
       },
-      { "t": 744, "text": "Ilmi Point #1, Murdo ko Galia Dene ??" },
+      {
+        "t": 744,
+        "text": "Ilmi Point #1, Murdo ko Galia Dene ??"
+      },
       {
         "t": 1447,
         "text": "Ilmi Point #2, \"Be Gunah Be Khata Muawiyaa Muawiyaa\" Ahl-e-Sunnat k Aqaid k Khilaaf ?? 3 Misaalei !!"
@@ -14742,7 +15568,10 @@
         "t": 4894,
         "text": "Ilmi Point #4, Hajj-e-Tamatto Aur Khulfa-e-Rashideen se Ikhtilaaf !! Sahaba ko Bura Mat Kaho !!"
       },
-      { "t": 5628, "text": "Ilmi Point #5, Hubb-e-Ali vs Bughz-e-Moaviah !!" },
+      {
+        "t": 5628,
+        "text": "Ilmi Point #5, Hubb-e-Ali vs Bughz-e-Moaviah !!"
+      },
       {
         "t": 6298,
         "text": "Conclusion !! Related Lectures aur Research Paper 5B !!"
@@ -14762,7 +15591,11 @@
         "text": "Durood mei Aal-e-Muhammad say Kya Muraad !!",
         "type": "question"
       },
-      { "t": 8572, "text": "Ahaadith k Turk !!", "type": "question" },
+      {
+        "t": 8572,
+        "text": "Ahaadith k Turk !!",
+        "type": "question"
+      },
       {
         "t": 8694,
         "text": "Hussain عَلَيْهِ ٱلسَّلَامُ ne Asar ki Namaz Jannat mei Ada ki !!",
@@ -14813,8 +15646,16 @@
         "text": "Rukoo or Sajdo ki Tasbeehat Adal Badal Karna ??",
         "type": "question"
       },
-      { "t": 10102, "text": "Zakat ki Aftaari Khana ??", "type": "question" },
-      { "t": 10313, "text": "Benamazi ka Roza Rakhna ??", "type": "question" },
+      {
+        "t": 10102,
+        "text": "Zakat ki Aftaari Khana ??",
+        "type": "question"
+      },
+      {
+        "t": 10313,
+        "text": "Benamazi ka Roza Rakhna ??",
+        "type": "question"
+      },
       {
         "t": 10395,
         "text": "Shawal k Rozo k Sath Qaza Rozay ??",
@@ -14835,13 +15676,21 @@
         "text": "Teeka Laganay se Roza Tootna ??",
         "type": "question"
       },
-      { "t": 10703, "text": "Rozay mei Inhaler ??", "type": "question" },
+      {
+        "t": 10703,
+        "text": "Rozay mei Inhaler ??",
+        "type": "question"
+      },
       {
         "t": 10809,
         "text": "Laylat-ul-Qadar k Lye Saari Raat Jagna ??",
         "type": "question"
       },
-      { "t": 10891, "text": "Rozay k Lye Shari Parda ??", "type": "question" },
+      {
+        "t": 10891,
+        "text": "Rozay k Lye Shari Parda ??",
+        "type": "question"
+      },
       {
         "t": 10942,
         "text": "Sehri k Waqt Kab Tak Kha Saktya ??",
@@ -14882,7 +15731,11 @@
         "text": "Kya Hijaam ka Kaam Jaiz Hai ??",
         "type": "question"
       },
-      { "t": 11519, "text": "Umray k Baad Baal Katna ??", "type": "question" },
+      {
+        "t": 11519,
+        "text": "Umray k Baad Baal Katna ??",
+        "type": "question"
+      },
       {
         "t": 11571,
         "text": "Mayyat ko Bosa Dena ?? Chehra Dekhna ??",
@@ -14893,7 +15746,11 @@
         "text": "Donation Jama Kar k Apni Dokaan se Maal Khareedna ??",
         "type": "question"
       },
-      { "t": 11773, "text": "Shadio pe Fazool Kharchi ??", "type": "question" },
+      {
+        "t": 11773,
+        "text": "Shadio pe Fazool Kharchi ??",
+        "type": "question"
+      },
       {
         "t": 11870,
         "text": "Companio se Sood pe Gari Lena ??",
@@ -14924,7 +15781,11 @@
         "text": "Apni Academy mei Beghair Tarjuma k Quran Kyun Rakha ??",
         "type": "question"
       },
-      { "t": 12336, "text": "Fiqh Kitni Zaroori ??", "type": "question" },
+      {
+        "t": 12336,
+        "text": "Fiqh Kitni Zaroori ??",
+        "type": "question"
+      },
       {
         "t": 12467,
         "text": "Ulema Deoband ksi Bhi Ulema pe Awaaz ni Uthatay ??",
@@ -14940,8 +15801,16 @@
         "text": "Shart k beghair Sports or E-Sports se Pese Kamana ??",
         "type": "question"
       },
-      { "t": 12646, "text": "Vote Dalna Zaroori Hai ??", "type": "question" },
-      { "t": 12874, "text": "AP Vote Cast Kartay ??", "type": "question" },
+      {
+        "t": 12646,
+        "text": "Vote Dalna Zaroori Hai ??",
+        "type": "question"
+      },
+      {
+        "t": 12874,
+        "text": "AP Vote Cast Kartay ??",
+        "type": "question"
+      },
       {
         "t": 12936,
         "text": "Gher Muslim Mumalik mei Kinko Vote Dalei ??",
@@ -14967,7 +15836,11 @@
         "text": "New Logo ka Deen mei Anay pe Jazbaati Bartao ??",
         "type": "question"
       },
-      { "t": 13425, "text": "Ali Mushkil Kusha Kehna ??", "type": "question" },
+      {
+        "t": 13425,
+        "text": "Ali Mushkil Kusha Kehna ??",
+        "type": "question"
+      },
       {
         "t": 13460,
         "text": "Masjid mei Firqo k Naam Likhna ??",
@@ -14983,7 +15856,11 @@
         "text": "Makaan Banany k Lye Jama Kye Hwe Peso pe Zakat ??",
         "type": "question"
       },
-      { "t": 13558, "text": "Aurato ka Janaza Parhna ??", "type": "question" },
+      {
+        "t": 13558,
+        "text": "Aurato ka Janaza Parhna ??",
+        "type": "question"
+      },
       {
         "t": 13586,
         "text": "Nabi صلى الله عليه وسلم ne Sab Kuch Allah ki Raah mei De Dya ?? Kya Hum b Aese Kar Sakty ??",
@@ -15014,7 +15891,11 @@
         "text": "Gallay mei Haar or Zanjeer Pehanana ??",
         "type": "question"
       },
-      { "t": 13721, "text": "Farz or Masnoon Darhi ?", "type": "question" }
+      {
+        "t": 13721,
+        "text": "Farz or Masnoon Darhi ?",
+        "type": "question"
+      }
     ],
     "title": "13-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (10-Jun-2018)",
     "publishDate": "2018-06-12T19:00:00.000Z",
@@ -15025,13 +15906,20 @@
   {
     "v": "ojNvIgNP1vo",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Aaap Charo Imam ko Bewaqoof Samjhtay Hain ?? Goro ko Konsa Buzurg dei gay ??",
         "t": 77
       },
-      { "type": "question", "text": "20 Tarwaee pe Ijima ??", "t": 557 },
+      {
+        "type": "question",
+        "text": "20 Tarwaee pe Ijima ??",
+        "t": 557
+      },
       {
         "type": "question",
         "text": "Quran-o-Sunnat (Hifz) k Madarassa say kya masla ?? ",
@@ -15057,7 +15945,11 @@
         "text": "Allah Aur Rasool k Ilawa koi Aur Hasti hai jisko na Mananay say koi kafir hota ??",
         "t": 2331
       },
-      { "type": "question", "text": "Quran ka Sahi Faham ??", "t": 2600 },
+      {
+        "type": "question",
+        "text": "Quran ka Sahi Faham ??",
+        "t": 2600
+      },
       {
         "type": "question",
         "text": "Jalsa Istiharat Mansookh ho gya ?? Adam-e-Zikar Kya Hota ??",
@@ -15089,8 +15981,16 @@
         "text": "Sehri Ka Time Khatam Hotay Waqt Azaan K Doran Khana Peena ??",
         "t": 5330
       },
-      { "type": "question", "text": "Sea Food Konsa Jaiz ??", "t": 5616 },
-      { "type": "question", "text": "Ghora Makrooh ??", "t": 5861 },
+      {
+        "type": "question",
+        "text": "Sea Food Konsa Jaiz ??",
+        "t": 5616
+      },
+      {
+        "type": "question",
+        "text": "Ghora Makrooh ??",
+        "t": 5861
+      },
       {
         "type": "question",
         "text": "Aksariyat Jahanam Mei Ja Rhi To Aam Banday Ka Kya Qasoor ?? Aam Banday Ka Itna Level Ni Hota K Har Cheez Parhay ??",
@@ -15150,7 +16050,11 @@
         "text": "Ulema Agar Masjid Mei Tang Karay To Kiya Karei ??",
         "t": 7359
       },
-      { "type": "question", "text": "Qunoot-e-Witr konsi hai ??", "t": 7704 },
+      {
+        "type": "question",
+        "text": "Qunoot-e-Witr konsi hai ??",
+        "t": 7704
+      },
       {
         "type": "question",
         "text": "Ayat-e-Kareema, Hazrat عَلَيْهِ ٱلسَّلَامُ Younus ki Dua !!",
@@ -15166,7 +16070,10 @@
         "text": "Potay Potio ko Wirasat ka Hissa ??",
         "t": 7819
       },
-      { "text": "Break", "t": 7884 },
+      {
+        "text": "Break",
+        "t": 7884
+      },
       {
         "type": "question",
         "text": "Insaan Ashraf-ul-Makhlooqat hai ??",
@@ -15182,7 +16089,11 @@
         "text": "Soofio ki Categories kisnay Define ki ?? ",
         "t": 8674
       },
-      { "type": "question", "text": "Urs kya hota ??", "t": 8821 },
+      {
+        "type": "question",
+        "text": "Urs kya hota ??",
+        "t": 8821
+      },
       {
         "type": "question",
         "text": "Mushajaraat-e-Sahaba say Imaan Khatray mei Par Jata ??",
@@ -15199,13 +16110,21 @@
         "text": "Sahaba mei Afzaliyat ka Comparison ??",
         "t": 9093
       },
-      { "type": "question", "text": "Ijima ka Kese Faisla Hoga ??", "t": 9164 },
+      {
+        "type": "question",
+        "text": "Ijima ka Kese Faisla Hoga ??",
+        "t": 9164
+      },
       {
         "type": "question",
         "text": "Fatiha Khalf-ul-Imaam ka Masla ??",
         "t": 9254
       },
-      { "type": "question", "text": "Rukoo mei Rakaat Mil Jati ??", "t": 9424 },
+      {
+        "type": "question",
+        "text": "Rukoo mei Rakaat Mil Jati ??",
+        "t": 9424
+      },
       {
         "type": "question",
         "text": "Nikkah mei Aurat ko Talaq ki Ijazat dene ki shart Rakhna ??",
@@ -15231,7 +16150,11 @@
         "text": "Quran ki Qasam Khana (Aur phir tor dena) ??",
         "t": 9722
       },
-      { "type": "question", "text": "Azaan k Liye Wuzu Zaroori ??", "t": 9861 },
+      {
+        "type": "question",
+        "text": "Azaan k Liye Wuzu Zaroori ??",
+        "t": 9861
+      },
       {
         "type": "question",
         "text": "Beta Allah ki Nemat, Aur Beti Allah ki Rehmat ??",
@@ -15242,7 +16165,11 @@
         "text": "Hazrat Umar رضي الله عنه ne Hazra Abu Huraira رضي الله عنه ko Ahadith Bayan karnay say Kyun Roka ??",
         "t": 9926
       },
-      { "type": "question", "text": "Bank mei Zakat ??", "t": 9989 },
+      {
+        "type": "question",
+        "text": "Bank mei Zakat ??",
+        "t": 9989
+      },
       {
         "type": "question",
         "text": "Kitni Dur k Safar mei Banda Musafar hoga (Namaz Qasar ya Roza Chornay k liye) ??",
@@ -15318,8 +16245,14 @@
   {
     "v": "ogq1zN3cgM8",
     "timestamps": [
-      { "text": "Introduction", "t": 0 },
-      { "text": "Youm-e-Takbeer Aur Ali Mirza !!!", "t": 54 },
+      {
+        "text": "Introduction",
+        "t": 0
+      },
+      {
+        "text": "Youm-e-Takbeer Aur Ali Mirza !!!",
+        "t": 54
+      },
       {
         "type": "question",
         "text": "Maulana Tariq Jamil ka Moala Ali Kehna ?? Deoband k Ulema ki Mukhalfat ??",
@@ -15331,7 +16264,10 @@
           }
         ]
       },
-      { "text": "Maola ka Lafz Sirf Hazrat Ali k Sath hai ??", "t": 1109 },
+      {
+        "text": "Maola ka Lafz Sirf Hazrat Ali k Sath hai ??",
+        "t": 1109
+      },
       {
         "type": "question",
         "text": "Faout SHuda Biwi ki Hath Lagana ??",
@@ -15366,7 +16302,10 @@
         "text": "Imaam Bukhari ki Sama ki Tasree k Beghair Hadith Zeef kyun ni Hoti ??",
         "t": 3835
       },
-      { "text": "Tabqaat Wali Taqseem Kya Hai ??", "t": 3872 },
+      {
+        "text": "Tabqaat Wali Taqseem Kya Hai ??",
+        "t": 3872
+      },
       {
         "text": "Zaeef Hadithay Kyun Kitabo mei Likhi ??",
         "t": 4027,
@@ -15423,8 +16362,16 @@
         "text": "Islaam 360 mei Sahi Bukhari k Baab mei Ghaltia ??",
         "t": 7489
       },
-      { "type": "question", "text": "Janazay mei Taak Saffei ??", "t": 7575 },
-      { "type": "question", "text": "Commercial Plot ki Zakat ??", "t": 7695 },
+      {
+        "type": "question",
+        "text": "Janazay mei Taak Saffei ??",
+        "t": 7575
+      },
+      {
+        "type": "question",
+        "text": "Commercial Plot ki Zakat ??",
+        "t": 7695
+      },
       {
         "type": "question",
         "text": "20 Taraweeh peh IJMA ka Jhoota DAWA ! ! Reply to Mufti Tariq Masood ! ! ",
@@ -15452,7 +16399,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Beta Honay k Liye Dawai ??", "t": 8703 }
+      {
+        "type": "question",
+        "text": "Beta Honay k Liye Dawai ??",
+        "t": 8703
+      }
     ],
     "title": "10-ILMI-o-Tahqeeqi MAJLIS (Open Q & A Session) with Engineer Muhammad Ali Mirza Bhai (27-May-2018)",
     "publishDate": "2018-05-27T19:00:00.000Z",
@@ -15463,7 +16414,10 @@
   {
     "v": "UX1fBrncQKI",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Meer Dard k Sher ki Shari Hasiyat ?? Shero Shairi aur deen mei Compromise ??",
@@ -15525,7 +16479,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Dars k Doran Zikar Karna ??", "t": 5001 },
+      {
+        "type": "question",
+        "text": "Dars k Doran Zikar Karna ??",
+        "t": 5001
+      },
       {
         "type": "question",
         "text": "Doodh Pilanay wali Aurat k Rozay ??",
@@ -15586,7 +16544,11 @@
         "text": "Har Takbeer mei Rafa Yadain ??",
         "t": 5817
       },
-      { "type": "question", "text": "Roza Rakh k Soye Rehna ??", "t": 5830 },
+      {
+        "type": "question",
+        "text": "Roza Rakh k Soye Rehna ??",
+        "t": 5830
+      },
       {
         "type": "question",
         "text": "1 Lakh Nabio صلى الله عليه وسلم ne Masjid-e-Aqsa mei Namaz Kese Parhi ??",
@@ -15617,7 +16579,11 @@
         "text": "Rohani Opeeration ka Islam mei Concept ??",
         "t": 6253
       },
-      { "type": "question", "text": "Mard ka Satar ??", "t": 6553 },
+      {
+        "type": "question",
+        "text": "Mard ka Satar ??",
+        "t": 6553
+      },
       {
         "type": "question",
         "text": "Selfies Aur Videos Banana Jaiz Kyun Hai ?? Kis Hadith mei hai ??",
@@ -15659,7 +16625,11 @@
         "text": "Shadio pe Salami Dena Jaiz Hai ??",
         "t": 6937
       },
-      { "type": "question", "text": "Jahez Aj K Dor mei Lanat ??", "t": 7004 },
+      {
+        "type": "question",
+        "text": "Jahez Aj K Dor mei Lanat ??",
+        "t": 7004
+      },
       {
         "type": "question",
         "text": "Mazhab Taraqi ki Rah mei Rukawat ???",
@@ -15715,13 +16685,21 @@
         "text": "Hazrat Umar Aur Abu Bakar رضي الله عنه ne Taqdeer ko Discuss karnay say Mana Kiya ??",
         "t": 7954
       },
-      { "type": "question", "text": "Fidya ??", "t": 8025 },
+      {
+        "type": "question",
+        "text": "Fidya ??",
+        "t": 8025
+      },
       {
         "type": "question",
         "text": "Daan Brush Karnay say Roza Tootna ??",
         "t": 8053
       },
-      { "type": "question", "text": "Roza Torna ??", "t": 8208 },
+      {
+        "type": "question",
+        "text": "Roza Torna ??",
+        "t": 8208
+      },
       {
         "type": "question",
         "text": "Gher Muslim k Ghar Roza Kholna ?/",
@@ -15732,8 +16710,16 @@
         "text": "Rozay k Liye Sehri Khaana Zaroori ??",
         "t": 8254
       },
-      { "type": "question", "text": "Nisf Shaban k Baad Rozay ??", "t": 8267 },
-      { "type": "question", "text": "Shawal k 6 Rozay ??", "t": 8286 },
+      {
+        "type": "question",
+        "text": "Nisf Shaban k Baad Rozay ??",
+        "t": 8267
+      },
+      {
+        "type": "question",
+        "text": "Shawal k 6 Rozay ??",
+        "t": 8286
+      },
       {
         "type": "question",
         "text": "Aj K Dor mei Kitna Fadya Banay Ga ?/",
@@ -15744,7 +16730,11 @@
         "text": "Rozay ki Halat mei Balo ko Color Lagana ??",
         "t": 8537
       },
-      { "type": "question", "text": "Beemar Admi ka Fidya ??", "t": 8562 },
+      {
+        "type": "question",
+        "text": "Beemar Admi ka Fidya ??",
+        "t": 8562
+      },
       {
         "type": "question",
         "text": "Zakat Sadqa Gher Muslim ko Dena ??",
@@ -15760,7 +16750,10 @@
   {
     "v": "luyYSJ4fZlg",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Sahaba ya Tabeen k Aqwaal Hujjat hai ??",
@@ -15781,7 +16774,11 @@
         "text": "Moala Ali رضي الله عنه ne Khawarij k Janazay Parhay iska Refernece Day ??",
         "t": 1199
       },
-      { "type": "question", "text": "5-B mei Zaeef Ahadith ??", "t": 1867 },
+      {
+        "type": "question",
+        "text": "5-B mei Zaeef Ahadith ??",
+        "t": 1867
+      },
       {
         "type": "question",
         "text": "'Mere Baad Kaafir na Ho Jana k Aik Dosray ki Gardanei marna' Hadithki Explaination ??",
@@ -15847,7 +16844,11 @@
         "text": "Imaam Abu Hanifa ko Imaam-e-Azam Kehna ??",
         "t": 4156
       },
-      { "type": "question", "text": "Zakat k Peso say Hajj ??", "t": 4277 },
+      {
+        "type": "question",
+        "text": "Zakat k Peso say Hajj ??",
+        "t": 4277
+      },
       {
         "type": "question",
         "text": "Mayyat ko Patto say Ghusal ??",
@@ -15878,7 +16879,11 @@
         "text": "Har Firqay mei say Log Jahanam mei jaye gay ??",
         "t": 4698
       },
-      { "type": "question", "text": "Tasawwuf Aik Deen hai ??", "t": 4859 },
+      {
+        "type": "question",
+        "text": "Tasawwuf Aik Deen hai ??",
+        "t": 4859
+      },
       {
         "type": "question",
         "text": "Shadio mei Barabari na Kar Saky to Bakhshish ni Hogi ??",
@@ -15899,11 +16904,31 @@
         "text": "Saari Daulat is liye Kharch Karna k Aulaad ko Jaidad na Milay ??",
         "t": 5464
       },
-      { "type": "question", "text": "Murtad ki Saza ??", "t": 5490 },
-      { "type": "question", "text": "Qadianio say Nikkah Jaiz ??", "t": 5500 },
-      { "type": "question", "text": "Ijtehad Kon Kar Sakta ??", "t": 5530 },
-      { "type": "question", "text": "Aurat ka Parda ??", "t": 5617 },
-      { "type": "question", "text": "Mardo ka Parda ??", "t": 5655 },
+      {
+        "type": "question",
+        "text": "Murtad ki Saza ??",
+        "t": 5490
+      },
+      {
+        "type": "question",
+        "text": "Qadianio say Nikkah Jaiz ??",
+        "t": 5500
+      },
+      {
+        "type": "question",
+        "text": "Ijtehad Kon Kar Sakta ??",
+        "t": 5530
+      },
+      {
+        "type": "question",
+        "text": "Aurat ka Parda ??",
+        "t": 5617
+      },
+      {
+        "type": "question",
+        "text": "Mardo ka Parda ??",
+        "t": 5655
+      },
       {
         "type": "question",
         "text": "Masjid banany ki Khawahish ho to Kis Firqay ko de ??",
@@ -15944,7 +16969,11 @@
         "text": "Halal Janwar ka Kya Kya Halal ?? Samanduri Janwar ??",
         "t": 6118
       },
-      { "type": "question", "text": "Haq Mehar ??", "t": 6218 },
+      {
+        "type": "question",
+        "text": "Haq Mehar ??",
+        "t": 6218
+      },
       {
         "type": "question",
         "text": "Hazrat Isa ko Nai Pata thay k PEechay Log SHirk Kar rhay ??",
@@ -15970,9 +16999,20 @@
         "text": "Shaksiat Parasti Islaam mei Jaiz ??",
         "t": 6412
       },
-      { "type": "question", "text": "Chehray pe Noraniat ??", "t": 6490 },
-      { "text": "Movies dekhne ki Targheeb ?/", "t": 6721 },
-      { "type": "question", "text": "Na Mehram say Baat Karna ??", "t": 6756 },
+      {
+        "type": "question",
+        "text": "Chehray pe Noraniat ??",
+        "t": 6490
+      },
+      {
+        "text": "Movies dekhne ki Targheeb ?/",
+        "t": 6721
+      },
+      {
+        "type": "question",
+        "text": "Na Mehram say Baat Karna ??",
+        "t": 6756
+      },
       {
         "type": "question",
         "text": "Bhai ki Saas k Sath Nikkah ??",
@@ -15998,8 +17038,14 @@
   {
     "v": "rt0SJiCkO4A",
     "timestamps": [
-      { "text": "Start", "t": 0 },
-      { "text": "Questions regarding Shah G ?? ", "t": 24 },
+      {
+        "text": "Start",
+        "t": 0
+      },
+      {
+        "text": "Questions regarding Shah G ?? ",
+        "t": 24
+      },
       {
         "type": "question",
         "text": "Rafa-ul-Yadain k Dalail say Pehle Istikhara Shuru Karei ??",
@@ -16020,7 +17066,11 @@
         "text": "Qabro pe Shirk ?? Qabar walo pe Zimedari ??",
         "t": 1857
       },
-      { "type": "question", "text": "'Syed' Saray Tawawuf Thay ??", "t": 2088 },
+      {
+        "type": "question",
+        "text": "'Syed' Saray Tawawuf Thay ??",
+        "t": 2088
+      },
       {
         "type": "question",
         "text": "Gher Muslim Mumalik mei Kafiro k Sath Dafan ??",
@@ -16073,7 +17123,10 @@
         "text": "Exams mei Cheating ?? Cheating wali Degree, Jobs Haram ??",
         "t": 3127
       },
-      { "text": "Rishwat Kis Waqt Jaiz ??", "t": 3210 },
+      {
+        "text": "Rishwat Kis Waqt Jaiz ??",
+        "t": 3210
+      },
       {
         "type": "question",
         "text": "Hajj pe Jatay hwe List bana k Durood Bhejna ??",
@@ -16084,9 +17137,20 @@
         "text": "Subah Shaam k Azaar ki Exact Timings ??",
         "t": 3360
       },
-      { "type": "question", "text": "Hath Say Khana Lazmi ??", "t": 3419 },
-      { "text": "Pizza Burger Yahood-o-Nasara ki Dish ??", "t": 3500 },
-      { "type": "question", "text": "Gher Muslim ko Quran Dena ??", "t": 3553 },
+      {
+        "type": "question",
+        "text": "Hath Say Khana Lazmi ??",
+        "t": 3419
+      },
+      {
+        "text": "Pizza Burger Yahood-o-Nasara ki Dish ??",
+        "t": 3500
+      },
+      {
+        "type": "question",
+        "text": "Gher Muslim ko Quran Dena ??",
+        "t": 3553
+      },
       {
         "text": "Aab-e-Zam Zam ya Mutabarak Khajoorei Gher Musalmano ko dena ??",
         "t": 3685
@@ -16136,7 +17200,11 @@
         "text": "Dhokay Baaz k Peechay Namaz ??",
         "t": 4337
       },
-      { "type": "question", "text": "Ushar ka Tareeqa ??", "t": 4518 },
+      {
+        "type": "question",
+        "text": "Ushar ka Tareeqa ??",
+        "t": 4518
+      },
       {
         "type": "question",
         "text": "Haiz k Dino mei Quran Parhna ??",
@@ -16167,14 +17235,26 @@
         "text": "Sharaab Juwa k Liye Baap ko Pese Dena ??",
         "t": 4730
       },
-      { "type": "question", "text": "Kisto ka Karobar ??", "t": 4760 },
-      { "type": "question", "text": "Khanay k Baad Paani peena ??", "t": 4783 },
+      {
+        "type": "question",
+        "text": "Kisto ka Karobar ??",
+        "t": 4760
+      },
+      {
+        "type": "question",
+        "text": "Khanay k Baad Paani peena ??",
+        "t": 4783
+      },
       {
         "type": "question",
         "text": "Qisto mei Li Hwi Cheez pe Zakat ??",
         "t": 4834
       },
-      { "type": "question", "text": "Karay k Makaan mei Zakat ??", "t": 4893 },
+      {
+        "type": "question",
+        "text": "Karay k Makaan mei Zakat ??",
+        "t": 4893
+      },
       {
         "type": "question",
         "text": "Zakat k Peso say Haj ya Umara Karana ??",
@@ -16195,13 +17275,21 @@
         "text": "Kutta Ghar mei ho to Farishtay ni atay ??",
         "t": 5168
       },
-      { "type": "question", "text": "Gana Suna Haram hai ??", "t": 5208 },
+      {
+        "type": "question",
+        "text": "Gana Suna Haram hai ??",
+        "t": 5208
+      },
       {
         "type": "question",
         "text": "Zakat Sonay pe ya Chandi pe ??",
         "t": 5250
       },
-      { "type": "question", "text": "Qabarastano mei Masjid ??", "t": 5260 },
+      {
+        "type": "question",
+        "text": "Qabarastano mei Masjid ??",
+        "t": 5260
+      },
       {
         "type": "question",
         "text": "Reply to Neil de Grass Tyson's argument, God is Not All Merciful ??",
@@ -16217,7 +17305,11 @@
   {
     "v": "8Cy7v2ugPo0",
     "timestamps": [
-      { "type": "question", "text": "Start", "t": 0 },
+      {
+        "type": "question",
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Dawat dene pe Wahabi Honay ka Ilzaam ??",
@@ -16259,7 +17351,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Gher Ambia pe Ilhaam ??", "t": 2527 },
+      {
+        "type": "question",
+        "text": "Gher Ambia pe Ilhaam ??",
+        "t": 2527
+      },
       {
         "type": "question",
         "text": "Hanfi Namaz mei Kya Masla Hai ?? Aajzana Tareeqa hai ??",
@@ -16280,7 +17376,11 @@
         "text": "Maarfat say Kya Matlab Hai ??",
         "t": 2667
       },
-      { "type": "question", "text": "Istikhara Kya Hota ??", "t": 2703 },
+      {
+        "type": "question",
+        "text": "Istikhara Kya Hota ??",
+        "t": 2703
+      },
       {
         "type": "question",
         "text": "Khud kO Kese Parkha Jaye k Mei Haq pe hu ??",
@@ -16297,8 +17397,16 @@
           }
         ]
       },
-      { "type": "question", "text": "Imam Masjid ko Zakat ??", "t": 2873 },
-      { "type": "question", "text": "Aurato k Kapro ka Karobar ??", "t": 2893 },
+      {
+        "type": "question",
+        "text": "Imam Masjid ko Zakat ??",
+        "t": 2873
+      },
+      {
+        "type": "question",
+        "text": "Aurato k Kapro ka Karobar ??",
+        "t": 2893
+      },
       {
         "type": "question",
         "text": "Sahaba ka Quran Sun kar Dil Kanpana Lekin Hamaray Dil Sakht Kyun ??",
@@ -16319,13 +17427,21 @@
         "text": "Janabat Aur Haiz ka Aik Hi Ghusal ??",
         "t": 3193
       },
-      { "type": "question", "text": "Qabar Khawab Gah Hai ??", "t": 3207 },
+      {
+        "type": "question",
+        "text": "Qabar Khawab Gah Hai ??",
+        "t": 3207
+      },
       {
         "type": "question",
         "text": "Fitna ki Ahadith say Kya Matlab ???",
         "t": 3247
       },
-      { "type": "question", "text": "2 Zanya ki Shadi ??", "t": 3299 },
+      {
+        "type": "question",
+        "text": "2 Zanya ki Shadi ??",
+        "t": 3299
+      },
       {
         "type": "question",
         "text": "Mout pe Maaf Kar Dene say Murday ko Faida Hoga ??",
@@ -16356,9 +17472,21 @@
         "text": "Mout ka Waqt Muqarar hai to Umar kese Barh Jati ??",
         "t": 3649
       },
-      { "type": "question", "text": "Khawateen ki Eid ki Namaz ??", "t": 3702 },
-      { "type": "question", "text": "Plot ki Zakat ??", "t": 3731 },
-      { "type": "question", "text": "Zakat ki Raqam Kesay Dei ??", "t": 3765 },
+      {
+        "type": "question",
+        "text": "Khawateen ki Eid ki Namaz ??",
+        "t": 3702
+      },
+      {
+        "type": "question",
+        "text": "Plot ki Zakat ??",
+        "t": 3731
+      },
+      {
+        "type": "question",
+        "text": "Zakat ki Raqam Kesay Dei ??",
+        "t": 3765
+      },
       {
         "type": "question",
         "text": "Zakat ka Haq Daar na Ho Aur wo Zakat Wasool Karay to Kya Krei ??",
@@ -16369,8 +17497,16 @@
         "text": "Rafa-ul-Yadain Moatta Imam Malik ?? Moata Imam Malik ki Numbering ??",
         "t": 3844
       },
-      { "type": "question", "text": "Shawal k 6 Nafli Rozay ??", "t": 3902 },
-      { "type": "question", "text": "Degree ki Shari Hasiyat ??", "t": 3921 },
+      {
+        "type": "question",
+        "text": "Shawal k 6 Nafli Rozay ??",
+        "t": 3902
+      },
+      {
+        "type": "question",
+        "text": "Degree ki Shari Hasiyat ??",
+        "t": 3921
+      },
       {
         "type": "question",
         "text": "Imam Saktay Na Karay to Fatiha ka Kya Krei ??",
@@ -16396,7 +17532,11 @@
         "text": "Hazrat Adam Jis Jannat say Niklay Usi Jannat mei Jaye Gay ??",
         "t": 4384
       },
-      { "type": "question", "text": "Masah ka Tareeqa ??", "t": 4440 },
+      {
+        "type": "question",
+        "text": "Masah ka Tareeqa ??",
+        "t": 4440
+      },
       {
         "type": "question",
         "text": "Aurat Aur Mard ki Namaz mei Farq ??",
@@ -16417,7 +17557,11 @@
         "text": "REPLY to Javed Ahmed Ghamidi, Isa عَلَيْهِ ٱلسَّلَامُ jb Wapis Ayegay to Akhirat mie Ye Kyun Kahay gay k Meray Baad Inho ne Kya Kiya ??",
         "t": 4578
       },
-      { "type": "question", "text": "Paani Kharay ho kar Peena ??", "t": 4765 },
+      {
+        "type": "question",
+        "text": "Paani Kharay ho kar Peena ??",
+        "t": 4765
+      },
       {
         "type": "question",
         "text": "Nafal Namaz Beth kar Parhna ??",
@@ -16453,7 +17597,11 @@
         "text": "Ambia ko Naya Badan Milay Ga ya Dunyawi Badan hi ??",
         "t": 5013
       },
-      { "type": "question", "text": "Na Baligh ka Hisaab ??", "t": 5053 },
+      {
+        "type": "question",
+        "text": "Na Baligh ka Hisaab ??",
+        "t": 5053
+      },
       {
         "type": "question",
         "text": "3 Talaq ko Aik Samjh kar Biwi k Sath Rehna ??",
@@ -16499,7 +17647,11 @@
         "text": "Konsay Gunnah Jahanam ka Bais Banay Gay ??",
         "t": 5302
       },
-      { "type": "question", "text": "Tohfa Wapis Lya Ja Sakta ???", "t": 5340 },
+      {
+        "type": "question",
+        "text": "Tohfa Wapis Lya Ja Sakta ???",
+        "t": 5340
+      },
       {
         "type": "question",
         "text": "Sia Sunni pe Sawalo Jawab Kyun ni Kartay ??",
@@ -16541,14 +17693,26 @@
         "text": "Kin Sahaba ki Mout Phooray say Hwi ?? (Munafiqeen ki Nishani)",
         "t": 6045
       },
-      { "type": "question", "text": "Beth kar Imamat ??", "t": 6297 },
-      { "type": "question", "text": "Qabza kar k Masjid Banana ??", "t": 6324 },
+      {
+        "type": "question",
+        "text": "Beth kar Imamat ??",
+        "t": 6297
+      },
+      {
+        "type": "question",
+        "text": "Qabza kar k Masjid Banana ??",
+        "t": 6324
+      },
       {
         "type": "question",
         "text": "Gher Muqalid Imaam k Peechay Namaz ??",
         "t": 6499
       },
-      { "type": "question", "text": "Ghar mei Jumma ??", "t": 6660 },
+      {
+        "type": "question",
+        "text": "Ghar mei Jumma ??",
+        "t": 6660
+      },
       {
         "type": "question",
         "text": "Aurat ki Ghar mei Eid ki Namaz ??",
@@ -16564,7 +17728,11 @@
         "text": "Jannat mei Haram Cheezei Halal Kyun Hogi ??",
         "t": 6880
       },
-      { "type": "question", "text": "Repititive Question", "t": 6969 },
+      {
+        "type": "question",
+        "text": "Repititive Question",
+        "t": 6969
+      },
       {
         "type": "question",
         "text": "Fiqah Hanfi Pakistan mei Force ki Jati ??",
@@ -16585,7 +17753,10 @@
   {
     "v": "d-7kc2ACuc0",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Dawat dene pe Wahabi Honay ka Ilzaam ??",
@@ -16627,7 +17798,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Gher Ambia pe Ilhaam ??", "t": 2527 },
+      {
+        "type": "question",
+        "text": "Gher Ambia pe Ilhaam ??",
+        "t": 2527
+      },
       {
         "type": "question",
         "text": "Hanfi Namaz mei Kya Masla Hai ?? Aajzana Tareeqa hai ??",
@@ -16648,7 +17823,11 @@
         "text": "Maarfat say Kya Matlab Hai ??",
         "t": 2667
       },
-      { "type": "question", "text": "Istikhara Kya Hota ??", "t": 2703 },
+      {
+        "type": "question",
+        "text": "Istikhara Kya Hota ??",
+        "t": 2703
+      },
       {
         "type": "question",
         "text": "Khud kO Kese Parkha Jaye k Mei Haq pe hu ??",
@@ -16675,7 +17854,10 @@
   {
     "v": "cUKNBZyPOgA",
     "timestamps": [
-      { "text": "Start", "t": 0 },
+      {
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Tamam Ulema Sirf Qadiani per Sher Kyun ??",
@@ -16732,8 +17914,16 @@
         "text": "Durood Kitnay hai ?? Namaz Aur Gher Namaz Durood Mukhtalif ??",
         "t": 2069
       },
-      { "type": "question", "text": "Hanfi Namazei Kesi Hai ??", "t": 2112 },
-      { "type": "question", "text": "Istikhara Karna Kesa ??", "t": 2149 },
+      {
+        "type": "question",
+        "text": "Hanfi Namazei Kesi Hai ??",
+        "t": 2112
+      },
+      {
+        "type": "question",
+        "text": "Istikhara Karna Kesa ??",
+        "t": 2149
+      },
       {
         "type": "question",
         "text": "Labaik Ya Rasool Allah Kehna Kesa ??",
@@ -16772,8 +17962,16 @@
         "text": "Sab Musalman Azaab k Baad Jannat mei jaye Gay ??",
         "t": 2501
       },
-      { "type": "question", "text": "Aurato ki Namaz Same Hai ??", "t": 2597 },
-      { "type": "question", "text": "Kaafir Jannat mei Jayega ??", "t": 2615 },
+      {
+        "type": "question",
+        "text": "Aurato ki Namaz Same Hai ??",
+        "t": 2597
+      },
+      {
+        "type": "question",
+        "text": "Kaafir Jannat mei Jayega ??",
+        "t": 2615
+      },
       {
         "type": "question",
         "text": "Shaam k Waqt Duaei Qubool Hoti ??",
@@ -16918,8 +18116,15 @@
   {
     "v": "l1OfUQAtoAE",
     "timestamps": [
-      { "text": "Start", "t": 0 },
-      { "type": "question", "text": "Dua Say Taqdeer Badalti ??", "t": 24 },
+      {
+        "text": "Start",
+        "t": 0
+      },
+      {
+        "type": "question",
+        "text": "Dua Say Taqdeer Badalti ??",
+        "t": 24
+      },
       {
         "type": "question",
         "text": "Hadith mei Kitaab-o-Siyasat k Naam say Koi Chapter ?? Islam mei Hukmarani ??",
@@ -16946,7 +18151,10 @@
           }
         ]
       },
-      { "text": "Namaz mei Tikki Rakhna ?? (Joke)", "t": 868 },
+      {
+        "text": "Namaz mei Tikki Rakhna ?? (Joke)",
+        "t": 868
+      },
       {
         "type": "question",
         "text": "Aam-ul-Fell wala Saal ?? Aba Beel ka Lashkar ??",
@@ -17029,7 +18237,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Acting karna Jaiz ??", "t": 3518 },
+      {
+        "type": "question",
+        "text": "Acting karna Jaiz ??",
+        "t": 3518
+      },
       {
         "type": "question",
         "text": "Baradari (Qabaili) System in Islaam ?? Firqa Wariyat Aur Itehad-e-Ummat ??",
@@ -17158,13 +18370,21 @@
         "text": "Nek Bando ki Mehfilo ka Kese Pata Chalay ga ??",
         "t": 4329
       },
-      { "type": "question", "text": "Witr ki Timing ?? ", "t": 4358 },
+      {
+        "type": "question",
+        "text": "Witr ki Timing ?? ",
+        "t": 4358
+      },
       {
         "type": "question",
         "text": "Bura Dost Aur Buri Mehfil mie Jana ??",
         "t": 4987
       },
-      { "type": "question", "text": "Jahez Lanat hai ??", "t": 5063 },
+      {
+        "type": "question",
+        "text": "Jahez Lanat hai ??",
+        "t": 5063
+      },
       {
         "type": "question",
         "text": "70k Log Beghair Hisaab-o-Kitaab k Jannat mei Jayega ??",
@@ -17181,7 +18401,11 @@
         "text": "Rishtedaaro Umaray say Wapis Anay pe Istaqbaal ??",
         "t": 5159
       },
-      { "type": "question", "text": "Kharay ho Kar Paani Peena ??", "t": 5282 },
+      {
+        "type": "question",
+        "text": "Kharay ho Kar Paani Peena ??",
+        "t": 5282
+      },
       {
         "type": "question",
         "text": "Taash (Indoor Games) k Liye Namazei Jama Karna ??",
@@ -17235,8 +18459,16 @@
         "text": "Tootay Hwe Bartan mei Khana ?/",
         "t": 5697
       },
-      { "type": "question", "text": "Deen mei Asaania ??", "t": 5754 },
-      { "type": "question", "text": "Pait k Bal (Ulta) Letna ??", "t": 5815 },
+      {
+        "type": "question",
+        "text": "Deen mei Asaania ??",
+        "t": 5754
+      },
+      {
+        "type": "question",
+        "text": "Pait k Bal (Ulta) Letna ??",
+        "t": 5815
+      },
       {
         "type": "question",
         "text": "Murday ko le kar jatay waqt Kalma Parhana ??",
@@ -17279,7 +18511,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Shaadi ka Sunnat Tareeqa ??", "t": 6244 },
+      {
+        "type": "question",
+        "text": "Shaadi ka Sunnat Tareeqa ??",
+        "t": 6244
+      },
       {
         "type": "question",
         "text": "Jummay walay din Zuhreen Ka Tareeqa ??",
@@ -17311,7 +18547,10 @@
           }
         ]
       },
-      { "text": "Namaz Break", "t": 6433 },
+      {
+        "text": "Namaz Break",
+        "t": 6433
+      },
       {
         "type": "question",
         "text": "Mute TV k Hotay Hwe Namaaz Ho Jayegi ??",
@@ -17402,8 +18641,16 @@
         "text": "Qibla Janib Pao kar k Sona ??",
         "t": 8814
       },
-      { "type": "question", "text": "Karakay Nikalna Manna Hai ??", "t": 8977 },
-      { "type": "question", "text": "Ulta Joota Gustakhi ??", "t": 9178 },
+      {
+        "type": "question",
+        "text": "Karakay Nikalna Manna Hai ??",
+        "t": 8977
+      },
+      {
+        "type": "question",
+        "text": "Ulta Joota Gustakhi ??",
+        "t": 9178
+      },
       {
         "type": "question",
         "text": "Akhbaar ki Tazeem ?? Be Adbi k Dar say Utha k Rakhna ??",
@@ -17419,7 +18666,11 @@
         "text": "Toilet Mei Jatay Waqt Kab Dua Karei ??",
         "t": 9865
       },
-      { "type": "question", "text": "Wuzu Aur Ghusal ki Duaei ??", "t": 9939 },
+      {
+        "type": "question",
+        "text": "Wuzu Aur Ghusal ki Duaei ??",
+        "t": 9939
+      },
       {
         "type": "question",
         "text": "Murday k Liye Azkaar (Surah-e-Mulk, Sajda) Karna ??",
@@ -17445,8 +18696,16 @@
         "text": "Uswa-e-Hasna say Masla Hal Hotay ??",
         "t": 10173
       },
-      { "type": "question", "text": "Bara Gosht ka Sadqa Dena ??", "t": 10209 },
-      { "type": "question", "text": "Toilet mei Wuzu Karna ??", "t": 10332 },
+      {
+        "type": "question",
+        "text": "Bara Gosht ka Sadqa Dena ??",
+        "t": 10209
+      },
+      {
+        "type": "question",
+        "text": "Toilet mei Wuzu Karna ??",
+        "t": 10332
+      },
       {
         "type": "question",
         "text": "Sadqa Zakat ko Poora Kar Dega Akhirat mei ??",
@@ -17472,7 +18731,11 @@
         "text": "Holding Signs Aur Bilboards Halal ??",
         "t": 10577
       },
-      { "type": "question", "text": "Shaadi ki Movies Banana ??", "t": 10637 },
+      {
+        "type": "question",
+        "text": "Shaadi ki Movies Banana ??",
+        "t": 10637
+      },
       {
         "type": "question",
         "text": "Wuzu k baad Jaraab Utaar Lene ?? Dubara Masa ya Dhoona ??",
@@ -17488,7 +18751,11 @@
   {
     "v": "a8XL1sw2GDY",
     "timestamps": [
-      { "type": "question", "text": "Start", "t": 0 },
+      {
+        "type": "question",
+        "text": "Start",
+        "t": 0
+      },
       {
         "type": "question",
         "text": "Ilm hasil karo beshak tumhein Cheen (China) Jana Paray ??",
@@ -17499,7 +18766,11 @@
         "text": "Haqeeat Aik say zyada hoti ?? Charo Imaam Ikhtilaaf k Bawajood Haq pe Kese ???",
         "t": 189
       },
-      { "type": "question", "text": "Mannat Kya Hai ??", "t": 410 },
+      {
+        "type": "question",
+        "text": "Mannat Kya Hai ??",
+        "t": 410
+      },
       {
         "type": "question",
         "text": "Baap ka  btaye beghair Qarz de dena aur phr wapis lena kesa ??",
@@ -17550,14 +18821,26 @@
         "text": "Sunnat Parhtay Hwe Farz Jumaat Shuru Ho Jaye to Kya Karei ??",
         "t": 1635
       },
-      { "type": "question", "text": "Farz Namaz kitni Hai ??", "t": 1666 },
+      {
+        "type": "question",
+        "text": "Farz Namaz kitni Hai ??",
+        "t": 1666
+      },
       {
         "type": "question",
         "text": "Fajar ki Jumaat Shuru Ho Jaye to Sunnato ka Kya Karei ??",
         "t": 1715
       },
-      { "type": "question", "text": "Yoga ki Shari Hasiyyat ??", "t": 1815 },
-      { "type": "question", "text": "Mannat Mangna Jaiz Hai ??", "t": 1847 },
+      {
+        "type": "question",
+        "text": "Yoga ki Shari Hasiyyat ??",
+        "t": 1815
+      },
+      {
+        "type": "question",
+        "text": "Mannat Mangna Jaiz Hai ??",
+        "t": 1847
+      },
       {
         "type": "question",
         "text": "Nek Biwi Jannat mei bhi Biwi ??",
@@ -17578,7 +18861,11 @@
         "text": "Bahir say Ai Hwi Insured cheezei Jaiz ??",
         "t": 2283
       },
-      { "type": "question", "text": "Shaadio pe Photography ??", "t": 2300 },
+      {
+        "type": "question",
+        "text": "Shaadio pe Photography ??",
+        "t": 2300
+      },
       {
         "type": "question",
         "text": "Mayyat ka Chehra Dekhna Aur Qabar pe Mitti Dalna ??",
@@ -17599,8 +18886,16 @@
         "text": "Farz Namaz Aik Say Zyada Jaga Par Parhna ??",
         "t": 2699
       },
-      { "type": "question", "text": "Rishwat kis Waqt Jaiz Hai ??", "t": 2748 },
-      { "type": "question", "text": "Fajar k Baad Qaza Parhna ??", "t": 2784 },
+      {
+        "type": "question",
+        "text": "Rishwat kis Waqt Jaiz Hai ??",
+        "t": 2748
+      },
+      {
+        "type": "question",
+        "text": "Fajar k Baad Qaza Parhna ??",
+        "t": 2784
+      },
       {
         "type": "question",
         "text": "Dolat Jama Karna Aur Zakheera Andoozi ??",
@@ -17661,13 +18956,21 @@
         "text": "Takhnay Dhaanpnay say Wuzu Tootna ?? Ya Sirf Namaz ni Hoti ??",
         "t": 4072
       },
-      { "type": "question", "text": "Quran ko Peeth Karna ??", "t": 4159 },
+      {
+        "type": "question",
+        "text": "Quran ko Peeth Karna ??",
+        "t": 4159
+      },
       {
         "type": "question",
         "text": "Jumaat k Baad Unchi Tilawat ya Naat Parhna ??",
         "t": 4407
       },
-      { "type": "question", "text": "Khabar-e-Wahid Hujjat Hai ??", "t": 4447 },
+      {
+        "type": "question",
+        "text": "Khabar-e-Wahid Hujjat Hai ??",
+        "t": 4447
+      },
       {
         "type": "question",
         "text": "Shadio ki Gher Shari Rasumaat ??",
@@ -17698,15 +19001,27 @@
   {
     "v": "0eLk_GzLjoQ",
     "timestamps": [
-      { "text": "Khutbah Aur Durood !!", "t": 0 },
-      { "text": "Introduction to ILMI-o-Tahqeeqi MAJALIS Series", "t": 118 },
-      { "text": "Start", "t": 1371 },
+      {
+        "text": "Khutbah Aur Durood !!",
+        "t": 0
+      },
+      {
+        "text": "Introduction to ILMI-o-Tahqeeqi MAJALIS Series",
+        "t": 118
+      },
+      {
+        "text": "Start",
+        "t": 1371
+      },
       {
         "type": "question",
         "text": "AZAN main \" Assalato Khairum Minan Naom \" aur Hanafi ULMA ka DHOOKAH ???",
         "t": 1425
       },
-      { "text": "Hadith ki Numbering Aur Islam 360 !!", "t": 1485 },
+      {
+        "text": "Hadith ki Numbering Aur Islam 360 !!",
+        "t": 1485
+      },
       {
         "type": "question",
         "text": "FIRQAH, MAZHAB, MASLAK, FIQAH aur TAQLEED main kia FARAQ hai ???",
@@ -17767,7 +19082,10 @@
           }
         ]
       },
-      { "text": "Break", "t": 2397 },
+      {
+        "text": "Break",
+        "t": 2397
+      },
       {
         "type": "question",
         "text": "ARABI Seekhnay ka Asan TAREEQAH ??? Aamir Sohail Sb. kay LECTURES ???",
@@ -17784,7 +19102,11 @@
         "text": "Moat Say Pehle Bakhshish ?? 99 Qatal pe Toabah ?? Sahabi ko Chori pe Saza ??",
         "t": 2856
       },
-      { "type": "question", "text": "Hindu k Sath Nokri ??", "t": 3174 },
+      {
+        "type": "question",
+        "text": "Hindu k Sath Nokri ??",
+        "t": 3174
+      },
       {
         "type": "question",
         "text": "Konsi Hadith Sahi Hai ?? ",
@@ -17906,7 +19228,11 @@
         "text": "Sirf Musalmaan Kehna Kaafi Hai ??",
         "t": 4040
       },
-      { "type": "question", "text": "Rukhsati say Pehle Talaq ??", "t": 4113 },
+      {
+        "type": "question",
+        "text": "Rukhsati say Pehle Talaq ??",
+        "t": 4113
+      },
       {
         "type": "question",
         "text": "Tazkiyya k Liye Koi Kitaab ??",
@@ -18007,7 +19333,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Tafseer Konsi Sai Hai !!", "t": 6084 },
+      {
+        "type": "question",
+        "text": "Tafseer Konsi Sai Hai !!",
+        "t": 6084
+      },
       {
         "type": "question",
         "text": "MIshkaat Kaabil-e-Aitbaar Hai ??",
@@ -18040,7 +19370,11 @@
         "text": "Islamic Tareekh ki Authenticity ??",
         "t": 6542
       },
-      { "type": "question", "text": "Ali Bhai ko Dua !!", "t": 6646 },
+      {
+        "type": "question",
+        "text": "Ali Bhai ko Dua !!",
+        "t": 6646
+      },
       {
         "type": "question",
         "text": "Beemar Zehan Bachay ki Abortion ??",
@@ -18179,7 +19513,11 @@
           }
         ]
       },
-      { "type": "question", "text": "Moala Lafz Kehna ?? ", "t": 8510 },
+      {
+        "type": "question",
+        "text": "Moala Lafz Kehna ?? ",
+        "t": 8510
+      },
       {
         "type": "question",
         "text": "Qabar ka Azaab Aur Akhirat k Azaab Different Cheezei hai ?? Azaab-e-Qabar ki Haqeeqat ?? Same as 0:59:26",
