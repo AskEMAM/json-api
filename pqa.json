@@ -1,5 +1,244 @@
 [
   {
+    "v": "My2aKxu39U0",
+    "title": "079-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (29-Jan-2023)",
+    "publishDate": "2023-06-04T06:00:00.000Z",
+    "uploadDate": "2023-06-04T06:00:00.000Z",
+    "recordingDate": "2023-01-29T06:00:00.000Z",
+    "series": "pqa",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start of 079-Public Q & A Session & Meeting (Entry & Introduction)"
+      },
+      {
+        "type": "question",
+        "t": 73,
+        "text": "Sweden Incident of QUR'AN ! ! ! Muslims Vs QUR'AN, Tawheed & Namaz ??? Engineer Muhammad Ali Mirza"
+      },
+      {
+        "type": "question",
+        "t": 3604,
+        "text": "Islam mein Wali aur Wilayat ka Concept kya hai ???"
+      },
+      {
+        "type": "question",
+        "t": 3787,
+        "text": "kya Forex Trading ka Kaam Sood hai ???",
+        "references": [
+          {
+            "v": "waq3977zxXk",
+            "title": "Halal & Haram Business ??? Dropshipping & Online Business ??? Copyrights of Products & Softwares ???",
+            "publishDate": "2019-04-29T00:00:00.000Z",
+            "uploadDate": "2019-04-29T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 3969,
+        "text": "Nazam e Khilafat keliye Logon ko Kaise Tayar karen ???",
+        "references": [
+          {
+            "v": "ACccpDXN2Rg",
+            "title": "KHELAFAT ka System in Pakistan ??? Bitter FACTS about Today's MUSLIM ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-02-19T00:00:00.000Z",
+            "uploadDate": "2022-02-19T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4064,
+        "text": "Bachay ke Baap ka Naam Badalnay ka Gunah Bachay par bhi Hoga ???"
+      },
+      {
+        "type": "question",
+        "t": 4200,
+        "text": "Rafa Yadain karne wale aur Na Karne wale Dono ki Namaz Qabool hai ???",
+        "references": [
+          {
+            "v": "LEl6POXZsuY",
+            "title": "70-b-Mas'alah: RAFA-ul-YADAIN say Motalliq FIRQAWARANA NAZRIYAAT ka TAHQEEQI Jaizah (8-ILMI Points)",
+            "publishDate": "2013-02-03T00:00:00.000Z",
+            "uploadDate": "2013-02-03T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4540,
+        "text": "Kon Konse Aqaaid par Apni Islah karni Chahiye ???"
+      },
+      {
+        "type": "question",
+        "t": 4599,
+        "text": "Mere Ghar Wale Rafa Yadain se Namaz Parhne se Mana karte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5010,
+        "text": "kya Sirf Mola ALI علیہ السلام ki Mohabbat hi Eman ka Hissa hai ???"
+      },
+      {
+        "type": "question",
+        "t": 5287,
+        "text": "Shia Ulma ne Hadith ki Roshni mein Ahle Bait ka Difaa kyun nehi kiya ???  "
+      },
+      {
+        "type": "question",
+        "t": 5571,
+        "text": "Aap Fiqah Hanafi ki Ghaltiyan kyun Nikaaltay hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5742,
+        "text": "Rajjab ki Biddaton ke Hawale se Wazahat kar dein ???",
+        "references": [
+          {
+            "v": "V8rs5KtIzE8",
+            "title": "22-Rajab kay KONDAY ??? NABI ﷺ ki 4-BETIYAN ??? SUNNI & SHIAH ka NIKAH ??? Mas'alah-e-TAKFEER ???",
+            "publishDate": "2019-03-27T00:00:00.000Z",
+            "uploadDate": "2019-03-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5755,
+        "text": "Ek Banday par Toheen e Sahaba ka Muqaddimah ???"
+      },
+      {
+        "type": "question",
+        "t": 5808,
+        "text": "Aurat ke Haiz ke Dino ke Rozon ka Hukam ???"
+      },
+      {
+        "type": "question",
+        "t": 5866,
+        "text": "kya Ali Bhai ne Plan ke Sath Dawat ka Kaam kiya hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6007,
+        "text": "hazrat Moaviah رضی اللہ عنہ Haadi aur Mahdi ??? aur Sahaba ki Ghaltiyan Nikaalna Gustakhi ???"
+      },
+      {
+        "type": "question",
+        "t": 6252,
+        "text": "Nafli Rozon ki Sehri aur Aftari ka Waqt ???"
+      },
+      {
+        "type": "question",
+        "t": 6366,
+        "text": "Mushtarka Karobar mein Insaf ka Hukam ???"
+      },
+      {
+        "type": "question",
+        "t": 6417,
+        "text": "Hanafi Masjid Oonchi Awaz mein Aameen kehna ???"
+      },
+      {
+        "type": "question",
+        "t": 6651,
+        "text": "Ghusal ke Doran Pani ko Hath lag Jaye to Pani Napaak ho jata hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6992,
+        "text": "Foji Dictator agar Mulk peh Hakumat kare to Uske Khilaf Khurooj karna ???",
+        "references": [
+          {
+            "v": "6zhjdo3CoFk",
+            "title": "101-Mas’alah: KHELAFAT-o-MALOOKIAT, Mas’alah-e-KHUROOJ & Fiker-e-HUSAIN r.a HAQ-Prasti ki ALAMAT hai",
+            "publishDate": "2014-11-03T00:00:00.000Z",
+            "uploadDate": "2014-11-03T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7064,
+        "text": "agar koi Chota Bacha Fot Ho jaye to wo Shafat kare ga ???",
+        "references": [
+          {
+            "v": "XZBd8Fd8pqo",
+            "title": "Mukafat-e-Amal ki HAQEEQAT ??? ALLAH kay AZAB & AZMAISH mein FARAQ ??? (Engineer Muhammad Ali Mirza)",
+            "publishDate": "2020-09-25T00:00:00.000Z",
+            "uploadDate": "2020-09-25T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7143,
+        "text": "kya Nabi ﷺ ne Khuwab mein Allah ka Deedar kiya tha ???"
+      },
+      {
+        "type": "question",
+        "t": 7198,
+        "text": "NABI ﷺ ki Khudkushi & My RUJU ??? AMBIA علیھم السلام ki Masoomiat ka AQEEDAH ???"
+      },
+      {
+        "type": "question",
+        "t": 8955,
+        "text": "kya Rafa Yadain karna Zaruri hai ???",
+        "references": [
+          {
+            "v": "LEl6POXZsuY",
+            "title": "70-b-Mas'alah: RAFA-ul-YADAIN say Motalliq FIRQAWARANA NAZRIYAAT ka TAHQEEQI Jaizah (8-ILMI Points)",
+            "publishDate": "2013-02-03T00:00:00.000Z",
+            "uploadDate": "2013-02-03T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 8983,
+        "text": "kya illuminati Mojood hein ???"
+      },
+      {
+        "type": "question",
+        "t": 9007,
+        "text": "kya Nabi ﷺ ne Meraj ki Raat Allah ki Ziyarat ki hai ???"
+      },
+      {
+        "type": "question",
+        "t": 9043,
+        "text": "Lawatat ka Lafz Hazrat Nooh علیہ السلام ki Taraf Mansoob karna ???"
+      },
+      {
+        "type": "question",
+        "t": 9087,
+        "text": "Nabi ﷺ ki Khuwab mein Ziyarat ki Tasdeeq kaise karen ???",
+        "references": [
+          {
+            "v": "rxgpLKiubJY",
+            "title": "Reply to Maulana Ilyas Qadri حفظہ اللہ on \"NABI ﷺ ka Khawab mein Deedar\" ! By Engineer Muhammad Ali",
+            "publishDate": "2022-06-06T00:00:00.000Z",
+            "uploadDate": "2022-06-06T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 9126,
+        "text": "Masjidon ki Sajawat karna Sahih hai ???"
+      },
+      {
+        "type": "question",
+        "t": 9355,
+        "text": "Wahabiyon ka Khuda aur Kitabon ka Khuda aur ???"
+      },
+      {
+        "other": true,
+        "t": 9527,
+        "text": "DUAA and Conclusion of Public Q & A Session 079-Public Q & A Session"
+      }
+    ]
+  },
+  {
     "v": "uNhrb-Spq4g",
     "title": "078-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (22-Jan-2023)",
     "publishDate": "2023-05-26T16:00:00.000Z",
