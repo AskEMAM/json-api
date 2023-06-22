@@ -1,5 +1,292 @@
 [
   {
+    "v": "8cCXyfAUUEo",
+    "title": "081-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (12-Feb-2023)",
+    "publishDate": "2023-06-22T06:00:00.000Z",
+    "uploadDate": "2023-06-22T06:00:00.000Z",
+    "recordingDate": "2023-02-23T06:15:00.000Z",
+    "series": "pqa",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start of 081-Public Q & A Session & Meeting (Entry & Introduction)"
+      },
+      {
+        "type": "question",
+        "t": 72,
+        "text": "Earthquake in TURKEY ! ! ! Islamic Rulings on Disasters in LIFE ??? By Engineer Muhammad Ali Mirza"
+      },
+      {
+        "type": "question",
+        "t": 2147,
+        "text": "Nankana Incident & 295-C Blasphemy Law ??? QUR'AN ki Gustakhi peh QATAL ???"
+      },
+      {
+        "type": "question",
+        "t": 4367,
+        "text": "Ek Safar mein Ek hi Umra kar sakte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 4516,
+        "text": "Logon ko Apni Jhooti Shanakht batana ???"
+      },
+      {
+        "type": "question",
+        "t": 4568,
+        "text": "Namazon ko Tarteeb se Parhna Zaruri hai ???"
+      },
+      {
+        "type": "question",
+        "t": 4726,
+        "text": "Sayyida Fatimah علیہا السلام ne Abu Bakr رضی اللہ عنہ ki BAIT nehi ki thi ??? ",
+        "references": [
+          {
+            "v": "GwS43JLcmM0",
+            "title": "Bagh-e-FADAK peh SUNNI & SHIAH Ikhtelaf main HAQ kia hai ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2016-10-26T00:00:00.000Z",
+            "uploadDate": "2016-10-26T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4870,
+        "text": "Nabi ﷺ ne Quran ki Soorton ko Kaise Tarteeb Diya ???"
+      },
+      {
+        "type": "question",
+        "t": 5540,
+        "text": "Jang e Yamama mein Sahaba ka Naara \"YA MUHAMMAD ﷺ\" ??? ",
+        "references": [
+          {
+            "v": "vll9mcfG11Q",
+            "title": "Labbaika Ya RasooLALLAH ﷺ ka NARAH ??? لبیک یا رسول اللہ کا نعرہ  By Engineer Muhammad Ali Mirza !",
+            "publishDate": "2018-10-31T00:00:00.000Z",
+            "uploadDate": "2018-10-31T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5715,
+        "text": "Doctor ke Hath mein Shifa hai, kya yeh Shirkiya Jumla hai ???"
+      },
+      {
+        "type": "question",
+        "t": 5942,
+        "text": "Mere Walid Ghar mein Dam aur Shirkiya Taweez karte hein ???  "
+      },
+      {
+        "type": "question",
+        "t": 5957,
+        "text": "Auliya ke Waris kon hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5996,
+        "text": "Ali Bhai apne Research Papers mein Brackets kyun Lagatay hein ???"
+      },
+      {
+        "type": "question",
+        "t": 6124,
+        "text": "Hum Apne Nafs ke Khilaf Jang Kaise karen ???"
+      },
+      {
+        "type": "question",
+        "t": 6176,
+        "text": "Ali Bhai Non Muslim ko Dawat o Tableegh karna Shuru karen !!!"
+      },
+      {
+        "type": "question",
+        "t": 6305,
+        "text": "Al Jehad fil Islam Modudi ki Kitab ke Mutaliq Tafseel se Bata dein ???"
+      },
+      {
+        "type": "question",
+        "t": 6346,
+        "text": "Atheist Quran hadith ke Reference de kar Musalmano ko Gumrah karte hein !!!"
+      },
+      {
+        "type": "question",
+        "t": 6422,
+        "text": "Ek Aam Musalman Jehad kaise kare ??? ",
+        "references": [
+          {
+            "v": "_OFEijCL2p0",
+            "title": "PALESTINE Issue ??? JEHAD & QITAL in ISLAM ???  Military & Public ka JEHAD ??? Engineer Muhammad Ali",
+            "publishDate": "2021-05-21T00:00:00.000Z",
+            "uploadDate": "2021-05-21T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 6482,
+        "text": "Quran ko \"Allah ki Kitab\" kyun Kaha gya Hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6603,
+        "text": "Agar Duniya mein Insaf na Milay to kya karen ???"
+      },
+      {
+        "type": "question",
+        "t": 6663,
+        "text": "Kisi ke Ehtraam mein Khara hona Jaiz hai ??? ",
+        "references": [
+          {
+            "v": "inR3IxYv4UA",
+            "title": "Reply to Sahil Adeem حفظہ اللہ on Teacher ki Tazeem mein kharay hona ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2023-03-13T00:00:00.000Z",
+            "uploadDate": "2023-03-13T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 6763,
+        "text": "Easy Paisa Use karne se Bonus Milta hai wo Sood hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6775,
+        "text": "Kya Mayyat ki Taraf se Hajj Umra kiya ja sakta hai ???",
+        "references": [
+          {
+            "v": "-rukPV_LFwE",
+            "title": "Esal-e-SAWAB kay 10-Sunnat TAREEQAY ??? Mayyit kay liay QUR'AN Perhna ??? By Engineer Muhammad Ali",
+            "publishDate": "2020-10-28T00:00:00.000Z",
+            "uploadDate": "2020-10-28T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 6836,
+        "text": "Agar Biwi Khud Kamati ho to Shohar se Kharch ka Mutalba kar sakti hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6887,
+        "text": "Musalmano ki Aksriyat Rafa Yadain nehi Karti ???"
+      },
+      {
+        "type": "question",
+        "t": 7117,
+        "text": "Ali bhai ki Library se Gustakha Books Parhne keliye Mil sakti hein ???"
+      },
+      {
+        "type": "question",
+        "t": 7144,
+        "text": "Shehad ki Makhi ko bhi Wahi ki Jati hai ??? ",
+        "references": [
+          {
+            "v": "EO5_MuMju9M",
+            "title": "Reply to Dr. Ashraf Asif Jalali on \"Kashaf & Ilham\" Vs Khatam-e-Nabuwwat ﷺ ! ! Engineer Muhammad Ali",
+            "publishDate": "2022-05-28T00:00:00.000Z",
+            "uploadDate": "2022-05-28T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7220,
+        "text": "Halal aur Haram Cheezon se kaise bachen ???"
+      },
+      {
+        "type": "question",
+        "t": 7243,
+        "text": "Rafa Yadain Reh jaye to Sajda Sehaw karna hoga ??? ",
+        "references": [
+          {
+            "v": "ZbIm_4q_RaM",
+            "title": "Sajdah-e-SAHAW kay 5-Sunnat Tareeqay ??? 17-Fiqahi Ahkam-o-Masa'il ??? (Engineer Muhammad Ali Mirza)",
+            "publishDate": "2020-09-12T00:00:00.000Z",
+            "uploadDate": "2020-09-12T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7288,
+        "text": "Khud ko Ghair Shadi Shuda Zahir karne se Talaq ho Jati hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7311,
+        "text": "Khamoshi mein Aafiyat hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7355,
+        "text": "kya Junubi Shakhs Mobile mein Quran ki Tilawat sun sakta hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7368,
+        "text": "Dada ki Wirasat mein Potay ka Hissa ??? ",
+        "references": [
+          {
+            "v": "bUTWFuLumOY",
+            "title": "WIRASAT ki Calculation & Ahkam-o-Masa'il ??? Wasiyyat & Hibbah kay AHKAM??? (Engineer Muhammad Ali)",
+            "publishDate": "2021-01-27T00:00:00.000Z",
+            "uploadDate": "2021-01-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7399,
+        "text": "Ulma Babon ki Kitaben kyun Parhtay hein ???"
+      },
+      {
+        "type": "question",
+        "t": 7418,
+        "text": "Kya Rafa Yadain Mansookh hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7457,
+        "text": "kya Hadith bhi Quran ki Tarha Mehfooz hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7751,
+        "text": "kya MOT ki Takleef Badni hai Roohani ???"
+      },
+      {
+        "type": "question",
+        "t": 7757,
+        "text": "kya Mobile Loan mein Extra Charhes Sood hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7800,
+        "text": "kya Imam Mahdi se Pehle Jadeed Technology ka Khatam ho jaye gi ???"
+      },
+      {
+        "type": "question",
+        "t": 7839,
+        "text": "Sharee Haq Mehar ki kya Had hai ??? ",
+        "references": [
+          {
+            "v": "InMLRJg4oYg",
+            "title": "Haq Maher ki ISLAM main Saheh MIQDAR ??? WOMEN Rights in ISLAM ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2019-09-26T00:00:00.000Z",
+            "uploadDate": "2019-09-26T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "other": true,
+        "t": 7974,
+        "text": "DUAA and Conclusion of Public Q & A Session 081-Public Q & A Session"
+      }
+    ]
+  },
+  {
     "v": "5ojtpHkzIpI",
     "title": "080-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (05-Feb-2023)",
     "publishDate": "2023-06-11T06:00:00.000Z",
