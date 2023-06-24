@@ -1,5 +1,319 @@
 [
   {
+    "v": "vOsdgdtEBzg",
+    "title": "080-Live Q & A Session With Engineer Muhammad Ali Mirza (23 June-2023) | Shahid and Bilal Official",
+    "publishDate": "2023-06-24T16:00:00.000Z",
+    "uploadDate": "2023-06-24T16:00:00.000Z",
+    "recordingDate": "2023-06-23T16:00:00.000Z",
+    "series": "live",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start & Introduction !!"
+      },
+      {
+        "other": true,
+        "t": 197,
+        "text": "Story Questions !!"
+      },
+      {
+        "number": 14,
+        "type": "question",
+        "t": 230,
+        "text": "Aehram ki halat mei khoon nikalnay say dumm wajib ho jayega ??"
+      },
+      {
+        "number": 16,
+        "type": "question",
+        "t": 292,
+        "text": "Google pe say kis namaz ka time follow karei ??"
+      },
+      {
+        "other": true,
+        "type": "question",
+        "t": 337,
+        "text": "Doodh dene walay janwar Qurbani ki niyyat say liya ho iska kharcha khud say ta kar saktay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 454,
+        "text": "Tuesday ko Baal katwana Mana hai ??"
+      },
+      {
+        "type": "question",
+        "t": 505,
+        "text": "Bhoolnay ki Adat ho to uspay kiya fatwa lagay ga ??"
+      },
+      {
+        "type": "question",
+        "t": 560,
+        "text": "Kisi waqia ya hadith k liye sanad zaroori hai ??"
+      },
+      {
+        "type": "question",
+        "t": 742,
+        "text": "Out of wedlock peda honay wala bacha kis baap ki taraf mansoob hoga ??"
+      },
+      {
+        "type": "question",
+        "t": 813,
+        "text": "Class mei kisi ki madad akhirat mei ajar k liye karna ??"
+      },
+      {
+        "type": "question",
+        "t": 844,
+        "text": "Quran mei Waqiat ki Repition ki kiya hikmat hai ??"
+      },
+      {
+        "number": 25,
+        "type": "question",
+        "t": 988,
+        "text": "Majlis 100 ka Part 2 Kab ayega ??"
+      },
+      {
+        "type": "question",
+        "t": 1046,
+        "text": "Qurbani mei baal, nakhun sab ne ni katwanay ya jo Qurbani k liye pese deta sirf usnay ??"
+      },
+      {
+        "type": "question",
+        "t": 1070,
+        "text": "Shadi mei Janay say pehle poochna k kitnay banday le kar aye gay ??"
+      },
+      {
+        "type": "question",
+        "t": 1111,
+        "text": "Hajj k waqt aehram change karna ??"
+      },
+      {
+        "type": "question",
+        "t": 1167,
+        "text": "Nabi ﷺ ka Khalifa Quran hai iski daleel de dei ??",
+        "references": [
+          {
+            "v": "E4DG3fDH77A",
+            "title": "Khalifa-e-RASOOL ﷺ kon hai ??? Hazrat Abu Baker r.a or Maula Ali a.s ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2021-08-21T00:00:00.000Z",
+            "uploadDate": "2021-08-21T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "number": 31,
+        "type": "question",
+        "t": 1381,
+        "text": "Army k interview mei darhi shave karna ??"
+      },
+      {
+        "type": "question",
+        "t": 1423,
+        "text": "Hajj k doran Aehram ki halat jootay (shoes) pehanana ??"
+      },
+      {
+        "type": "question",
+        "t": 1524,
+        "text": "Hajj-e-Badal agar koi karnay aya to sponsor ka naam lena zaroori hai ??"
+      },
+      {
+        "type": "question",
+        "t": 1583,
+        "text": "Abu Hassan Khurani ko Aag mei dalna aur Abu Bakar say Mulaqat ??"
+      },
+      {
+        "type": "question",
+        "t": 1610,
+        "text": "Larki say Chup kar nikkah kiya, uskay ghar walo ne uska doosra nikkah kara dya. Pehle Shohar phir say Larki ko bhaga kar le gya. Ab inpay kiya Hadd lagay gi ??"
+      },
+      {
+        "type": "question",
+        "t": 1663,
+        "text": "Imam Hussain Jung k liye ni gay thay ???"
+      },
+      {
+        "type": "question",
+        "t": 1708,
+        "text": "Quran-o-Hadith mei Firqa kisko kehtay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 1797,
+        "text": "Fajar ki namaz k baad nawafil ada karna ??"
+      },
+      {
+        "type": "question",
+        "t": 1925,
+        "text": "Illegal tareeqay say Import karna ka kaffara kiya hoga ??"
+      },
+      {
+        "type": "question",
+        "t": 1960,
+        "text": "Hath Chornay wali hadith mei hath kab chorna ??"
+      },
+      {
+        "type": "question",
+        "t": 2198,
+        "text": "Mobile napak jaga par gir gya to usko saaf kese karei aur pocket mei rakh kar namaz parh saktay ?? "
+      },
+      {
+        "type": "question",
+        "t": 2289,
+        "text": "Abu Bakar رضي الله عنه & Omar رضي الله عنه ne Fatima سلامُ اللّٰہِ علیہا ka Rishta Manga ?? Omar رضي الله عنه ka Fatima سلامُ اللّٰہِ علیہا ki beti say nikkah ??"
+      },
+      {
+        "type": "question",
+        "t": 2416,
+        "text": "Fazail-e-Amal ka dars mei beth saktay ?? Tablighi Jumaat mei Ikhtilaaf aur Jumaat mei Split ??"
+      },
+      {
+        "type": "question",
+        "t": 3427,
+        "text": "Bukhari 268 aur Nabi ﷺ ki Taqat 30 mardo ki thi ??"
+      },
+      {
+        "type": "question",
+        "t": 3775,
+        "text": "Muslim 358 aur Qoma mei Extra Kalimat ??"
+      },
+      {
+        "type": "question",
+        "t": 3899,
+        "text": "Islam mei Novels aur Stories Likhna Sahi hai ??"
+      },
+      {
+        "other": true,
+        "t": 3972,
+        "text": "Sisters' Questions !!"
+      },
+      {
+        "number": 1,
+        "type": "question",
+        "t": 4117,
+        "text": "Miscarriage stage mei blood aye to namaz parh saktay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4148,
+        "text": "Zulhijja k 10 Dino mei Hez Ana ??"
+      },
+      {
+        "type": "question",
+        "t": 4216,
+        "text": "Drama Dekhna kese chorei ??"
+      },
+      {
+        "type": "question",
+        "t": 4325,
+        "text": "Baal Nakhun Galti say Kaat liye to kiya kaffara hoga ??"
+      },
+      {
+        "type": "question",
+        "t": 4354,
+        "text": "Website Monetize karna aur Google Ad sense say Pese kamana ??"
+      },
+      {
+        "type": "question",
+        "t": 4396,
+        "text": "Dosri shadi k liye ghar walo ko manwana lazmi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4459,
+        "text": "Shohar Teen Talaq de kar mukar jaye to kiya karei ??"
+      },
+      {
+        "type": "question",
+        "t": 4514,
+        "text": "Ghar mei Aurato ka Sleeveless dress pehana ??"
+      },
+      {
+        "type": "question",
+        "t": 4541,
+        "text": "YouTube ki kamai sab k liye haram hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4611,
+        "text": "Islam mei Saas/Sussar ki Madad karna ??"
+      },
+      {
+        "type": "question",
+        "t": 4701,
+        "text": "Wirasat Behan Bhaio ko kab jati ??"
+      },
+      {
+        "type": "question",
+        "t": 4756,
+        "text": "Surah Muzammil aur Surah Yaseen ki Mil kar Tilawat karna ??"
+      },
+      {
+        "type": "question",
+        "t": 4784,
+        "text": "Imam Hussain k Waqt ka Imam Kon Tha ??"
+      },
+      {
+        "type": "question",
+        "t": 4820,
+        "text": "Balo k Joray mei Namaz ??"
+      },
+      {
+        "type": "question",
+        "t": 4899,
+        "text": "Nabi ﷺ ka Janaza Allah ne Parhaya tha ??"
+      },
+      {
+        "type": "question",
+        "t": 4940,
+        "text": "Bacho ki Ungli mei Allah ki taraf say shahid ata hai aur unkay sath farishtay kheltay hai ??"
+      },
+      {
+        "type": "question",
+        "t": 4950,
+        "text": "Shohar ki wafat k baad biwi ko hissa milay ga ??"
+      },
+      {
+        "type": "question",
+        "t": 4987,
+        "text": "Khawateen Mardo Naak Chibwa sakti hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5003,
+        "text": "Aurat ka zameen par zor say pao marna ??"
+      },
+      {
+        "type": "question",
+        "t": 5052,
+        "text": "Barelvio k sath rishta karna sahi hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5111,
+        "text": "Quran ko tarteeb say parhna lazmi ??"
+      },
+      {
+        "type": "question",
+        "t": 5190,
+        "text": "Susar apki insult kar sakta hai ??"
+      },
+      {
+        "type": "question",
+        "t": 5239,
+        "text": "Khulfa-e-Rashiden 5 hai iska reference dei ??"
+      },
+      {
+        "type": "question",
+        "t": 5297,
+        "text": "Australia mei Public Schools mei parhana ??"
+      },
+      {
+        "type": "question",
+        "t": 5370,
+        "text": "Name Suggestion !!"
+      }
+    ]
+  },
+  {
     "v": "BU-_MdprAD8",
     "title": "079-Live Q & A Session With Engineer Muhammad Ali Mirza (16 June-2023) | Shahid and Bilal Official",
     "publishDate": "2023-06-16T16:00:00.000Z",
