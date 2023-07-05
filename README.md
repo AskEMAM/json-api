@@ -1,8 +1,8 @@
 # EMAM (Engineer Muhammad Ali Mirza)
 
-Engineer Muhammad Ali Mirza is among the few Islamic scholars and researcher working towards the propagation of true Islamic principles and the unity of Muslim Ummah based on solutions from Quran and Sunnah regardless of any sect or school of thought.
+Engineer Muhammad Ali Mirza is among the few Islamic scholars and researcher working towards the propagation of true Islamic principles and the unity of Muslim Ummah based on solutions from QUR'AN and Sunnah regardless of any sect or school of thought.
 
-According to him no sect ( Sunni, Shia, Wahabi, Deobandi, Barelvi, Ahl-e-Hadith or whatever) is completely wrong and at the same time not totally correct. There are controversies that have developed due to the scholars of the relevant sects defending their ideologies and hiding the truth from their followers. Engineer Muhammad Ali Mirza highlights and corrects these controversial issues with true references of Quran and Sahih Hadith.
+According to him no sect ( Sunni, Shia, Wahabi, Deobandi, Barelvi, Ahl-e-Hadith or whatever) is completely wrong and at the same time not totally correct. There are controversies that have developed due to the scholars of the relevant sects defending their ideologies and hiding the truth from their followers. Engineer Muhammad Ali Mirza highlights and corrects these controversial issues with true references of QUR'AN and Sahih Hadith.
 
 Engineer Muhammad Ali Mirza does not consider any sect as Kaffir except ‘Qadiyani’ (offshoot of Sunni school of thought) and ‘Nusairi’ (offshoot of Shia school of thought).
 
@@ -27,17 +27,17 @@ This is the git repository containing all the timestamps to his lectures on his 
 
 The [emam.json](https://github.com/waleedbutt98/EMAM/blob/master/emam.json) file contains the JSON object with keys named after lecture series. Each Lecture series then contains the timestamps according to each lecture in proper format. The format can be of two types based on two types of series.
 
-1. Quran Classes
+1. QUR'AN Classes
 2. General Lectures (Mas'alah, Majlis etc.)
 
-### 1. Quran Classes
+### 1. QUR'AN Classes
 
-The Quran Classes are of three types:
+The QUR'AN Classes are of three types:
 
-1. "nqc", which is short for New Quran Class aka [Qura'an Asaan Tarjuma Aur Tafseer](https://www.youtube.com/playlist?list=PLdC3g7t1lPKQIyoPcakbDO3H4Q-BGMpWK)
-2. "qc", is short for Quran Class aka [Qura'an Tafseer Lecture (Quran Class)](https://www.youtube.com/playlist?list=PLdC3g7t1lPKTHaO-_ZE04Z9h90oye14t-)
+1. "nqc", which is short for New QUR'AN Class aka [Qura'an Asaan Tarjuma Aur Tafseer](https://www.youtube.com/playlist?list=PLdC3g7t1lPKQIyoPcakbDO3H4Q-BGMpWK)
+2. "qc", is short for QUR'AN Class aka [Qura'an Tafseer Lecture (QUR'AN Class)](https://www.youtube.com/playlist?list=PLdC3g7t1lPKTHaO-_ZE04Z9h90oye14t-)
 
-The Quran Classes are formatted in the way, where first key represents the surah number and then its child key represents the Ayat number. Then there is JSON object containing the information regarding that ayat i.e. where that ayat was discussed and mentioned.
+The QUR'AN Classes are formatted in the way, where first key represents the surah number and then its child key represents the Ayat number. Then there is JSON object containing the information regarding that ayat i.e. where that ayat was discussed and mentioned.
 
 ```
 "nqc": [ <--- Series Name
