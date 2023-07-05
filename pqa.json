@@ -1,5 +1,340 @@
 [
   {
+    "v": "ebHRulc31to",
+    "title": "082-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (19-Feb-2023)",
+    "publishDate": "2023-07-04T06:00:00.000Z",
+    "uploadDate": "2023-07-04T06:00:00.000Z",
+    "recordingDate": "2023-02-19T06:00:00.000Z",
+    "series": "pqa",
+    "timestamps": [
+      {
+        "other": true,
+        "t": 0,
+        "text": "Start of 082-Public Q & A Session & Meeting (Entry & Introduction)"
+      },
+      {
+        "type": "question",
+        "t": 71,
+        "text": "ATTACK on Islam_360 Founder Zahid Chippa حفظہ اللہ ! QUR'AN Tafseer By Engineer Muhammad Ali Mirza"
+      },
+      {
+        "type": "question",
+        "t": 4633,
+        "text": "kya Pani par Phoonk Maarna Mana hai ???"
+      },
+      {
+        "type": "question",
+        "t": 4659,
+        "text": "kya Azaa e Wazu 3 Dafa Dhona Zaruri hai ???"
+      },
+      {
+        "type": "question",
+        "t": 4697,
+        "text": "kya Beta Apne Baap ko Sharab Peenay se Mana Kar sakta hai ??? ",
+        "references": [
+          {
+            "v": "sUaMFoX0hls",
+            "title": "50-MAJLIS : Interview of Engineer Muhammad Ali Mirza Bhai [ 21-Questions Recorded on 17-Feb-2019 ]",
+            "publishDate": "2019-02-21T00:00:00.000Z",
+            "uploadDate": "2019-02-21T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 4902,
+        "text": "kya Crack Windows aur Software Use karna Haram hai ???"
+      },
+      {
+        "type": "question",
+        "t": 4950,
+        "text": "Agar Har Takleef Taqdeer mein Pehle se Likhi hai to Dua kyun ???",
+        "references": [
+          {
+            "v": "bp7s9UO7c-k",
+            "title": "Taqdeer (Destiny) & Shaitan Vs Insan ??? Pagri & Darhi mein ISLAM ??? By Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-08-27T00:00:00.000Z",
+            "uploadDate": "2022-08-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5302,
+        "text": "Agar kisi ke Dimagh mein Shetani Waswasay Aayen ??? ",
+        "references": [
+          {
+            "v": "XmzSwLU30cI",
+            "title": "SHAITANI Waswason ka ELAJ ??? DIL kay Kheyalat bhi GUNAH kewn hain ??? (Engineer Muhammad Ali Mirza)",
+            "publishDate": "2020-08-27T00:00:00.000Z",
+            "uploadDate": "2020-08-27T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5393,
+        "text": "Ahle Bait mein Kon Konsi Hastiyan Shamil hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5463,
+        "text": "kya Masjid e Aayesha رضی اللہ عنہا \"MEEQAAT\" nehi hai ???"
+      },
+      {
+        "type": "question",
+        "t": 5550,
+        "text": "Agar kisi ke Ghar mein Transgender Paida ho jaye ??? ",
+        "references": [
+          {
+            "v": "hEc7ct7QMsI",
+            "title": "Transgenders in ISLAM ??? 05-Impt. Questions kay Tahqeeqi Answers ! (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2019-10-10T00:00:00.000Z",
+            "uploadDate": "2019-10-10T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5567,
+        "text": "Kya Darood mein Aal e Abbas ke Badshah bhi Shamil hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5647,
+        "text": "Kya Khateeb Khutbay ke Doran Dunyawi Elaan kar sakta hai ???"
+      },
+      {
+        "type": "question",
+        "t": 5706,
+        "text": "Darood \"الصلاۃ والسلام علیک یا رسول اللہ\" kis Kitab mein Aaya hai ???",
+        "references": [
+          {
+            "v": "g4rOsK-obmQ",
+            "title": "Ya RasoolALLAH ﷺ Pukarnay say motalliq Saheh AQEEDAH kia hai ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2017-03-20T00:00:00.000Z",
+            "uploadDate": "2017-03-20T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 5814,
+        "text": "Ek Namaz mein 2 Tarikon se Namaz Parhna, Hath Chor kar aur Baandh kar ???"
+      },
+      {
+        "type": "question",
+        "t": 5853,
+        "text": "kya Bukhari Muslim mein Zaeef Ahadith hein ???"
+      },
+      {
+        "type": "question",
+        "t": 5890,
+        "text": "Mulk se Bahir Biwi Bachon se Door Rehna Kaisa ???"
+      },
+      {
+        "type": "question",
+        "t": 5939,
+        "text": "Masjid se Bahir Sadak par Jumma ki Namaz Parhna ???"
+      },
+      {
+        "type": "question",
+        "t": 5992,
+        "text": "jo Shakhs Ikathi 3 Talaq Deta hai Uska Kaffara kya hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6015,
+        "text": "Betiyon aur Behno ko Wirasat mein Hissa Na Dena ???"
+      },
+      {
+        "type": "question",
+        "t": 6063,
+        "text": "Kya Nabi ﷺ ne Mayyat par NOHA karne se Mana Farmaya hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6161,
+        "text": "Islam mein Wajd ki kya Haisiyat hai ??? ",
+        "references": [
+          {
+            "v": "1sBtu7mCcYw",
+            "title": "Current Shah & Ziker-e-Qalbi ??? Ziker-e-Khafi & Ziker-e-Jaheri ??? (By Engineer Muhammad Ali Mirza)",
+            "publishDate": "2020-09-29T00:00:00.000Z",
+            "uploadDate": "2020-09-29T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 6254,
+        "text": "kya Janazay ke Ehtraam mein Khara hona Lazim hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6304,
+        "text": "Surah Fateha Parhay Baghair Ruku mein Jane se Rakat Adaa ho jati hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6347,
+        "text": "Mayyat ka Qul Chaliswan karne se Rokne par log kehte hein \"Mar gya Mardood, Na Fateha na Darood\" ??? https://youtu.be/-rukPV_LFwE"
+      },
+      {
+        "type": "question",
+        "t": 6564,
+        "text": "Chilla Kaatna aur kya JINN Qabu kiye ja sakte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 6716,
+        "text": "kya Barelviyon ke Madrissay mein Dars e Nazami kar sakte hein ???"
+      },
+      {
+        "type": "question",
+        "t": 6875,
+        "text": "kya Rajjab ki 27 Tareekh ko Shab e Meraj Sabit hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6921,
+        "text": "kya TikTok par Acount banana aur apni Pic par Filter lagana Jaiz hai ???"
+      },
+      {
+        "type": "question",
+        "t": 6960,
+        "text": "Kya Shadi par Dhol Bajana aur Paise Lutana Jaiz hai ??? ",
+        "references": [
+          {
+            "v": "74ITTcvJnFg",
+            "title": "MUSIC peh Islamic Rulings ??? SONG or NAAT with Musical Instruments ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-05-29",
+            "uploadDate": "2022-05-29"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7021,
+        "text": "kya Sirf Musalmano ke Ghar Paida hone wala hi Jannat mein Jaye ga ???"
+      },
+      {
+        "type": "question",
+        "t": 7182,
+        "text": "kya Jisam ke Kisi bhi Hissay peh Sharamgaah Lagne se Wazu Toot jata hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7203,
+        "text": "Shia Sayyid aur Sadaat mein kya Farq hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7233,
+        "text": "Kya Aurat Beauty Parlour ka Kaam kar Sakti hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7265,
+        "text": "Agar Qabar mein Azab ho to Aakhrat mein Dobara Azab Hoga ???"
+      },
+      {
+        "type": "question",
+        "t": 7334,
+        "text": "Esa علیہ السلام ka Wapas Duniya mein Nazool ??? ",
+        "references": [
+          {
+            "v": "WK8pozi1BB0",
+            "title": "Hazrat ESA عليہ السلام ki HAYAT aur NUZOOL ??? Reply to GHAMIDI حفظہ اللہ (Engr. Muhammad Ali Mirza)",
+            "publishDate": "2020-10-11T00:00:00.000Z",
+            "uploadDate": "2020-10-11T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7372,
+        "text": "Kufar ki kya Definition hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7431,
+        "text": "Saudia ke Khilaf e Sunnat Qanoon ki Khilaf Warzi ki ja Sakti hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7580,
+        "text": "kya Mandir aur Church Banane wali Construction Company mein Kaam kiya ja sakta hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7598,
+        "text": "kya TV Commercials mein Kaam karna jaiz hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7632,
+        "text": "Wahabi Neyaz kyun Nehi Khatay ???"
+      },
+      {
+        "type": "question",
+        "t": 7687,
+        "text": "kya Hindu ko Qabar ka Azab nehi Hoga ???"
+      },
+      {
+        "type": "question",
+        "t": 7739,
+        "text": "Jurab par Masah karne wale Imam ke Peechay Namaz ??? ",
+        "references": [
+          {
+            "v": "EyO4588yTtk",
+            "title": "Kia JURABON (Socks) peh MASAH kerna SUNNAT hai ??? Reply to Hanafi ULMA ! (Engr. Muhammad Ali Mirza)",
+            "publishDate": "2019-02-20T00:00:00.000Z",
+            "uploadDate": "2019-02-20T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 7802,
+        "text": "Quran mein اولی الامر منکم se Murad kon Log hein ???"
+      },
+      {
+        "type": "question",
+        "t": 7827,
+        "text": "kya Ashraf Ali Thanvi nei Apne Naam ka Kalma Parhaya tha ???"
+      },
+      {
+        "type": "question",
+        "t": 7848,
+        "text": "Kya Sahaba ki Ghaltiyan Batana Sahi hai ???"
+      },
+      {
+        "type": "question",
+        "t": 7996,
+        "text": "Aqamat e Deen Kaise Ho Sakti hai ??? ",
+        "references": [
+          {
+            "v": "ACccpDXN2Rg",
+            "title": "KHELAFAT ka System in Pakistan ??? Bitter FACTS about Today's MUSLIM ??? Engineer Muhammad Ali Mirza",
+            "publishDate": "2022-02-19T00:00:00.000Z",
+            "uploadDate": "2022-02-19T00:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "type": "question",
+        "t": 8370,
+        "text": "Ali Bhai ke Video Clips Har Topic peh Mojood hein ???"
+      },
+      {
+        "other": true,
+        "t": 8652,
+        "text": "DUAA and Conclusion of Public Q & A Session 012-Public Q & A Session"
+      }
+    ]
+  },
+  {
     "v": "8cCXyfAUUEo",
     "title": "081-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai (12-Feb-2023)",
     "publishDate": "2023-06-22T06:00:00.000Z",
